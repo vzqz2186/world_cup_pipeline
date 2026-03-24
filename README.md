@@ -1,22 +1,27 @@
 # FIFA World Cup Data Scrapper Project
 
-This program scraps online tables and data related to the rosters, teams, and fixtures from the FIFA World Cup. This is an ongoing project that I'm working on ahead of the 2022 World Cup hosted in Qatar in November. At this time, the Python script pulls data for participating players, tournament group, and fixtures for the World Cups hosted between 2002 and 2018. All data is scrapped from the tournament's respective Wikipedia entries. Since the HTML is already very standardized, it allows for all functions to be reused, making small tweaks to them for particular ocations.
+This program scrapes data from FIFA World Cup tournaments from 2002 to 2022 from their respective Wikipedia entries. The Python script pulls data for participating players, tournament group and team stats, and fixtures. It then cleans up the data and organizes them into 3 clean data sets:
+
+- **squads_ds** contains the rosters of all participating teams, as well as player information.
+- **matches_ds** contains match information from all stages of the tournament.
+- **groups_ds** contains groups and team stats information such as wins, losses, goal difference, points, etc...
 
 The program follows the following procedure:
 
     1. Access the html code for the websites to scrap using the BeautifulSoup libraries.
-    2. Scrap different data from tables and other places from the html code to fill lists to be used
-       in completing pandas dataframes. The tables contain information on:
+    2. Scrap different data from tables and lists in the html code to fill lists used 
+       from completing pandas dataframes. The tables contain information on:
 
         a. Team groups
         b. Participating countries
         c. Players' birthdays
         d. Match locations
         e. Players' birthdays
-        f. Match dates
+        f. Match dates and times
         g. Match results
         h. Match home and away sides
-        i. Match groups and stages.
+        i. Match groups and stages
+        j. Penalty results
 
     3. Save all scrapped dataframes to csv files.
     
