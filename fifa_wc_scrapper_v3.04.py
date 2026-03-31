@@ -86,8 +86,6 @@ def main(): # -----------------------------------------------------------------
      # Save datasets to CSV files
      save_to_csvs(rosters_ds, groups_ds, matches_ds)
 
-     print('Done')
-
 def get_wc_data(year):
 
     wc_squads_url = f"https://en.wikipedia.org/wiki/{year}_FIFA_World_Cup_squads"
@@ -399,5 +397,7 @@ def save_to_csvs(rosters_ds, groups_ds, matches_ds):
                 index = False, encoding = 'utf-8-sig')
      matches_ds.to_csv(os.path.join(csv_path,'FIFA_wc_matches.csv'),
                  index = False, encoding = 'utf-8-sig')
+
+     print('CSVs saved.')
 
 main()
