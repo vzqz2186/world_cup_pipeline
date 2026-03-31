@@ -408,6 +408,6 @@ def matches_scraper(soup2, matches, edition, matches_ds): # -------------------
     # Replace Spacial dash with regular dash
     df['Score'] = df['Score'].str.replace(r'[\u2013\u2014]', '-', regex = True)
 
-    matches_ds.append(df)
+    matches_ds.append(df) # Add this df to the data set
 
 main()
