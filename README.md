@@ -1,40 +1,57 @@
-# FIFA World Cup Data Scrapper Project
+# FIFA World Cup Data Scraper
 
-This program scrapes data from FIFA World Cup tournaments from 2002 to 2022 from their respective Wikipedia entries. The Python script pulls data for participating players, tournament group and team stats, and fixtures. It then cleans up the data and organizes them into 3 clean data sets:
+Author: Daniel Vazquez
 
-- **squads_ds** contains the rosters of all participating teams, as well as player information.
-- **matches_ds** contains match information from all stages of the tournament.
-- **groups_ds** contains groups and team stats information such as wins, losses, goal difference, points, etc...
+Version: 3.03
 
-The program follows the following procedure:
+A robust Python-based web scraper designed to extract comprehensive historical data from FIFA World Cup tournaments (currently supporting 2002–2022). The script targets Wikipedia’s highly organized football entry pages to build structured datasets for sports analysis, machine learning, or historical record-keeping.
 
-    1. Access the html code for the websites to scrap using the BeautifulSoup libraries.
-    2. Scrap different data from tables and lists in the html code to fill lists used 
-       from completing pandas dataframes. The tables contain information on:
+The scraper also fixes inconsistent table structures across different years, special Unicode characters in scores, and varying squad sizes.
 
-        a. Team groups
-        b. Participating countries
-        c. Players' birthdays
-        d. Match locations
-        e. Players' birthdays
-        f. Match dates and times
-        g. Match results
-        h. Match home and away sides
-        i. Match groups and stages
-        j. Penalty results
+## Extracted Data
 
-    3. Save all scrapped dataframes to csv files.
-    
-After scrapping the data, SQL is used to clean the obtained tables. The changes are the following:
+Three data sets are generated from this script:
 
-    1. Calculate the players' age at the start of the tournament and create a new column to store that data.
-    2. Separate the 'captain' label from certain players' names and create a column detailing which players
-       are team captains.
-    3. Replace the abbreviations in the 'Pos' field with the full names of the player positions.
-    4. Separate the goals in 'Result' field into their own columns and add a new column to label the match
-       winner.
-    5. Add a column that flags games that had a penalty kick round.
+1. **squads_ds**: Full rosters including Player Name, Position, Age, Date of Birth, Captaincy status, Club, and Goals.
+2. **groups_ds**: Group stage standings, points, goal differences, and qualification status (including Fair Play Points logic).
+3. **matches_ds**: Detailed match results including:
+    - Home/Away teams and scores.
+    - Match Stage (Group, Round of 16, etc.).
+    - Attendance, Stadium Location, and Referees.
+    - Special outcomes: Extra Time (a.e.t.), Golden Goals (g.g.), and Penalty
+      Shootout results.
 
-All files (csv's and scripts) are in the files section of this page. The following tasks are also planned to add to the project.
-- Scrap data for match location and date.
-- Scrap penalty kick scores.
+## Tech Features
+
+- **BeautifulSoup4 & CSS Selectors:** Utilizes precise pathing to extract data nested within complex Wikipedia templates.
+- **Regex Data Cleaning:**
+    - Extracts numeric scores from text (e.g., "3–1").
+    - Cleans Unicode "En Dashes" (\u2013) and "Em Dashes" (\u2014) into standard ASCII hyphens.
+    - Separates Captain status and Age from raw strings.
+- **Advanced Logic:** Calculates a definitive Winner column by comparing regular-time scores and, if necessary, penalty shootout results.
+- **Scalability:** Modular loop structure that iterates through tournament editions, making it easy to add future or older tournaments.
+
+## Getting started
+
+**Prerequisites**
+
+Ensure Python 3.x is installed along with the following libraries:
+- beautifulsoup4
+- requests
+- pandas
+- numpy
+
+**File Structure**
+
+The script automatically organizes its output.
+
+**Usage**
+
+Simply run the script. The console will provide real-time updates as it processes each tournament edition.
+
+## Roadmap / To-Do
+
+- Add 1998 edition.
+- Add function to automate upload to a SQL Server database.
+- Add support for the expanded 8-team 2026 format.
+- Add support for Early Era (1930-1950) and Classic Era (1954-1994) editions.
