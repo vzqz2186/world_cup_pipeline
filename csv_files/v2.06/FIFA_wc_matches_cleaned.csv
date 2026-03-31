@@ -1,0 +1,321 @@
+﻿Tournament,Stage,Tgroup,Home,Home_Score,Away_Score,Away,Winner,PKs
+Korea/Japan 2002,Group stage,Group A,France,0,1,Senegal,Senegal,N/A
+Korea/Japan 2002,Group stage,Group A,Uruguay,1,2,Denmark,Denmark,N/A
+Korea/Japan 2002,Group stage,Group A,Denmark,1,1,Senegal,Tie,N/A
+Korea/Japan 2002,Group stage,Group A,France,0,0,Uruguay,Tie,N/A
+Korea/Japan 2002,Group stage,Group A,Denmark,2,0,France,Denmark,N/A
+Korea/Japan 2002,Group stage,Group A,Senegal,3,3,Uruguay,Tie,N/A
+Korea/Japan 2002,Group stage,Group B,Paraguay,2,2,South Africa,Tie,N/A
+Korea/Japan 2002,Group stage,Group B,Spain,3,1,Slovenia,Spain,N/A
+Korea/Japan 2002,Group stage,Group B,Spain,3,1,Paraguay,Spain,N/A
+Korea/Japan 2002,Group stage,Group B,South Africa,1,0,Slovenia,South Africa,N/A
+Korea/Japan 2002,Group stage,Group B,South Africa,2,3,Spain,Spain,N/A
+Korea/Japan 2002,Group stage,Group B,Slovenia,1,3,Paraguay,Paraguay,N/A
+Korea/Japan 2002,Group stage,Group C,Brazil,2,1,Turkey,Brazil,N/A
+Korea/Japan 2002,Group stage,Group C,China PR,0,2,Costa Rica,Costa Rica,N/A
+Korea/Japan 2002,Group stage,Group C,Brazil,4,0,China PR,Brazil,N/A
+Korea/Japan 2002,Group stage,Group C,Costa Rica,1,1,Turkey,Tie,N/A
+Korea/Japan 2002,Group stage,Group C,Costa Rica,2,5,Brazil,Brazil,N/A
+Korea/Japan 2002,Group stage,Group C,Turkey,3,0,China PR,Turkey,N/A
+Korea/Japan 2002,Group stage,Group D,South Korea,2,0,Poland,South Korea,N/A
+Korea/Japan 2002,Group stage,Group D,United States,3,2,Portugal,United States,N/A
+Korea/Japan 2002,Group stage,Group D,South Korea,1,1,United States,Tie,N/A
+Korea/Japan 2002,Group stage,Group D,Portugal,4,0,Poland,Portugal,N/A
+Korea/Japan 2002,Group stage,Group D,Portugal,0,1,South Korea,South Korea,N/A
+Korea/Japan 2002,Group stage,Group D,Poland,3,1,United States,Poland,N/A
+Korea/Japan 2002,Group stage,Group E,Republic of Ireland,1,1,Cameroon,Tie,N/A
+Korea/Japan 2002,Group stage,Group E,Germany,8,0,Saudi Arabia,Germany,N/A
+Korea/Japan 2002,Group stage,Group E,Germany,1,1,Republic of Ireland,Tie,N/A
+Korea/Japan 2002,Group stage,Group E,Cameroon,1,0,Saudi Arabia,Cameroon,N/A
+Korea/Japan 2002,Group stage,Group E,Cameroon,0,2,Germany,Germany,N/A
+Korea/Japan 2002,Group stage,Group E,Saudi Arabia,0,3,Republic of Ireland,Republic of Ireland,N/A
+Korea/Japan 2002,Group stage,Group F,Argentina,1,0,Nigeria,Argentina,N/A
+Korea/Japan 2002,Group stage,Group F,England,1,1,Sweden,Tie,N/A
+Korea/Japan 2002,Group stage,Group F,Sweden,2,1,Nigeria,Sweden,N/A
+Korea/Japan 2002,Group stage,Group F,Argentina,0,1,England,England,N/A
+Korea/Japan 2002,Group stage,Group F,Sweden,1,1,Argentina,Tie,N/A
+Korea/Japan 2002,Group stage,Group F,Nigeria,0,0,England,Tie,N/A
+Korea/Japan 2002,Group stage,Group G,Croatia,0,1,Mexico,Mexico,N/A
+Korea/Japan 2002,Group stage,Group G,Italy,2,0,Ecuador,Italy,N/A
+Korea/Japan 2002,Group stage,Group G,Italy,1,2,Croatia,Croatia,N/A
+Korea/Japan 2002,Group stage,Group G,Mexico,2,1,Ecuador,Mexico,N/A
+Korea/Japan 2002,Group stage,Group G,Mexico,1,1,Italy,Tie,N/A
+Korea/Japan 2002,Group stage,Group G,Ecuador,1,0,Croatia,Ecuador,N/A
+Korea/Japan 2002,Group stage,Group H,Japan,2,2,Belgium,Tie,N/A
+Korea/Japan 2002,Group stage,Group H,Russia,2,0,Tunisia,Russia,N/A
+Korea/Japan 2002,Group stage,Group H,Japan,1,0,Russia,Japan,N/A
+Korea/Japan 2002,Group stage,Group H,Tunisia,1,1,Belgium,Tie,N/A
+Korea/Japan 2002,Group stage,Group H,Tunisia,0,2,Japan,Japan,N/A
+Korea/Japan 2002,Group stage,Group H,Belgium,3,2,Russia,Belgium,N/A
+Korea/Japan 2002,Round of 16,N/A,Germany,1,0,Paraguay,Germany,N/A
+Korea/Japan 2002,Round of 16,N/A,Denmark,0,3,England,England,N/A
+Korea/Japan 2002,Round of 16,N/A,Sweden,1,2,Senegal,Senegal,N/A
+Korea/Japan 2002,Round of 16,N/A,Spain,1,1,Republic of Ireland,Tie,Yes
+Korea/Japan 2002,Round of 16,N/A,Mexico,0,2,United States,United States,N/A
+Korea/Japan 2002,Round of 16,N/A,Brazil,2,0,Belgium,Brazil,N/A
+Korea/Japan 2002,Round of 16,N/A,Japan,0,1,Turkey,Turkey,N/A
+Korea/Japan 2002,Round of 16,N/A,South Korea,2,1,Italy,South Korea,N/A
+Korea/Japan 2002,Quarter-finals,N/A,England,1,2,Brazil,Brazil,N/A
+Korea/Japan 2002,Quarter-finals,N/A,Germany,1,0,United States,Germany,N/A
+Korea/Japan 2002,Quarter-finals,N/A,Spain,0,0,South Korea,Tie,Yes
+Korea/Japan 2002,Quarter-finals,N/A,Senegal,0,1,Turkey,Turkey,N/A
+Korea/Japan 2002,Semi-finals,N/A,Germany,1,0,South Korea,Germany,N/A
+Korea/Japan 2002,Semi-finals,N/A,Brazil,1,0,Turkey,Brazil,N/A
+Korea/Japan 2002,Third place play-off,N/A,South Korea,2,3,Turkey,Turkey,N/A
+Korea/Japan 2002,Final,N/A,Germany,0,2,Brazil,Brazil,N/A
+Germany 2006,Group stage,Group A,Germany,4,2,Costa Rica,Germany,N/A
+Germany 2006,Group stage,Group A,Poland,0,2,Ecuador,Ecuador,N/A
+Germany 2006,Group stage,Group A,Germany,1,0,Poland,Germany,N/A
+Germany 2006,Group stage,Group A,Ecuador,3,0,Costa Rica,Ecuador,N/A
+Germany 2006,Group stage,Group A,Ecuador,0,3,Germany,Germany,N/A
+Germany 2006,Group stage,Group A,Costa Rica,1,2,Poland,Poland,N/A
+Germany 2006,Group stage,Group B,England,1,0,Paraguay,England,N/A
+Germany 2006,Group stage,Group B,Trinidad and Tobago,0,0,Sweden,Tie,N/A
+Germany 2006,Group stage,Group B,England,2,0,Trinidad and Tobago,England,N/A
+Germany 2006,Group stage,Group B,Sweden,1,0,Paraguay,Sweden,N/A
+Germany 2006,Group stage,Group B,Sweden,2,2,England,Tie,N/A
+Germany 2006,Group stage,Group B,Paraguay,2,0,Trinidad and Tobago,Paraguay,N/A
+Germany 2006,Group stage,Group C,Argentina,2,1,Ivory Coast,Argentina,N/A
+Germany 2006,Group stage,Group C,Serbia and Montenegro,0,1,Netherlands,Netherlands,N/A
+Germany 2006,Group stage,Group C,Argentina,6,0,Serbia and Montenegro,Argentina,N/A
+Germany 2006,Group stage,Group C,Netherlands,2,1,Ivory Coast,Netherlands,N/A
+Germany 2006,Group stage,Group C,Netherlands,0,0,Argentina,Tie,N/A
+Germany 2006,Group stage,Group C,Ivory Coast,3,2,Serbia and Montenegro,Ivory Coast,N/A
+Germany 2006,Group stage,Group D,Mexico,3,1,Iran,Mexico,N/A
+Germany 2006,Group stage,Group D,Angola,0,1,Portugal,Portugal,N/A
+Germany 2006,Group stage,Group D,Mexico,0,0,Angola,Tie,N/A
+Germany 2006,Group stage,Group D,Portugal,2,0,Iran,Portugal,N/A
+Germany 2006,Group stage,Group D,Portugal,2,1,Mexico,Portugal,N/A
+Germany 2006,Group stage,Group D,Iran,1,1,Angola,Tie,N/A
+Germany 2006,Group stage,Group E,United States,0,3,Czech Republic,Czech Republic,N/A
+Germany 2006,Group stage,Group E,Italy,2,0,Ghana,Italy,N/A
+Germany 2006,Group stage,Group E,Czech Republic,0,2,Ghana,Ghana,N/A
+Germany 2006,Group stage,Group E,Italy,1,1,United States,Tie,N/A
+Germany 2006,Group stage,Group E,Czech Republic,0,2,Italy,Italy,N/A
+Germany 2006,Group stage,Group E,Ghana,2,1,United States,Ghana,N/A
+Germany 2006,Group stage,Group F,Australia,3,1,Japan,Australia,N/A
+Germany 2006,Group stage,Group F,Brazil,1,0,Croatia,Brazil,N/A
+Germany 2006,Group stage,Group F,Japan,0,0,Croatia,Tie,N/A
+Germany 2006,Group stage,Group F,Brazil,2,0,Australia,Brazil,N/A
+Germany 2006,Group stage,Group F,Japan,1,4,Brazil,Brazil,N/A
+Germany 2006,Group stage,Group F,Croatia,2,2,Australia,Tie,N/A
+Germany 2006,Group stage,Group G,South Korea,2,1,Togo,South Korea,N/A
+Germany 2006,Group stage,Group G,France,0,0,Switzerland,Tie,N/A
+Germany 2006,Group stage,Group G,France,1,1,South Korea,Tie,N/A
+Germany 2006,Group stage,Group G,Togo,0,2,Switzerland,Switzerland,N/A
+Germany 2006,Group stage,Group G,Togo,0,2,France,France,N/A
+Germany 2006,Group stage,Group G,Switzerland,2,0,South Korea,Switzerland,N/A
+Germany 2006,Group stage,Group H,Spain,4,0,Ukraine,Spain,N/A
+Germany 2006,Group stage,Group H,Tunisia,2,2,Saudi Arabia,Tie,N/A
+Germany 2006,Group stage,Group H,Saudi Arabia,0,4,Ukraine,Ukraine,N/A
+Germany 2006,Group stage,Group H,Spain,3,1,Tunisia,Spain,N/A
+Germany 2006,Group stage,Group H,Saudi Arabia,0,1,Spain,Spain,N/A
+Germany 2006,Group stage,Group H,Ukraine,1,0,Tunisia,Ukraine,N/A
+Germany 2006,Round of 16,N/A,Germany,2,0,Sweden,Germany,N/A
+Germany 2006,Round of 16,N/A,Argentina,2,1,Mexico,Argentina,N/A
+Germany 2006,Round of 16,N/A,England,1,0,Ecuador,England,N/A
+Germany 2006,Round of 16,N/A,Portugal,1,0,Netherlands,Portugal,N/A
+Germany 2006,Round of 16,N/A,Italy,1,0,Australia,Italy,N/A
+Germany 2006,Round of 16,N/A,Switzerland,0,0,Ukraine,Tie,Yes
+Germany 2006,Round of 16,N/A,Brazil,3,0,Ghana,Brazil,N/A
+Germany 2006,Round of 16,N/A,Spain,1,3,France,France,N/A
+Germany 2006,Quarter-finals,N/A,Germany,1,1,Argentina,Tie,Yes
+Germany 2006,Quarter-finals,N/A,Italy,3,0,Ukraine,Italy,N/A
+Germany 2006,Quarter-finals,N/A,England,0,0,Portugal,Tie,Yes
+Germany 2006,Quarter-finals,N/A,Brazil,0,1,France,France,N/A
+Germany 2006,Semi-finals,N/A,Germany,0,2,Italy,Italy,N/A
+Germany 2006,Semi-finals,N/A,Portugal,0,1,France,France,N/A
+Germany 2006,Third place play-off,N/A,Germany,3,1,Portugal,Germany,N/A
+Germany 2006,Final,N/A,Italy,1,1,France,Tie,Yes
+South Africa 2010,Group stage,Group A,South Africa,1,1,Mexico,Tie,N/A
+South Africa 2010,Group stage,Group A,Uruguay,0,0,France,Tie,N/A
+South Africa 2010,Group stage,Group A,South Africa,0,3,Uruguay,Uruguay,N/A
+South Africa 2010,Group stage,Group A,France,0,2,Mexico,Mexico,N/A
+South Africa 2010,Group stage,Group A,Mexico,0,1,Uruguay,Uruguay,N/A
+South Africa 2010,Group stage,Group A,France,1,2,South Africa,South Africa,N/A
+South Africa 2010,Group stage,Group B,South Korea,2,0,Greece,South Korea,N/A
+South Africa 2010,Group stage,Group B,Argentina,1,0,Nigeria,Argentina,N/A
+South Africa 2010,Group stage,Group B,Argentina,4,1,South Korea,Argentina,N/A
+South Africa 2010,Group stage,Group B,Greece,2,1,Nigeria,Greece,N/A
+South Africa 2010,Group stage,Group B,Nigeria,2,2,South Korea,Tie,N/A
+South Africa 2010,Group stage,Group B,Greece,0,2,Argentina,Argentina,N/A
+South Africa 2010,Group stage,Group C,England,1,1,United States,Tie,N/A
+South Africa 2010,Group stage,Group C,Algeria,0,1,Slovenia,Slovenia,N/A
+South Africa 2010,Group stage,Group C,Slovenia,2,2,United States,Tie,N/A
+South Africa 2010,Group stage,Group C,England,0,0,Algeria,Tie,N/A
+South Africa 2010,Group stage,Group C,Slovenia,0,1,England,England,N/A
+South Africa 2010,Group stage,Group C,United States,1,0,Algeria,United States,N/A
+South Africa 2010,Group stage,Group D,Serbia,0,1,Ghana,Ghana,N/A
+South Africa 2010,Group stage,Group D,Germany,4,0,Australia,Germany,N/A
+South Africa 2010,Group stage,Group D,Germany,0,1,Serbia,Serbia,N/A
+South Africa 2010,Group stage,Group D,Ghana,1,1,Australia,Tie,N/A
+South Africa 2010,Group stage,Group D,Ghana,0,1,Germany,Germany,N/A
+South Africa 2010,Group stage,Group D,Australia,2,1,Serbia,Australia,N/A
+South Africa 2010,Group stage,Group E,Netherlands,2,0,Denmark,Netherlands,N/A
+South Africa 2010,Group stage,Group E,Japan,1,0,Cameroon,Japan,N/A
+South Africa 2010,Group stage,Group E,Netherlands,1,0,Japan,Netherlands,N/A
+South Africa 2010,Group stage,Group E,Cameroon,1,2,Denmark,Denmark,N/A
+South Africa 2010,Group stage,Group E,Denmark,1,3,Japan,Japan,N/A
+South Africa 2010,Group stage,Group E,Cameroon,1,2,Netherlands,Netherlands,N/A
+South Africa 2010,Group stage,Group F,Italy,1,1,Paraguay,Tie,N/A
+South Africa 2010,Group stage,Group F,New Zealand,1,1,Slovakia,Tie,N/A
+South Africa 2010,Group stage,Group F,Slovakia,0,2,Paraguay,Paraguay,N/A
+South Africa 2010,Group stage,Group F,Italy,1,1,New Zealand,Tie,N/A
+South Africa 2010,Group stage,Group F,Slovakia,3,2,Italy,Slovakia,N/A
+South Africa 2010,Group stage,Group F,Paraguay,0,0,New Zealand,Tie,N/A
+South Africa 2010,Group stage,Group G,Ivory Coast,0,0,Portugal,Tie,N/A
+South Africa 2010,Group stage,Group G,Brazil,2,1,North Korea,Brazil,N/A
+South Africa 2010,Group stage,Group G,Brazil,3,1,Ivory Coast,Brazil,N/A
+South Africa 2010,Group stage,Group G,Portugal,7,0,North Korea,Portugal,N/A
+South Africa 2010,Group stage,Group G,Portugal,0,0,Brazil,Tie,N/A
+South Africa 2010,Group stage,Group G,North Korea,0,3,Ivory Coast,Ivory Coast,N/A
+South Africa 2010,Group stage,Group H,Honduras,0,1,Chile,Chile,N/A
+South Africa 2010,Group stage,Group H,Spain,0,1,Switzerland,Switzerland,N/A
+South Africa 2010,Group stage,Group H,Chile,1,0,Switzerland,Chile,N/A
+South Africa 2010,Group stage,Group H,Spain,2,0,Honduras,Spain,N/A
+South Africa 2010,Group stage,Group H,Chile,1,2,Spain,Spain,N/A
+South Africa 2010,Group stage,Group H,Switzerland,0,0,Honduras,Tie,N/A
+South Africa 2010,Round of 16,N/A,Uruguay,2,1,South Korea,Uruguay,N/A
+South Africa 2010,Round of 16,N/A,United States,1,2,Ghana,Ghana,N/A
+South Africa 2010,Round of 16,N/A,Germany,4,1,England,Germany,N/A
+South Africa 2010,Round of 16,N/A,Argentina,3,1,Mexico,Argentina,N/A
+South Africa 2010,Round of 16,N/A,Netherlands,2,1,Slovakia,Netherlands,N/A
+South Africa 2010,Round of 16,N/A,Brazil,3,0,Chile,Brazil,N/A
+South Africa 2010,Round of 16,N/A,Paraguay,0,0,Japan,Tie,Yes
+South Africa 2010,Round of 16,N/A,Spain,1,0,Portugal,Spain,N/A
+South Africa 2010,Quarter-finals,N/A,Netherlands,2,1,Brazil,Netherlands,N/A
+South Africa 2010,Quarter-finals,N/A,Uruguay,1,1,Ghana,Tie,Yes
+South Africa 2010,Quarter-finals,N/A,Argentina,0,4,Germany,Germany,N/A
+South Africa 2010,Quarter-finals,N/A,Paraguay,0,1,Spain,Spain,N/A
+South Africa 2010,Semi-finals,N/A,Uruguay,2,3,Netherlands,Netherlands,N/A
+South Africa 2010,Semi-finals,N/A,Germany,0,1,Spain,Spain,N/A
+South Africa 2010,Third place play-off,N/A,Uruguay,2,3,Germany,Germany,N/A
+South Africa 2010,Final,N/A,Netherlands,0,1,Spain,Spain,N/A
+Brazil 2014,Group stage,Group A,Brazil,3,1,Croatia,Brazil,N/A
+Brazil 2014,Group stage,Group A,Mexico,1,0,Cameroon,Mexico,N/A
+Brazil 2014,Group stage,Group A,Brazil,0,0,Mexico,Tie,N/A
+Brazil 2014,Group stage,Group A,Cameroon,0,4,Croatia,Croatia,N/A
+Brazil 2014,Group stage,Group A,Cameroon,1,4,Brazil,Brazil,N/A
+Brazil 2014,Group stage,Group A,Croatia,1,3,Mexico,Mexico,N/A
+Brazil 2014,Group stage,Group B,Spain,1,5,Netherlands,Netherlands,N/A
+Brazil 2014,Group stage,Group B,Chile,3,1,Australia,Chile,N/A
+Brazil 2014,Group stage,Group B,Australia,2,3,Netherlands,Netherlands,N/A
+Brazil 2014,Group stage,Group B,Spain,0,2,Chile,Chile,N/A
+Brazil 2014,Group stage,Group B,Australia,0,3,Spain,Spain,N/A
+Brazil 2014,Group stage,Group B,Netherlands,2,0,Chile,Netherlands,N/A
+Brazil 2014,Group stage,Group C,Colombia,3,0,Greece,Colombia,N/A
+Brazil 2014,Group stage,Group C,Ivory Coast,2,1,Japan,Ivory Coast,N/A
+Brazil 2014,Group stage,Group C,Colombia,2,1,Ivory Coast,Colombia,N/A
+Brazil 2014,Group stage,Group C,Japan,0,0,Greece,Tie,N/A
+Brazil 2014,Group stage,Group C,Japan,1,4,Colombia,Colombia,N/A
+Brazil 2014,Group stage,Group C,Greece,2,1,Ivory Coast,Greece,N/A
+Brazil 2014,Group stage,Group D,Uruguay,1,3,Costa Rica,Costa Rica,N/A
+Brazil 2014,Group stage,Group D,England,1,2,Italy,Italy,N/A
+Brazil 2014,Group stage,Group D,Uruguay,2,1,England,Uruguay,N/A
+Brazil 2014,Group stage,Group D,Italy,0,1,Costa Rica,Costa Rica,N/A
+Brazil 2014,Group stage,Group D,Italy,0,1,Uruguay,Uruguay,N/A
+Brazil 2014,Group stage,Group D,Costa Rica,0,0,England,Tie,N/A
+Brazil 2014,Group stage,Group E,Switzerland,2,1,Ecuador,Switzerland,N/A
+Brazil 2014,Group stage,Group E,France,3,0,Honduras,France,N/A
+Brazil 2014,Group stage,Group E,Switzerland,2,5,France,France,N/A
+Brazil 2014,Group stage,Group E,Honduras,1,2,Ecuador,Ecuador,N/A
+Brazil 2014,Group stage,Group E,Honduras,0,3,Switzerland,Switzerland,N/A
+Brazil 2014,Group stage,Group E,Ecuador,0,0,France,Tie,N/A
+Brazil 2014,Group stage,Group F,Argentina,2,1,Bosnia and Herzegovina,Argentina,N/A
+Brazil 2014,Group stage,Group F,Iran,0,0,Nigeria,Tie,N/A
+Brazil 2014,Group stage,Group F,Argentina,1,0,Iran,Argentina,N/A
+Brazil 2014,Group stage,Group F,Nigeria,1,0,Bosnia and Herzegovina,Nigeria,N/A
+Brazil 2014,Group stage,Group F,Nigeria,2,3,Argentina,Argentina,N/A
+Brazil 2014,Group stage,Group F,Bosnia and Herzegovina,3,1,Iran,Bosnia and Herzegovina,N/A
+Brazil 2014,Group stage,Group G,Germany,4,0,Portugal,Germany,N/A
+Brazil 2014,Group stage,Group G,Ghana,1,2,United States,United States,N/A
+Brazil 2014,Group stage,Group G,Germany,2,2,Ghana,Tie,N/A
+Brazil 2014,Group stage,Group G,United States,2,2,Portugal,Tie,N/A
+Brazil 2014,Group stage,Group G,United States,0,1,Germany,Germany,N/A
+Brazil 2014,Group stage,Group G,Portugal,2,1,Ghana,Portugal,N/A
+Brazil 2014,Group stage,Group H,Belgium,2,1,Algeria,Belgium,N/A
+Brazil 2014,Group stage,Group H,Russia,1,1,South Korea,Tie,N/A
+Brazil 2014,Group stage,Group H,Belgium,1,0,Russia,Belgium,N/A
+Brazil 2014,Group stage,Group H,South Korea,2,4,Algeria,Algeria,N/A
+Brazil 2014,Group stage,Group H,South Korea,0,1,Belgium,Belgium,N/A
+Brazil 2014,Group stage,Group H,Algeria,1,1,Russia,Tie,N/A
+Brazil 2014,Round of 16,N/A,Brazil,1,1,Chile,Tie,Yes
+Brazil 2014,Round of 16,N/A,Colombia,2,0,Uruguay,Colombia,N/A
+Brazil 2014,Round of 16,N/A,Netherlands,2,1,Mexico,Netherlands,N/A
+Brazil 2014,Round of 16,N/A,Costa Rica,1,1,Greece,Tie,Yes
+Brazil 2014,Round of 16,N/A,France,2,0,Nigeria,France,N/A
+Brazil 2014,Round of 16,N/A,Germany,2,1,Algeria,Germany,N/A
+Brazil 2014,Round of 16,N/A,Argentina,1,0,Switzerland,Argentina,N/A
+Brazil 2014,Round of 16,N/A,Belgium,2,1,United States,Belgium,N/A
+Brazil 2014,Quarter-finals,N/A,France,0,1,Germany,Germany,N/A
+Brazil 2014,Quarter-finals,N/A,Brazil,2,1,Colombia,Brazil,N/A
+Brazil 2014,Quarter-finals,N/A,Argentina,1,0,Belgium,Argentina,N/A
+Brazil 2014,Quarter-finals,N/A,Netherlands,0,0,Costa Rica,Tie,Yes
+Brazil 2014,Semi-finals,N/A,Brazil,1,7,Germany,Germany,N/A
+Brazil 2014,Semi-finals,N/A,Netherlands,0,0,Argentina,Tie,Yes
+Brazil 2014,Third place play-off,N/A,Brazil,0,3,Netherlands,Netherlands,N/A
+Brazil 2014,Final,N/A,Germany,1,0,Argentina,Germany,N/A
+Russia 2018,Group stage,Group A,Russia,5,0,Saudi Arabia,Russia,N/A
+Russia 2018,Group stage,Group A,Egypt,0,1,Uruguay,Uruguay,N/A
+Russia 2018,Group stage,Group A,Russia,3,1,Egypt,Russia,N/A
+Russia 2018,Group stage,Group A,Uruguay,1,0,Saudi Arabia,Uruguay,N/A
+Russia 2018,Group stage,Group A,Uruguay,3,0,Russia,Uruguay,N/A
+Russia 2018,Group stage,Group A,Saudi Arabia,2,1,Egypt,Saudi Arabia,N/A
+Russia 2018,Group stage,Group B,Morocco,0,1,Iran,Iran,N/A
+Russia 2018,Group stage,Group B,Portugal,3,3,Spain,Tie,N/A
+Russia 2018,Group stage,Group B,Portugal,1,0,Morocco,Portugal,N/A
+Russia 2018,Group stage,Group B,Iran,0,1,Spain,Spain,N/A
+Russia 2018,Group stage,Group B,Iran,1,1,Portugal,Tie,N/A
+Russia 2018,Group stage,Group B,Spain,2,2,Morocco,Tie,N/A
+Russia 2018,Group stage,Group C,France,2,1,Australia,France,N/A
+Russia 2018,Group stage,Group C,Peru,0,1,Denmark,Denmark,N/A
+Russia 2018,Group stage,Group C,Denmark,1,1,Australia,Tie,N/A
+Russia 2018,Group stage,Group C,France,1,0,Peru,France,N/A
+Russia 2018,Group stage,Group C,Denmark,0,0,France,Tie,N/A
+Russia 2018,Group stage,Group C,Australia,0,2,Peru,Peru,N/A
+Russia 2018,Group stage,Group D,Argentina,1,1,Iceland,Tie,N/A
+Russia 2018,Group stage,Group D,Croatia,2,0,Nigeria,Croatia,N/A
+Russia 2018,Group stage,Group D,Argentina,0,3,Croatia,Croatia,N/A
+Russia 2018,Group stage,Group D,Nigeria,2,0,Iceland,Nigeria,N/A
+Russia 2018,Group stage,Group D,Nigeria,1,2,Argentina,Argentina,N/A
+Russia 2018,Group stage,Group D,Iceland,1,2,Croatia,Croatia,N/A
+Russia 2018,Group stage,Group E,Costa Rica,0,1,Serbia,Serbia,N/A
+Russia 2018,Group stage,Group E,Brazil,1,1,Switzerland,Tie,N/A
+Russia 2018,Group stage,Group E,Brazil,2,0,Costa Rica,Brazil,N/A
+Russia 2018,Group stage,Group E,Serbia,1,2,Switzerland,Switzerland,N/A
+Russia 2018,Group stage,Group E,Serbia,0,2,Brazil,Brazil,N/A
+Russia 2018,Group stage,Group E,Switzerland,2,2,Costa Rica,Tie,N/A
+Russia 2018,Group stage,Group F,Germany,0,1,Mexico,Mexico,N/A
+Russia 2018,Group stage,Group F,Sweden,1,0,South Korea,Sweden,N/A
+Russia 2018,Group stage,Group F,South Korea,1,2,Mexico,Mexico,N/A
+Russia 2018,Group stage,Group F,Germany,2,1,Sweden,Germany,N/A
+Russia 2018,Group stage,Group F,South Korea,2,0,Germany,South Korea,N/A
+Russia 2018,Group stage,Group F,Mexico,0,3,Sweden,Sweden,N/A
+Russia 2018,Group stage,Group G,Belgium,3,0,Panama,Belgium,N/A
+Russia 2018,Group stage,Group G,Tunisia,1,2,England,England,N/A
+Russia 2018,Group stage,Group G,Belgium,5,2,Tunisia,Belgium,N/A
+Russia 2018,Group stage,Group G,England,6,1,Panama,England,N/A
+Russia 2018,Group stage,Group G,England,0,1,Belgium,Belgium,N/A
+Russia 2018,Group stage,Group G,Panama,1,2,Tunisia,Tunisia,N/A
+Russia 2018,Group stage,Group H,Colombia,1,2,Japan,Japan,N/A
+Russia 2018,Group stage,Group H,Poland,1,2,Senegal,Senegal,N/A
+Russia 2018,Group stage,Group H,Japan,2,2,Senegal,Tie,N/A
+Russia 2018,Group stage,Group H,Poland,0,3,Colombia,Colombia,N/A
+Russia 2018,Group stage,Group H,Japan,0,1,Poland,Poland,N/A
+Russia 2018,Group stage,Group H,Senegal,0,1,Colombia,Colombia,N/A
+Russia 2018,Round of 16,N/A,France,4,3,Argentina,France,N/A
+Russia 2018,Round of 16,N/A,Uruguay,2,1,Portugal,Uruguay,N/A
+Russia 2018,Round of 16,N/A,Spain,1,1,Russia,Tie,Yes
+Russia 2018,Round of 16,N/A,Croatia,1,1,Denmark,Tie,Yes
+Russia 2018,Round of 16,N/A,Brazil,2,0,Mexico,Brazil,N/A
+Russia 2018,Round of 16,N/A,Belgium,3,2,Japan,Belgium,N/A
+Russia 2018,Round of 16,N/A,Sweden,1,0,Switzerland,Sweden,N/A
+Russia 2018,Round of 16,N/A,Colombia,1,1,England,Tie,Yes
+Russia 2018,Quarter-finals,N/A,Uruguay,0,2,France,France,N/A
+Russia 2018,Quarter-finals,N/A,Brazil,1,2,Belgium,Belgium,N/A
+Russia 2018,Quarter-finals,N/A,Sweden,0,2,England,England,N/A
+Russia 2018,Quarter-finals,N/A,Russia,2,2,Croatia,Tie,Yes
+Russia 2018,Semi-finals,N/A,France,1,0,Belgium,France,N/A
+Russia 2018,Semi-finals,N/A,Croatia,2,1,England,Croatia,N/A
+Russia 2018,Third place play-off,N/A,Belgium,2,0,England,Belgium,N/A
+Russia 2018,Final,N/A,France,4,2,Croatia,France,N/A
