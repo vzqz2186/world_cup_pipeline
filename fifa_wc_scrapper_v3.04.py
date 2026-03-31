@@ -61,7 +61,8 @@ def main(): # -----------------------------------------------------------------
      rosters_ds = []
      groups_ds = []
      matches_ds = []
-     wc_editions = ['France 1998','Korea/Japan 2002', 'Germany 2006', 'South Africa 2010', 'Brazil 2014', 'Russia 2018', 'Quatar 2022'] # 
+     wc_editions = ['France 1998','Korea/Japan 2002', 'Germany 2006', 'South Africa 2010', 'Brazil 2014', 'Russia 2018',
+                    'Quatar 2022'] # 
      years = [y for y in range(1998, 2023, 4) if y not in [1942, 1946]]
      
      # Scrapping tournament data
@@ -73,23 +74,18 @@ def main(): # -----------------------------------------------------------------
           squads_soup, match_soup = get_wc_data(year)
           # Creating dataframes 
           roster_scraper(squads_soup, year, edition, rosters_ds)    
-          groups_scraper(match_soup, matches, edition, groups_ds)
-          matches_scraper(match_soup, matches, edition, matches_ds)
+          groups_scraper(match_soup, year, edition, groups_ds)
+          matches_scraper(match_soup, year, edition, matches_ds)
      
      # Combine all df's into one
      rosters_ds = pd.concat(rosters_ds)
      groups_ds = pd.concat(groups_ds)
      matches_ds = pd.concat(matches_ds)
      print('Data sets complete. Saving...')
-     
-     # Save full data sets to csv files
-     rosters_ds.to_csv(os.path.join(csv_path,'FIFA_wc_players.csv'),
-                 index = False, encoding = 'utf-8-sig')
-     groups_ds.to_csv(os.path.join(csv_path,'FIFA_wc_groups.csv'),
-                index = False, encoding = 'utf-8-sig')
-     matches_ds.to_csv(os.path.join(csv_path,'FIFA_wc_matches.csv'),
-                 index = False, encoding = 'utf-8-sig')
-     
+
+     # Save datasets to CSV files
+     save_to_csvs(rosters_ds, groups_ds, matches_ds)
+
      print('Done')
 
 def get_wc_data(year):
@@ -193,7 +189,7 @@ def roster_scraper(squads_soup, year, edition, rosters_ds): # ------------------
      
      rosters_ds.append(df) # add df to the data set
        
-def groups_scraper(match_soup, matches, edition, groups_ds): # ---------------------
+def groups_scraper(match_soup, year, edition, groups_ds): # ---------------------
 
     # Import group tables
     tables = match_soup.find_all('table', attrs = {'class':'wikitable'})
@@ -214,8 +210,7 @@ def groups_scraper(match_soup, matches, edition, groups_ds): # -----------------
         groups = groups[14:-3]
 
     df = pd.concat(groups)    
-    #print(df)
-    #print(len(df))
+     
     # Add group to teams
     Group = ['A','B','C','D','E','F','G','H']
     df['Group'] = np.repeat(Group, 4)
@@ -241,7 +236,7 @@ def groups_scraper(match_soup, matches, edition, groups_ds): # -----------------
 
     groups_ds.append(df) # Add df to the data set
 
-def matches_scraper(match_soup, matches, edition, matches_ds): # -------------------
+def matches_scraper(match_soup, year, edition, matches_ds): # -------------------
 
     # Define lists
     Tournament = []
@@ -351,7 +346,7 @@ def matches_scraper(match_soup, matches, edition, matches_ds): # ---------------
         # Add winner column
         Winner.append(None)
 
-# Create dataframe
+     # Create dataframe
     df = {
         'Tournament': Tournament,
         'Stage': Stage,
@@ -394,5 +389,15 @@ def matches_scraper(match_soup, matches, edition, matches_ds): # ---------------
     df['Score'] = df['Score'].str.replace(r'[\u2013\u2014]', '-', regex = True)
 
     matches_ds.append(df)
+
+def save_to_csvs(rosters_ds, groups_ds, matches_ds):
+     
+     # Save full data sets to csv files
+     rosters_ds.to_csv(os.path.join(csv_path,'FIFA_wc_players.csv'),
+                 index = False, encoding = 'utf-8-sig')
+     groups_ds.to_csv(os.path.join(csv_path,'FIFA_wc_groups.csv'),
+                index = False, encoding = 'utf-8-sig')
+     matches_ds.to_csv(os.path.join(csv_path,'FIFA_wc_matches.csv'),
+                 index = False, encoding = 'utf-8-sig')
 
 main()
