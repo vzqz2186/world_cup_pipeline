@@ -55,182 +55,164 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 csv_folder = 'csv_files'
 csv_path = os.path.join(script_dir, csv_folder)
 
-# Webpages to scrap -----------------------------------------------------------
-
-wc98 = 'https://en.wikipedia.org/wiki/1998_FIFA_World_Cup'
-squads98 = 'https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_squads'
-
-wc02 = 'https://en.wikipedia.org/wiki/2002_FIFA_World_Cup'
-squads02 = 'https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads'
-
-wc06 = 'https://en.wikipedia.org/wiki/2006_FIFA_World_Cup'
-squads06 = 'https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_squads'
-
-wc10 = 'https://en.wikipedia.org/wiki/2010_FIFA_World_Cup'
-squads10 = 'https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_squads'
-
-wc14 = 'https://en.wikipedia.org/wiki/2014_FIFA_World_Cup'
-squads14 = 'https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads'
-
-wc18 = 'https://en.wikipedia.org/wiki/2018_FIFA_World_Cup'
-squads18 = 'https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads'
-
-wc22 = 'https://en.wikipedia.org/wiki/2022_FIFA_World_Cup'
-squads22 = 'https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads'
-
-wc_squads = [squads02, squads06, squads10, squads14, squads18, squads22] # 
-wc_matches = [wc02, wc06, wc10, wc14, wc18, wc22] # 
-wc_editions = ['Korea/Japan 2002', 'Germany 2006', 'South Africa 2010', 'Brazil 2014', 'Russia 2018', 'Quatar 2022'] # 
-
 def main(): # -----------------------------------------------------------------
+
+     # Define lists
+     rosters_ds = []
+     groups_ds = []
+     matches_ds = []
+     wc_squads = []
+     wc_matches = []
+     wc_editions = ['Korea/Japan 2002', 'Germany 2006', 'South Africa 2010', 'Brazil 2014', 'Russia 2018', 'Quatar 2022'] # 
+     years = [y for y in range(1998, 2023, 4) if y not in [1942, 1946]]
+     
+     # Scrapping tournament data
+     for year, squads, matches, edition in zip(years, wc_editions, wc_squads, wc_matches):
+     
+          print(f'Obtaining {edition} data...')
+
+          # Obtain soups
+          squads_soup, match_soup = get_wc_data(year)
+          # Creating dataframes 
+          roster_scraper(squads_soup, year, edition, rosters_ds)    
+          groups_scraper(match_soup, matches, edition, groups_ds)
+          matches_scraper(match_soup, matches, edition, matches_ds)
+     
+     # Combine all df's into one
+     rosters_ds = pd.concat(rosters_ds)
+     groups_ds = pd.concat(groups_ds)
+     matches_ds = pd.concat(matches_ds)
+     print('Data sets complete. Saving...')
+     
+     # Save full data sets to csv files
+     rosters_ds.to_csv(os.path.join(csv_path,'FIFA_wc_players.csv'),
+                 index = False, encoding = 'utf-8-sig')
+     groups_ds.to_csv(os.path.join(csv_path,'FIFA_wc_groups.csv'),
+                index = False, encoding = 'utf-8-sig')
+     matches_ds.to_csv(os.path.join(csv_path,'FIFA_wc_matches.csv'),
+                 index = False, encoding = 'utf-8-sig')
+     
+     print('Done')
+
+def get_wc_data(year):
+
+    wc_squads_url = f"https://en.wikipedia.org/wiki/{year}_FIFA_World_Cup_squads"
+    wc_matches_url = f"https://en.wikipedia.org/wiki/{year}_FIFA_World_Cup"
+
+    # Obtain html from squads' webpage
+    page = requests.get(wc_squads_url, headers = headers)
+    squads_soup = bs(page.content, 'html.parser')
     
-    # Define lists to store dataframes
-    rosters_ds = []
-    groups_ds = []
-    matches_ds = []
+    # Obtain html from results and groups webpage
+    page2 = requests.get(wc_matches_url, headers = headers)
+    match_soup = bs(page2.content, 'html.parser')
 
-    # Scrapping tournament data
-    for squads, matches, edition in zip(wc_squads, wc_matches, wc_editions):
-
-        print(f'Obtaining {edition} data...')
-
-        # Obtain html from squads' webpage
-        page = requests.get(squads, headers = headers)
-        soup = bs(page.content, 'html.parser')
-
-        # Obtain html from results and groups webpage
-        page2 = requests.get(matches, headers = headers)
-        soup2 = bs(page2.content, 'html.parser')
-
-        roster_scraper(soup, squads, edition, rosters_ds)    
-        groups_scraper(soup2, matches, edition, groups_ds)
-        matches_scraper(soup2, matches, edition, matches_ds)
-
-    # Combine all df's into one
-    rosters_ds = pd.concat(rosters_ds)
-    groups_ds = pd.concat(groups_ds)
-    matches_ds = pd.concat(matches_ds)
-    print('Data sets complete. Saving...')
-
-    # Save full data sets to csv files
-    rosters_ds.to_csv(os.path.join(csv_path,'FIFA_wc_players.csv'),
-                      index = False, encoding = 'utf-8-sig')
-    groups_ds.to_csv(os.path.join(csv_path,'FIFA_wc_groups.csv'),
-                     index = False, encoding = 'utf-8-sig')
-    matches_ds.to_csv(os.path.join(csv_path,'FIFA_wc_matches.csv'),
-                      index = False, encoding = 'utf-8-sig')
-
-    print('Done')
+    return squads_soup, match_soup
     
-def roster_scraper(soup, squads, edition, rosters_ds): # ----------------------
+def roster_scraper(squads_soup, year, edition, rosters_ds): # ----------------------
 
-    # Define lists
-    Country = [] # Participating countries
-
-    # Import participating countries
-    countries = soup.find_all('h3')
-
-    # Import countries
-    for i in countries:
-        a = i.get_text()
-        it = a.replace('[edit]', '')
-        Country.append(it)
-
-    # Removing unnecessary data
-    if squads == squads10 or squads == squads18 or squads == squads02:
-        Country = Country[:-5]
-    elif squads == squads06:
-        Country = Country[:-1]
-    elif squads == squads14:
-        Country = Country[:-4]
-    elif squads == squads22:
-        Country = Country[:-7]
-
-    # Scrapping player data
-
-    # Import rosters
-    tables = soup.find_all('table', attrs = {'class':'wikitable'})
-    rosters = pd.read_html(StringIO(str(tables))) # Create list of dataframes (df)
-
-    # Removing unnecessary data (extra tables)
-    if squads == squads18 or squads == squads10:
+     # Scrapping player data --------------------------------------------------
+     
+     # Import rosters
+     tables = squads_soup.find_all('table', attrs = {'class':'wikitable'})
+     rosters = pd.read_html(StringIO(str(tables))) # Create list of dataframes (df)
+     
+     # Removing unnecessary data (extra tables)
+     if year == 2018 or year == 2010:
         rosters = rosters[:-4]
-    elif squads == squads14:
+     elif year == 2014:
         rosters = rosters[:-3]
-    elif squads == squads06:
+     elif year == 2006:
         rosters = rosters[:-3]
-    elif squads == squads02:
+     elif year == 2002:
         rosters = rosters[:-2]
         # 2002 page has reference tags on the headers that need to be removed
         for i in rosters:
             i.columns = [re.sub(r'\[\d+\]','', col) for col in i.columns]
-    elif squads == squads22:
+     elif year == 2022:
         rosters = rosters[:-6]
+     
+     df = pd.concat(rosters) # Merge all df's in 'rosters' list into one df
 
-    df = pd.concat(rosters) # Merge all df's in 'rosters' list into one df
+     # Complete and format df -------------------------------------------------
 
-    # Separating age from date of birth
-    df[['Date of Birth', 'Age']] = df['Date of birth (age)'].str.extract(r'^(.*)\s\(aged\s(\d+)\)')
-    df = df.drop(columns=['Date of birth (age)'])
+     # Separating age from date of birth
+     df[['Date of Birth', 'Age']] = df['Date of birth (age)'].str.extract(r'^(.*)\s\(aged\s(\d+)\)')
+     df = df.drop(columns=['Date of birth (age)'])
 
-    # Separating captain status from names
-    captain_regex = r'\s\((?:c|captain)\)'
-    df['Captain'] = df['Player'].str.contains(captain_regex, case=False, regex=True)
-    df['Player'] = df['Player'].str.replace(captain_regex, '', case=False, regex=True)
+     # Separating captain status from names
+     captain_regex = r'\s\((?:c|captain)\)'
+     df['Captain'] = df['Player'].str.contains(captain_regex, case=False, regex=True)
+     df['Player'] = df['Player'].str.replace(captain_regex, '', case=False, regex=True)
 
-    # Format table
+     # Add tournament column
+     count = 831 if year == 2022 else 736 # 2022 edition increased team size from 23 to 26
+     tournament = [edition] * count
+     df['Tournament'] = tournament
 
-    # Add tournament to every players' entry
-    tournament = [edition]
-    
-    if squads == squads22: # 2022 edition increased team size from 23 to 26
-        tournament = np.repeat(tournament, 831).tolist()
-    else:
-        tournament = np.repeat(tournament, 736).tolist()
+     # Rename No. and Pos. columns
+     df.rename(columns = {'No.': 'Number'}, inplace = True)
+     df.rename(columns = {'Pos.': 'Position'}, inplace = True)
+     
+     # Define lists
+     Country = [] # Participating countries
+     
+     # Import participating countries
+     countries = soup.find_all('h3')
+     
+     # Import countries
+     for i in countries:
+        a = i.get_text()
+        it = a.replace('[edit]', '')
+        Country.append(it)
+     
+     # Removing unnecessary data
+     if year == 2010 or year == squads18 or year == 2002:
+        Country = Country[:-5]
+     elif year == 2006:
+        Country = Country[:-1]
+     elif year == 2014:
+        Country = Country[:-4]
+     elif year == 2022:
+        Country = Country[:-7]
 
-    df['Tournament'] = tournament # Add 'Tournament' column to df
-
-    # Add players' nationalities
-    if squads == squads22: # 2022 edition increased team size from 23 to 26. Iran presented 25 players instead of 26.
+     # Add players' nationalities
+     if year == 2022: # 2022 edition increased team size from 23 to 26. Iran presented 25 players instead of 26.
         Country = np.repeat(Country, [25 if i == 'Iran' else 26 for i in Country]).tolist()
-    else:
+     else:
         Country = np.repeat(Country, 23).tolist()
-
-    df['Country'] = Country # Add 'Country' column to df
-
-    # Add Goals column to tables that don't have it and fix column order
-    if squads == squads18 or squads == squads22:
+     
+     df['Country'] = Country # Add 'Country' column to df
+     
+     # Add Goals column to tables that don't have it and fix column order
+     if year == 2018 or year == 2022:
         df['Goals'] = df['Goals'].astype('Int64')
         df = df.iloc[:, [0, 1, 2, 6, 5, 4, 9, 3, 7, 10, 8]]
-    else:
+     else:
         df['Goals'] = np.nan
         df['Goals'] = df['Goals'].astype('Int64')
         df = df.iloc[:, [0, 1, 2, 6, 5, 4, 9, 3, 7, 10, 8]]
-
-    # Rename No. and Pos. columns
-    df.rename(columns = {'No.': 'Number'}, inplace = True)
-    df.rename(columns = {'Pos.': 'Position'}, inplace = True)
-
-    rosters_ds.append(df) # add df to the data set
+     
+     rosters_ds.append(df) # add df to the data set
        
-def groups_scraper(soup2, matches, edition, groups_ds): # ---------------------
+def groups_scraper(match_soup, matches, edition, groups_ds): # ---------------------
 
     # Import group tables
-    tables = soup2.find_all('table', attrs = {'class':'wikitable'})
+    tables = match_soup.find_all('table', attrs = {'class':'wikitable'})
     groups = pd.read_html(StringIO(str(tables)))
 
     # Remove unnecessary data (extra tables)
-    if matches == wc02:
+    if year == 2002:
         groups = groups[13:-5]
-    elif matches == wc06:
+    elif year == 2006:
         groups = groups[14:-6]
-    elif matches == wc10:
+    elif year == 2010:
         groups = groups[6:-6]
-    elif matches == wc14:
+    elif year == 2014:
         groups = groups[9:-8]
-    elif matches == wc18:
+    elif year == 2018:
         groups = groups[6:-9]
-    elif matches == wc22:
+    elif year == 2022:
         groups = groups[14:-3]
 
     df = pd.concat(groups)    
@@ -261,7 +243,7 @@ def groups_scraper(soup2, matches, edition, groups_ds): # ---------------------
 
     groups_ds.append(df) # Add df to the data set
 
-def matches_scraper(soup2, matches, edition, matches_ds): # -------------------
+def matches_scraper(match_soup, matches, edition, matches_ds): # -------------------
 
     # Define lists
     Tournament = []
@@ -290,7 +272,7 @@ def matches_scraper(soup2, matches, edition, matches_ds): # -------------------
     # Group stage data scrap --------------------------------------------------
 
     # Import tables containing all group matches data
-    match_info = soup2.find_all('div', attrs = {'itemscope': True, 
+    match_info = match_soup.find_all('div', attrs = {'itemscope': True, 
                                            'itemtype': 'http://schema.org/SportsEvent',
                                            'class': 'footballbox'})
 
