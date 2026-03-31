@@ -51,10 +51,6 @@ import os
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36'}
 
-script_dir = os.path.dirname(os.path.abspath(__file__))
-csv_folder = 'csv_files'
-csv_path = os.path.join(script_dir, csv_folder)
-
 def main(): # -----------------------------------------------------------------
 
      # Define lists
@@ -389,6 +385,10 @@ def matches_scraper(match_soup, year, edition, matches_ds): # ------------------
     matches_ds.append(df)
 
 def save_to_csvs(rosters_ds, groups_ds, matches_ds):
+
+     script_dir = os.path.dirname(os.path.abspath(__file__))
+     csv_folder = 'csv_files'
+     csv_path = os.path.join(script_dir, csv_folder)
      
      # Save full data sets to csv files
      rosters_ds.to_csv(os.path.join(csv_path,'FIFA_wc_players.csv'),
