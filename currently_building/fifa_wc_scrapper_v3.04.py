@@ -130,7 +130,7 @@ def roster_scraper(squads_soup, year, edition, rosters_ds): # ------------------
         Country.append(it)
      
      # Removing unnecessary data
-     if year == 2010 or year == squads18 or year == 2002:
+     if year == 2010 or year == 2018 or year == 2002:
         Country = Country[:-5]
      elif year == 2006:
         Country = Country[:-1]
