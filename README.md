@@ -52,6 +52,7 @@ Simply run the script. The console will provide real-time updates as it processe
 ## Roadmap / To-Do
 
 - Add 1998 edition.
-- Add function to automate upload to a SQL Server database.
+- Write a function to automate SQL Server upload.
+- Implement a pipeline to load the cleaned dataframes onto AWS for Cloud Data Warehousing.
 - Add support for the expanded 8-team 2026 format.
 - Add support for Early Era (1930-1950) and Classic Era (1954-1994) editions.
