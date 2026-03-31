@@ -63,7 +63,7 @@ def main(): # -----------------------------------------------------------------
      matches_ds = []
      wc_squads = []
      wc_matches = []
-     wc_editions = ['Korea/Japan 2002', 'Germany 2006', 'South Africa 2010', 'Brazil 2014', 'Russia 2018', 'Quatar 2022'] # 
+     wc_editions = ['France 1998','Korea/Japan 2002', 'Germany 2006', 'South Africa 2010', 'Brazil 2014', 'Russia 2018', 'Quatar 2022'] # 
      years = [y for y in range(1998, 2023, 4) if y not in [1942, 1946]]
      
      # Scrapping tournament data
