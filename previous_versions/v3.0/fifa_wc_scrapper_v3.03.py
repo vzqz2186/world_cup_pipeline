@@ -267,22 +267,22 @@ def groups_scraper(soup2, matches, edition, groups_ds): # ---------------------
 def matches_scraper(soup2, matches, edition, matches_ds): # -------------------
 
     # Define lists
-    Tournament = []      # WORKS FOR '02
-    Home = []            # WORKS FOR '02
-    Score = []           # WORKS FOR '02
-    HomeScore = []       # WORKS FOR '02
-    AwayScore = []       # WORKS FOR '02
-    Away = []            # WORKS FOR '02
-    ExtraTime = []       # WORKS FOR '02
-    GoldenGoal = []      # WORKS FOR '02
-    Penalties = []       # WORKS FOR '02
-    HomePKs = []         # WORKS FOR '02
-    AwayPKs = []         # WORKS FOR '02
-    Referee = []         # WORKS FOR '02
-    Location = []        # WORKS FOR '02
-    Attendance = []      # WORKS FOR '02
-    Date = []            # WORKS FOR '02
-    Time = []            # WORKS FOR '02
+    Tournament = []      # WORKS FOR '02-'22
+    Home = []            # WORKS FOR '02-'22
+    Score = []           # WORKS FOR '02-'22
+    HomeScore = []       # WORKS FOR '02-'22
+    AwayScore = []       # WORKS FOR '02-'22
+    Away = []            # WORKS FOR '02-'22
+    ExtraTime = []       # WORKS FOR '02-'22
+    GoldenGoal = []      # WORKS FOR '02-'22
+    Penalties = []       # WORKS FOR '02-'22
+    HomePKs = []         # WORKS FOR '02-'22
+    AwayPKs = []         # WORKS FOR '02-'22
+    Referee = []         # WORKS FOR '02-'22
+    Location = []        # WORKS FOR '02-'22
+    Attendance = []      # WORKS FOR '02-'22
+    Date = []            # WORKS FOR '02-'22
+    Time = []            # WORKS FOR '02-'22
     Stage = (['Group Stage']*48+['Round of 16']*8+
              ['Quarter-finals']*4+['Semi-finals']*2+
              ['Third Place Match']*1+['Final']*1)
@@ -408,6 +408,6 @@ def matches_scraper(soup2, matches, edition, matches_ds): # -------------------
     # Replace Spacial dash with regular dash
     df['Score'] = df['Score'].str.replace(r'[\u2013\u2014]', '-', regex = True)
 
-    matches_ds.append(df) # Add this df to the data set
+    matches_ds.append(df) # Add df to the data set
 
 main()
