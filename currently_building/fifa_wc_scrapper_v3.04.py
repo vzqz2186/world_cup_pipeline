@@ -3,30 +3,6 @@ FIFA World Cup data scraper
 
      Author: Daniel Vazquez
 
-Description: This program scraps online tables and data related to the
-             rosters, teams, fixtures, and main stats for the FIFA World Cup
-             tournaments from 2002 to 2022. All data is scrapped from their
-             respective entries in Wikipedia. Since its very uniformally
-             organized throughout all pages, it allows for easy scalability.
-             The program follows the following procedure:
-
-             1. Access the html code for the websites to scrape using the
-                BeautifulSoup libraries.
-
-             2. Scrape the html code looking for the following information:
-
-                a. Team groups
-                b. Participating countries
-                c. Players' names
-                d. Players' ages and birthdays
-                e. Match locations
-                f. Match dates
-                g. Match results
-                h. Match home and away sides
-                i. Match groups and stages.
-
-             3. Save all scrapped dataframes to csv files.
-
       To do: > Add '98 edition
              > Test all functions work:
                - roster_scraper:  []
@@ -34,8 +10,7 @@ Description: This program scraps online tables and data related to the
                - matches_scraper: [YES]
              > Possibly add more editions
              > Automate SQL Server upload
-             > Update GitHub repository
-                 
+             > Automate AWS integration
 """
 
 # -----------------------------------------------------------------------------
