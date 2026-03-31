@@ -386,6 +386,7 @@ def matches_scraper(match_soup, year, edition, matches_ds): # ------------------
 
 def save_to_csvs(rosters_ds, groups_ds, matches_ds):
 
+     # Define directory
      script_dir = os.path.dirname(os.path.abspath(__file__))
      csv_folder = 'csv_files'
      csv_path = os.path.join(script_dir, csv_folder)
