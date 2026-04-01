@@ -4,7 +4,7 @@ Author: Daniel Vazquez
 
 Version: 3.03
 
-A robust Python-based web scraper designed to extract comprehensive historical data from FIFA World Cup tournaments (currently supporting 2002–2022). The script targets Wikipedia’s highly organized football entry pages to build structured datasets for sports analysis, machine learning, or historical record-keeping.
+A robust Python-based web scraper designed to extract comprehensive historical data from FIFA World Cup tournaments (currently supporting 1998–2022). The script targets Wikipedia’s highly organized football entry pages to build structured datasets for sports analysis, machine learning, or historical record-keeping.
 
 The scraper also fixes inconsistent table structures across different years, special Unicode characters in scores, and varying squad sizes.
 
@@ -51,7 +51,6 @@ Simply run the script. The console will provide real-time updates as it processe
 
 ## Roadmap / To-Do
 
-- Add 1998 edition.
 - Write a function to automate SQL Server upload.
 - Implement a pipeline to load the cleaned dataframes onto AWS for Cloud Data Warehousing.
 - Add support for the expanded 8-team 2026 format.
