@@ -1,0 +1,501 @@
+﻿Tournament,Stage,Group,Home,Away,Score,HomeScore,AwayScore,ExtraTime,GoldenGoal,Penalties,HomePKs,AwayPKs,Winner,Referee,Location,Attendance,Date,Time
+USA 1994,Group Stage,A,United States,Switzerland,1-1,1,1,False,False,False,,,Draw,Francisco Oscar Lamolina,Pontiac Silverdome,"73,425","June 18, 1994",11:30
+USA 1994,Group Stage,A,Colombia,Romania,1-3,1,3,False,False,False,,,Romania,Jamal Al Sharif,Rose Bowl,"91,856","June 18, 1994",4:30 
+USA 1994,Group Stage,A,Romania,Switzerland,1-4,1,4,False,False,False,,,Switzerland,Neji Jouini,Pontiac Silverdome,"61,428","June 22, 1994",4:00 
+USA 1994,Group Stage,A,United States,Colombia,2-1,2,1,False,False,False,,,United States,Fabio Baldas,Rose Bowl,"93,869","June 22, 1994",4:30 
+USA 1994,Group Stage,A,Switzerland,Colombia,0-2,0,2,False,False,False,,,Colombia,Peter Mikkelsen,Stanford Stadium,"83,401","June 26, 1994",1:00 
+USA 1994,Group Stage,A,United States,Romania,0-1,0,1,False,False,False,,,Romania,Mario van der Ende,Rose Bowl,"93,869","June 26, 1994",1:00 
+USA 1994,Group Stage,B,Cameroon,Sweden,2-2,2,2,False,False,False,,,Draw,Alberto Tejada Noriega,Rose Bowl,"93,194","June 19, 1994",4:30 
+USA 1994,Group Stage,B,Brazil,Russia,2-0,2,0,False,False,False,,,Brazil,Lim Kee Chong,Stanford Stadium,"81,061","June 20, 1994",1:00 
+USA 1994,Group Stage,B,Brazil,Cameroon,3-0,3,0,False,False,False,,,Brazil,Arturo Brizio Carter,Stanford Stadium,"83,401","June 24, 1994",1:00 
+USA 1994,Group Stage,B,Sweden,Russia,3-1,3,1,False,False,False,,,Sweden,Joël Quiniou,Pontiac Silverdome,"71,528","June 24, 1994",7:30 
+USA 1994,Group Stage,B,Russia,Cameroon,6-1,6,1,False,False,False,,,Russia,Jamal Al Sharif,Stanford Stadium,"74,914","June 28, 1994",1:00 
+USA 1994,Group Stage,B,Brazil,Sweden,1-1,1,1,False,False,False,,,Draw,Sándor Puhl,Pontiac Silverdome,"77,217","June 28, 1994",4:00 
+USA 1994,Group Stage,C,Germany,Bolivia,1-0,1,0,False,False,False,,,Germany,Arturo Brizio Carter,Soldier Field,"63,117","June 17, 1994",2:00 
+USA 1994,Group Stage,C,Spain,South Korea,2-2,2,2,False,False,False,,,Draw,Peter Mikkelsen,Cotton Bowl,"56,247","June 17, 1994",6:30 
+USA 1994,Group Stage,C,Germany,Spain,1-1,1,1,False,False,False,,,Draw,Filippi Cavani,Soldier Field,"63,113","June 21, 1994",3:00 
+USA 1994,Group Stage,C,South Korea,Bolivia,0-0,0,0,False,False,False,,,Draw,Leslie Mottram,Foxboro Stadium,"54,453","June 23, 1994",7:30 
+USA 1994,Group Stage,C,Bolivia,Spain,1-3,1,3,False,False,False,,,Spain,Rodrigo Badilla,Soldier Field,"63,089","June 27, 1994",3:00 
+USA 1994,Group Stage,C,Germany,South Korea,3-2,3,2,False,False,False,,,Germany,Joël Quiniou,Cotton Bowl,"63,998","June 27, 1994",3:00 
+USA 1994,Group Stage,D,Argentina,Greece,4-0,4,0,False,False,False,,,Argentina,Arturo Angeles,Foxboro Stadium,"54,456","June 21, 1994",12:30
+USA 1994,Group Stage,D,Nigeria,Bulgaria,3-0,3,0,False,False,False,,,Nigeria,Rodrigo Badilla,Cotton Bowl,"44,132","June 21, 1994",6:30 
+USA 1994,Group Stage,D,Argentina,Nigeria,2-1,2,1,False,False,False,,,Argentina,Bo Karlsson,Foxboro Stadium,"54,453","June 25, 1994",4:00 
+USA 1994,Group Stage,D,Bulgaria,Greece,4-0,4,0,False,False,False,,,Bulgaria,Ali Bujsaim,Soldier Field,"63,160","June 26, 1994",11:30
+USA 1994,Group Stage,D,Argentina,Bulgaria,0-2,0,2,False,False,False,,,Bulgaria,Neji Jouini,Cotton Bowl,"63,998","June 30, 1994",6:30 
+USA 1994,Group Stage,D,Greece,Nigeria,0-2,0,2,False,False,False,,,Nigeria,Leslie Mottram,Foxboro Stadium,"53,001","June 30, 1994",7:30 
+USA 1994,Group Stage,E,Italy,Republic of Ireland,0-1,0,1,False,False,False,,,Republic of Ireland,Mario van der Ende,Giants Stadium,"75,338","June 18, 1994",4:00 
+USA 1994,Group Stage,E,Norway,Mexico,1-0,1,0,False,False,False,,,Norway,Sándor Puhl,RFK Stadium,"52,395","June 19, 1994",4:00 
+USA 1994,Group Stage,E,Italy,Norway,1-0,1,0,False,False,False,,,Italy,Hellmut Krug,Giants Stadium,"74,624","June 23, 1994",4:00 
+USA 1994,Group Stage,E,Mexico,Republic of Ireland,2-1,2,1,False,False,False,,,Mexico,Kurt Röthlisberger,Citrus Bowl,"60,790","June 24, 1994",12:30
+USA 1994,Group Stage,E,Italy,Mexico,1-1,1,1,False,False,False,,,Draw,Francisco Oscar Lamolina,RFK Stadium,"52,535","June 28, 1994",12:30
+USA 1994,Group Stage,E,Republic of Ireland,Norway,0-0,0,0,False,False,False,,,Draw,José Torres Cadena,Giants Stadium,"72,404","June 28, 1994",12:30
+USA 1994,Group Stage,F,Belgium,Morocco,1-0,1,0,False,False,False,,,Belgium,José Torres Cadena,Citrus Bowl,"61,219","June 19, 1994",12:30
+USA 1994,Group Stage,F,Netherlands,Saudi Arabia,2-1,2,1,False,False,False,,,Netherlands,Manuel Díaz Vega,RFK Stadium,"50,535","June 20, 1994",7:30 
+USA 1994,Group Stage,F,Belgium,Netherlands,1-0,1,0,False,False,False,,,Belgium,Renato Marsiglia,Citrus Bowl,"62,387","June 25, 1994",12:30
+USA 1994,Group Stage,F,Saudi Arabia,Morocco,2-1,2,1,False,False,False,,,Saudi Arabia,Philip Don,Giants Stadium,"76,322","June 25, 1994",12:30
+USA 1994,Group Stage,F,Belgium,Saudi Arabia,0-1,0,1,False,False,False,,,Saudi Arabia,Hellmut Krug,RFK Stadium,"52,959","June 29, 1994",12:30
+USA 1994,Group Stage,F,Morocco,Netherlands,1-2,1,2,False,False,False,,,Netherlands,Alberto Tejada Noriega,Citrus Bowl,"60,578","June 29, 1994",12:30
+USA 1994,Round of 16,NaN,Germany,Belgium,3-2,3,2,False,False,False,,,Germany,Kurt Röthlisberger,Soldier Field,"60,246","July 2, 1994",12:00
+USA 1994,Round of 16,NaN,Spain,Switzerland,3-0,3,0,False,False,False,,,Spain,Mario van der Ende,RFK Stadium,"53,121","July 2, 1994",4:30 
+USA 1994,Round of 16,NaN,Saudi Arabia,Sweden,1-3,1,3,False,False,False,,,Sweden,Renato Marsiglia,Cotton Bowl,"60,277","July 3, 1994",12:00
+USA 1994,Round of 16,NaN,Romania,Argentina,3-2,3,2,False,False,False,,,Romania,Pierluigi Pairetto,Rose Bowl,"90,469","July 3, 1994",1:30 
+USA 1994,Round of 16,NaN,Netherlands,Republic of Ireland,2-0,2,0,False,False,False,,,Netherlands,Peter Mikkelsen,Citrus Bowl,"61,355","July 4, 1994",12:00
+USA 1994,Round of 16,NaN,Brazil,United States,1-0,1,0,False,False,False,,,Brazil,Joël Quiniou,Stanford Stadium,"84,147","July 4, 1994",12:30
+USA 1994,Round of 16,NaN,Nigeria,Italy,1-2 (a.e.t.),1,2,True,False,False,,,Italy,Arturo Brizio Carter,Foxboro Stadium,"54,367","July 5, 1994",1:00 
+USA 1994,Round of 16,NaN,Mexico,Bulgaria,1-1 (a.e.t.),1,1,True,False,True,1,3,Bulgaria,Jamal Al Sharif,Giants Stadium,"71,030","July 5, 1994",4:30 
+USA 1994,Quarter-finals,NaN,Italy,Spain,2-1,2,1,False,False,False,,,Italy,Sándor Puhl,Foxboro Stadium,"53,400","July 9, 1994",12:00
+USA 1994,Quarter-finals,NaN,Netherlands,Brazil,2-3,2,3,False,False,False,,,Brazil,Rodrigo Badilla,Cotton Bowl,"63,500","July 9, 1994",2:30 
+USA 1994,Quarter-finals,NaN,Bulgaria,Germany,2-1,2,1,False,False,False,,,Bulgaria,José Torres Cadena,Giants Stadium,"72,000","July 10, 1994",12:00
+USA 1994,Quarter-finals,NaN,Romania,Sweden,2-2 (a.e.t.),2,2,True,False,True,4,5,Sweden,Philip Don,Stanford Stadium,"83,500","July 10, 1994",12:30
+USA 1994,Semi-finals,NaN,Bulgaria,Italy,1-2,1,2,False,False,False,,,Italy,Joël Quiniou,Giants Stadium,"74,110","July 13, 1994",4:00 
+USA 1994,Semi-finals,NaN,Sweden,Brazil,0-1,0,1,False,False,False,,,Brazil,José Torres Cadena,Rose Bowl,"91,856","July 13, 1994",4:30 
+USA 1994,Third Place Match,NaN,Sweden,Bulgaria,4-0,4,0,False,False,False,,,Sweden,Ali Bujsaim,Rose Bowl,"91,500","July 16, 1994",12:30
+USA 1994,Final,NaN,Brazil,Italy,0-0 (a.e.t.),0,0,True,False,True,3,2,Brazil,Sándor Puhl,Rose Bowl,"94,194","July 17, 1994",12:30
+France 1998,Group Stage,A,Brazil,Scotland,2-1,2,1,False,False,False,,,Brazil,José María García-Aranda,Stade de France,"80,000",10 June 1998,17:30
+France 1998,Group Stage,A,Morocco,Norway,2-2,2,2,False,False,False,,,Draw,Pirom Un-prasert,Stade de la Mosson,"29,800",10 June 1998,21:00
+France 1998,Group Stage,A,Scotland,Norway,1-1,1,1,False,False,False,,,Draw,László Vágner,Parc Lescure,"31,800",16 June 1998,17:30
+France 1998,Group Stage,A,Brazil,Morocco,3-0,3,0,False,False,False,,,Brazil,Nikolai Levnikov,Stade de la Beaujoire,"35,500",16 June 1998,21:00
+France 1998,Group Stage,A,Scotland,Morocco,0-3,0,3,False,False,False,,,Morocco,Ali Bujsaim,Stade Geoffroy-Guichard,"30,600",23 June 1998,21:00
+France 1998,Group Stage,A,Brazil,Norway,1-2,1,2,False,False,False,,,Norway,Esfandiar Baharmast,Stade Vélodrome,"55,000",23 June 1998,21:00
+France 1998,Group Stage,B,Italy,Chile,2-2,2,2,False,False,False,,,Draw,Lucien Bouchardeau,Parc Lescure,"31,800",11 June 1998,17:30
+France 1998,Group Stage,B,Cameroon,Austria,1-1,1,1,False,False,False,,,Draw,Epifanio González,Stade de Toulouse,"33,500",11 June 1998,21:00
+France 1998,Group Stage,B,Chile,Austria,1-1,1,1,False,False,False,,,Draw,Gamal Al-Ghandour,Stade Geoffroy-Guichard,"30,600",17 June 1998,17:30
+France 1998,Group Stage,B,Italy,Cameroon,3-0,3,0,False,False,False,,,Italy,Eddie Lennie,Stade de la Mosson,"29,800",17 June 1998,21:00
+France 1998,Group Stage,B,Italy,Austria,2-1,2,1,False,False,False,,,Italy,Paul Durkin,Stade de France,"80,000",23 June 1998,16:00
+France 1998,Group Stage,B,Chile,Cameroon,1-1,1,1,False,False,False,,,Draw,László Vágner,Stade de la Beaujoire,"35,500",23 June 1998,16:00
+France 1998,Group Stage,C,Saudi Arabia,Denmark,0-1,0,1,False,False,False,,,Denmark,Javier Castrilli,Stade Félix Bollaert,"38,100",12 June 1998,17:30
+France 1998,Group Stage,C,France,South Africa,3-0,3,0,False,False,False,,,France,Márcio Rezende de Freitas,Stade Vélodrome,"55,000",12 June 1998,21:00
+France 1998,Group Stage,C,South Africa,Denmark,1-1,1,1,False,False,False,,,Draw,John Toro Rendón,Stade de Toulouse,"33,500",18 June 1998,17:30
+France 1998,Group Stage,C,France,Saudi Arabia,4-0,4,0,False,False,False,,,France,Arturo Brizio Carter,Stade de France,"80,000",18 June 1998,21:00
+France 1998,Group Stage,C,France,Denmark,2-1,2,1,False,False,False,,,France,Pierluigi Collina,Stade de Gerland,"39,100",24 June 1998,16:00
+France 1998,Group Stage,C,South Africa,Saudi Arabia,2-2,2,2,False,False,False,,,Draw,Mario Sánchez,Parc Lescure,"31,800",24 June 1998,16:00
+France 1998,Group Stage,D,Paraguay,Bulgaria,0-0,0,0,False,False,False,,,Draw,Abdul Rahman Al-Zeid,Stade de la Mosson,"29,800",12 June 1998,14:30
+France 1998,Group Stage,D,Spain,Nigeria,2-3,2,3,False,False,False,,,Nigeria,Esfandiar Baharmast,Stade de la Beaujoire,"35,500",13 June 1998,14:30
+France 1998,Group Stage,D,Nigeria,Bulgaria,1-0,1,0,False,False,False,,,Nigeria,Mario Sánchez Yantén,Parc des Princes,"45,500",19 June 1998,17:30
+France 1998,Group Stage,D,Spain,Paraguay,0-0,0,0,False,False,False,,,Draw,Ian McLeod,Stade Geoffroy-Guichard,"30,600",19 June 1998,21:00
+France 1998,Group Stage,D,Nigeria,Paraguay,1-3,1,3,False,False,False,,,Paraguay,Pirom Un-prasert,Stade de Toulouse,"33,500",24 June 1998,21:00
+France 1998,Group Stage,D,Spain,Bulgaria,6-1,6,1,False,False,False,,,Spain,Mario van der Ende,Stade Félix-Bollaert,"38,100",24 June 1998,21:00
+France 1998,Group Stage,E,South Korea,Mexico,1-3,1,3,False,False,False,,,Mexico,Günter Benkö,Stade de Gerland,"39,100",13 June 1998,17:30
+France 1998,Group Stage,E,Netherlands,Belgium,0-0,0,0,False,False,False,,,Draw,Pierluigi Collina,Stade de France,"77,000",13 June 1998,21:00
+France 1998,Group Stage,E,Belgium,Mexico,2-2,2,2,False,False,False,,,Draw,Hugh Dallas,Parc Lescure,"31,800",20 June 1998,17:30
+France 1998,Group Stage,E,Netherlands,South Korea,5-0,5,0,False,False,False,,,Netherlands,Ryszard Wójcik,Stade Vélodrome,"55,000",20 June 1998,21:00
+France 1998,Group Stage,E,Netherlands,Mexico,2-2,2,2,False,False,False,,,Draw,Abdul Rahman Al-Zeid,Stade Geoffroy-Guichard,"30,600",25 June 1998,16:00
+France 1998,Group Stage,E,Belgium,South Korea,1-1,1,1,False,False,False,,,Draw,Márcio Rezende de Freitas,Parc des Princes,"45,500",25 June 1998,16:00
+France 1998,Group Stage,F,FR Yugoslavia,Iran,1-0,1,0,False,False,False,,,FR Yugoslavia,Alberto Tejada,Stade Geoffroy-Guichard,"30,600",14 June 1998,17:30
+France 1998,Group Stage,F,Germany,United States,2-0,2,0,False,False,False,,,Germany,Said Belqola,Parc des Princes,"45,500",15 June 1998,21:00
+France 1998,Group Stage,F,Germany,FR Yugoslavia,2-2,2,2,False,False,False,,,Draw,Kim Milton Nielsen,Stade Félix-Bollaert,"38,100",21 June 1998,14:30
+France 1998,Group Stage,F,United States,Iran,1-2,1,2,False,False,False,,,Iran,Urs Meier,Stade de Gerland,"39,100",21 June 1998,21:00
+France 1998,Group Stage,F,Germany,Iran,2-0,2,0,False,False,False,,,Germany,Epifanio González,Stade de la Mosson,"29,800",25 June 1998,21:00
+France 1998,Group Stage,F,United States,FR Yugoslavia,0-1,0,1,False,False,False,,,FR Yugoslavia,Gamal Al-Ghandour,Stade de la Beaujoire,"35,500",25 June 1998,21:00
+France 1998,Group Stage,G,England,Tunisia,2-0,2,0,False,False,False,,,England,Masayoshi Okada,Stade Vélodrome,"54,587",15 June 1998,14:30
+France 1998,Group Stage,G,Romania,Colombia,1-0,1,0,False,False,False,,,Romania,Lim Kee Chong,Stade de Gerland,"39,100",15 June 1998,17:30
+France 1998,Group Stage,G,Colombia,Tunisia,1-0,1,0,False,False,False,,,Colombia,Bernd Heynemann,Stade de la Mosson,"29,800",22 June 1998,17:30
+France 1998,Group Stage,G,Romania,England,2-1,2,1,False,False,False,,,Romania,Marc Batta,Stade de Toulouse,"33,500",22 June 1998,21:00
+France 1998,Group Stage,G,Colombia,England,0-2,0,2,False,False,False,,,England,Arturo Brizio Carter,Stade Félix-Bollaert,"38,100",26 June 1998,21:00
+France 1998,Group Stage,G,Romania,Tunisia,1-1,1,1,False,False,False,,,Draw,Eddie Lennie,Stade de France,"77,000",26 June 1998,21:00
+France 1998,Group Stage,H,Argentina,Japan,1-0,1,0,False,False,False,,,Argentina,Mario van der Ende,Stade de Toulouse,"33,500",14 June 1998,14:30
+France 1998,Group Stage,H,Jamaica,Croatia,1-3,1,3,False,False,False,,,Croatia,Vítor Melo Pereira,Stade Félix-Bollaert,"38,100",14 June 1998,21:00
+France 1998,Group Stage,H,Japan,Croatia,0-1,0,1,False,False,False,,,Croatia,Ramesh Ramdhan,Stade de la Beaujoire,"35,500",20 June 1998,14:30
+France 1998,Group Stage,H,Argentina,Jamaica,5-0,5,0,False,False,False,,,Argentina,Rune Pedersen,Parc des Princes,"45,500",21 June 1998,17:30
+France 1998,Group Stage,H,Argentina,Croatia,1-0,1,0,False,False,False,,,Argentina,Said Belqola,Parc Lescure,"31,800",26 June 1998,16:00
+France 1998,Group Stage,H,Japan,Jamaica,1-2,1,2,False,False,False,,,Jamaica,Günter Benkö,Stade Gerland,"39,100",26 June 1998,16:00
+France 1998,Round of 16,NaN,Italy,Norway,1-0,1,0,False,False,False,,,Italy,Bernd Heynemann,Stade Vélodrome,"55,000",27 June 1998,16:30
+France 1998,Round of 16,NaN,Brazil,Chile,4-1,4,1,False,False,False,,,Brazil,Marc Batta,Parc des Princes,"45,500",27 June 1998,21:00
+France 1998,Round of 16,NaN,France,Paraguay,1-0 (a.e.t./g.g.),1,0,True,True,False,,,France,Ali Bujsaim,Stade Félix-Bollaert,"31,800",28 June 1998,16:30
+France 1998,Round of 16,NaN,Nigeria,Denmark,1-4,1,4,False,False,False,,,Denmark,Urs Meier,Stade de France,"77,000",28 June 1998,21:00
+France 1998,Round of 16,NaN,Germany,Mexico,2-1,2,1,False,False,False,,,Germany,Vítor Melo Pereira,Stade de la Mosson,"29,800",29 June 1998,16:30
+France 1998,Round of 16,NaN,Netherlands,FR Yugoslavia,2-1,2,1,False,False,False,,,Netherlands,José María García-Aranda,Stade de Toulouse,"33,500",29 June 1998,21:00
+France 1998,Round of 16,NaN,Romania,Croatia,0-1,0,1,False,False,False,,,Croatia,Javier Castrilli,Parc Lescure,"31,800",30 June 1998,16:30
+France 1998,Round of 16,NaN,Argentina,England,2-2 (a.e.t.),2,2,True,False,True,4,3,Argentina,Kim Milton Nielsen,Stade Geoffroy-Guichard,"30,600",30 June 1998,21:00
+France 1998,Quarter-finals,NaN,Italy,France,0-0 (a.e.t.),0,0,True,False,True,3,4,France,Hugh Dallas,Stade de France,"77,000",3 July 1998,16:30
+France 1998,Quarter-finals,NaN,Brazil,Denmark,3-2,3,2,False,False,False,,,Brazil,Gamal Al-Ghandour,Stade de la Beaujoire,"35,500",3 July 1998,21:00
+France 1998,Quarter-finals,NaN,Netherlands,Argentina,2-1,2,1,False,False,False,,,Netherlands,Arturo Brizio Carter,Stade Vélodrome,"55,000",4 July 1998,16:30
+France 1998,Quarter-finals,NaN,Germany,Croatia,0-3,0,3,False,False,False,,,Croatia,Rune Pedersen,Stade de Gerland,"39,100",4 July 1998,21:00
+France 1998,Semi-finals,NaN,Brazil,Netherlands,1-1 (a.e.t.),1,1,True,False,True,4,2,Brazil,Ali Bujsaim,Stade Vélodrome,"54,000",7 July 1998,21:00
+France 1998,Semi-finals,NaN,France,Croatia,2-1,2,1,False,False,False,,,France,José María García-Aranda,Stade de France,"76,000",8 July 1998,21:00
+France 1998,Third Place Match,NaN,Netherlands,Croatia,1-2,1,2,False,False,False,,,Croatia,Epifanio González,Parc des Princes,"45,500",11 July 1998,21:00
+France 1998,Final,NaN,Brazil,France,0-3,0,3,False,False,False,,,France,Said Belqola,Stade de France,"75,000",12 July 1998,21:00
+Korea/Japan 2002,Group Stage,A,France,Senegal,0-1,0,1,False,False,False,,,Senegal,Ali Bujsaim,Seoul World Cup Stadium,"62,561",31 May 2002,20:30
+Korea/Japan 2002,Group Stage,A,Uruguay,Denmark,1-2,1,2,False,False,False,,,Denmark,Saad Mane,Munsu Football Stadium,"30,157",1 June 2002,18:00
+Korea/Japan 2002,Group Stage,A,Denmark,Senegal,1-1,1,1,False,False,False,,,Draw,Carlos Batres,Daegu World Cup Stadium,"43,500",6 June 2002,15:30
+Korea/Japan 2002,Group Stage,A,France,Uruguay,0-0,0,0,False,False,False,,,Draw,Felipe Ramos,Busan Asiad Main Stadium,"38,289",6 June 2002,20:30
+Korea/Japan 2002,Group Stage,A,Denmark,France,2-0,2,0,False,False,False,,,Denmark,Vítor Melo Pereira,Incheon World Cup Stadium,"48,100",11 June 2002,15:30
+Korea/Japan 2002,Group Stage,A,Senegal,Uruguay,3-3,3,3,False,False,False,,,Draw,Jan Wegereef,Suwon World Cup Stadium,"33,681",11 June 2002,15:30
+Korea/Japan 2002,Group Stage,B,Paraguay,South Africa,2-2,2,2,False,False,False,,,Draw,Ľuboš Micheľ,Busan Asiad Main Stadium,"25,186",2 June 2002,16:30
+Korea/Japan 2002,Group Stage,B,Spain,Slovenia,3-1,3,1,False,False,False,,,Spain,Mohamed Guezzaz,Gwangju World Cup Stadium,"28,598",2 June 2002,20:30
+Korea/Japan 2002,Group Stage,B,Spain,Paraguay,3-1,3,1,False,False,False,,,Spain,Gamal Al-Ghandour,Jeonju World Cup Stadium,"24,000",7 June 2002,18:00
+Korea/Japan 2002,Group Stage,B,South Africa,Slovenia,1-0,1,0,False,False,False,,,South Africa,Ángel Sánchez,Daegu World Cup Stadium,"47,226",8 June 2002,15:30
+Korea/Japan 2002,Group Stage,B,South Africa,Spain,2-3,2,3,False,False,False,,,Spain,Saad Mane,Daejeon World Cup Stadium,"31,024",12 June 2002,20:30
+Korea/Japan 2002,Group Stage,B,Slovenia,Paraguay,1-3,1,3,False,False,False,,,Paraguay,Felipe Ramos,Jeju World Cup Stadium,"30,176",12 June 2002,20:30
+Korea/Japan 2002,Group Stage,C,Brazil,Turkey,2-1,2,1,False,False,False,,,Brazil,South Korea,Munsu Football Stadium,"33,842",3 June 2002,18:00
+Korea/Japan 2002,Group Stage,C,China,Costa Rica,0-2,0,2,False,False,False,,,Costa Rica,Kyros Vassaras,Gwangju World Cup Stadium,"27,217",4 June 2002,15:30
+Korea/Japan 2002,Group Stage,C,Brazil,China,4-0,4,0,False,False,False,,,Brazil,Anders Frisk,Jeju World Cup Stadium,"36,750",8 June 2002,20:30
+Korea/Japan 2002,Group Stage,C,Costa Rica,Turkey,1-1,1,1,False,False,False,,,Draw,Coffi Codjia,Incheon World Cup Stadium,"42,299",9 June 2002,18:00
+Korea/Japan 2002,Group Stage,C,Costa Rica,Brazil,2-5,2,5,False,False,False,,,Brazil,Gamal Al-Ghandour,Suwon World Cup Stadium,"38,524",13 June 2002,15:30
+Korea/Japan 2002,Group Stage,C,Turkey,China,3-0,3,0,False,False,False,,,Turkey,Óscar Ruiz,Seoul World Cup Stadium,"43,605",13 June 2002,15:30
+Korea/Japan 2002,Group Stage,D,South Korea,Poland,2-0,2,0,False,False,False,,,South Korea,Óscar Ruiz,Busan Asiad Main Stadium,"48,760",4 June 2002,20:30
+Korea/Japan 2002,Group Stage,D,United States,Portugal,3-2,3,2,False,False,False,,,United States,Byron Moreno,Suwon World Cup Stadium,"37,306",5 June 2002,18:00
+Korea/Japan 2002,Group Stage,D,South Korea,United States,1-1,1,1,False,False,False,,,Draw,Urs Meier,Daegu World Cup Stadium,"60,778",10 June 2002,15:30
+Korea/Japan 2002,Group Stage,D,Portugal,Poland,4-0,4,0,False,False,False,,,Portugal,Hugh Dallas,Jeonju World Cup Stadium,"31,000",10 June 2002,20:30
+Korea/Japan 2002,Group Stage,D,Portugal,South Korea,0-1,0,1,False,False,False,,,South Korea,Ángel Sánchez,Incheon World Cup Stadium,"50,239",14 June 2002,20:30
+Korea/Japan 2002,Group Stage,D,Poland,United States,3-1,3,1,False,False,False,,,Poland,Lu Jun,Daejeon World Cup Stadium,"26,482",14 June 2002,20:30
+Korea/Japan 2002,Group Stage,E,Republic of Ireland,Cameroon,1-1,1,1,False,False,False,,,Draw,Toru Kamikawa,Niigata Stadium,"33,679",1 June 2002,15:30
+Korea/Japan 2002,Group Stage,E,Germany,Saudi Arabia,8-0,8,0,False,False,False,,,Germany,Ubaldo Aquino,Sapporo Dome,"32,218",1 June 2002,20:30
+Korea/Japan 2002,Group Stage,E,Germany,Republic of Ireland,1-1,1,1,False,False,False,,,Draw,Kim Milton Nielsen,Kashima Soccer Stadium,"35,854",5 June 2002,20:30
+Korea/Japan 2002,Group Stage,E,Cameroon,Saudi Arabia,1-0,1,0,False,False,False,,,Cameroon,Terje Hauge,Saitama Stadium,"52,328",6 June 2002,18:00
+Korea/Japan 2002,Group Stage,E,Cameroon,Germany,0-2,0,2,False,False,False,,,Germany,Antonio López Nieto,Ecopa Stadium,"47,085",11 June 2002,20:30
+Korea/Japan 2002,Group Stage,E,Saudi Arabia,Republic of Ireland,0-3,0,3,False,False,False,,,Republic of Ireland,Falla N'Doye,International Stadium Yokohama,"65,320",11 June 2002,20:30
+Korea/Japan 2002,Group Stage,F,Argentina,Nigeria,1-0,1,0,False,False,False,,,Argentina,Gilles Veissière,Kashima Soccer Stadium,"34,050",2 June 2002,14:30
+Korea/Japan 2002,Group Stage,F,England,Sweden,1-1,1,1,False,False,False,,,Draw,Carlos Simon,Saitama Stadium,"52,721",2 June 2002,18:30
+Korea/Japan 2002,Group Stage,F,Sweden,Nigeria,2-1,2,1,False,False,False,,,Sweden,René Ortubé,Wing Stadium,"36,194",7 June 2002,15:30
+Korea/Japan 2002,Group Stage,F,Argentina,England,0-1,0,1,False,False,False,,,England,Pierluigi Collina,Sapporo Dome,"35,927",7 June 2002,20:30
+Korea/Japan 2002,Group Stage,F,Sweden,Argentina,1-1,1,1,False,False,False,,,Draw,Ali Bujsaim,Miyagi Stadium,"45,777",12 June 2002,15:30
+Korea/Japan 2002,Group Stage,F,Nigeria,England,0-0,0,0,False,False,False,,,Draw,Brian Hall,Nagai Stadium,"44,864",12 June 2002,15:30
+Korea/Japan 2002,Group Stage,G,Croatia,Mexico,0-1,0,1,False,False,False,,,Mexico,Lu Jun,Niigata Big Swan Stadium,"32,239",3 June 2002,15:30
+Korea/Japan 2002,Group Stage,G,Italy,Ecuador,2-0,2,0,False,False,False,,,Italy,Brian Hall,Sapporo Dome,"31,081",3 June 2002,20:30
+Korea/Japan 2002,Group Stage,G,Italy,Croatia,1-2,1,2,False,False,False,,,Croatia,Graham Poll,Kashima Soccer Stadium,"36,472",8 June 2002,18:00
+Korea/Japan 2002,Group Stage,G,Mexico,Ecuador,2-1,2,1,False,False,False,,,Mexico,Mourad Daami,Miyagi Stadium,"45,610",9 June 2002,15:30
+Korea/Japan 2002,Group Stage,G,Mexico,Italy,1-1,1,1,False,False,False,,,Draw,Carlos Simon,Ōita Big Eye Stadium,"39,291",13 June 2002,20:30
+Korea/Japan 2002,Group Stage,G,Ecuador,Croatia,1-0,1,0,False,False,False,,,Ecuador,William Mattus,International Stadium Yokohama,"65,862",13 June 2002,20:30
+Korea/Japan 2002,Group Stage,H,Japan,Belgium,2-2,2,2,False,False,False,,,Draw,William Mattus,Saitama Stadium,"55,256",4 June 2002,18:00
+Korea/Japan 2002,Group Stage,H,Russia,Tunisia,2-0,2,0,False,False,False,,,Russia,Peter Prendergast,Kobe Wing Stadium,"30,957",5 June 2002,15:30
+Korea/Japan 2002,Group Stage,H,Japan,Russia,1-0,1,0,False,False,False,,,Japan,Markus Merk,International Stadium Yokohama,"66,108",9 June 2002,20:30
+Korea/Japan 2002,Group Stage,H,Tunisia,Belgium,1-1,1,1,False,False,False,,,Draw,Mark Shield,Ōita Big Eye Stadium,"39,700",10 June 2002,18:00
+Korea/Japan 2002,Group Stage,H,Tunisia,Japan,0-2,0,2,False,False,False,,,Japan,Gilles Veissière,Nagai Stadium,"45,213",14 June 2002,15:30
+Korea/Japan 2002,Group Stage,H,Belgium,Russia,3-2,3,2,False,False,False,,,Belgium,Kim Milton Nielsen,Shizuoka Ecopa Stadium,"46,640",14 June 2002,15:30
+Korea/Japan 2002,Round of 16,NaN,Germany,Paraguay,1-0,1,0,False,False,False,,,Germany,Carlos Alberto Batres,Jeju World Cup Stadium,"25,176",15 June 2002,15:30
+Korea/Japan 2002,Round of 16,NaN,Denmark,England,0-3,0,3,False,False,False,,,England,Markus Merk,Big Swan Stadium,"40,582",15 June 2002,20:30
+Korea/Japan 2002,Round of 16,NaN,Sweden,Senegal,1-2 (a.e.t./g.g.),1,2,True,True,False,,,Senegal,Ubaldo Aquino,Big Eye Stadium,"39,747",16 June 2002,15:30
+Korea/Japan 2002,Round of 16,NaN,Spain,Republic of Ireland,1-1 (a.e.t.),1,1,True,False,True,3,2,Spain,Anders Frisk,Suwon World Cup Stadium,"38,926",16 June 2002,20:30
+Korea/Japan 2002,Round of 16,NaN,Mexico,United States,0-2,0,2,False,False,False,,,United States,Vítor Melo Pereira,Jeonju World Cup Stadium,"36,380",17 June 2002,15:30
+Korea/Japan 2002,Round of 16,NaN,Brazil,Belgium,2-0,2,0,False,False,False,,,Brazil,Peter Prendergast,Kobe Wing Stadium,"40,440",17 June 2002,20:30
+Korea/Japan 2002,Round of 16,NaN,Japan,Turkey,0-1,0,1,False,False,False,,,Turkey,Pierluigi Collina,Miyagi Stadium,"45,666",18 June 2002,15:30
+Korea/Japan 2002,Round of 16,NaN,South Korea,Italy,2-1 (a.e.t./g.g.),2,1,True,True,False,,,South Korea,Byron Moreno,Daejeon World Cup Stadium,"38,588",18 June 2002,20:30
+Korea/Japan 2002,Quarter-finals,NaN,England,Brazil,1-2,1,2,False,False,False,,,Brazil,Felipe Ramos,Stadium Ecopa,"47,436",21 June 2002,15:30
+Korea/Japan 2002,Quarter-finals,NaN,Germany,United States,1-0,1,0,False,False,False,,,Germany,Hugh Dallas,Munsu Football Stadium,"37,337",21 June 2002,20:30
+Korea/Japan 2002,Quarter-finals,NaN,Spain,South Korea,0-0 (a.e.t.),0,0,True,False,True,3,5,South Korea,Gamal Al-Ghandour,Gwangju World Cup Stadium,"42,114",22 June 2002,15:30
+Korea/Japan 2002,Quarter-finals,NaN,Senegal,Turkey,0-1 (a.e.t./g.g.),0,1,True,True,False,,,Turkey,Óscar Ruiz,Nagai Stadium,"44,233",22 June 2002,20:30
+Korea/Japan 2002,Semi-finals,NaN,Germany,South Korea,1-0,1,0,False,False,False,,,Germany,Urs Meier,Seoul World Cup Stadium,"65,256",25 June 2002,20:30
+Korea/Japan 2002,Semi-finals,NaN,Brazil,Turkey,1-0,1,0,False,False,False,,,Brazil,Kim Milton Nielsen,Saitama Stadium,"61,058",26 June 2002,20:30
+Korea/Japan 2002,Third Place Match,NaN,South Korea,Turkey,2-3,2,3,False,False,False,,,Turkey,Saad Mane,Daegu World Cup Stadium,"63,483",29 June 2002,20:00
+Korea/Japan 2002,Final,NaN,Germany,Brazil,0-2,0,2,False,False,False,,,Brazil,Pierluigi Collina,International Stadium Yokohama,"69,029",30 June 2002,20:00
+Germany 2006,Group Stage,A,Germany,Costa Rica,4-2,4,2,False,False,False,,,Germany,Horacio Elizondo,Allianz Arena,"66,000",9 June 2006,16:00
+Germany 2006,Group Stage,A,Poland,Ecuador,0-2,0,2,False,False,False,,,Ecuador,Toru Kamikawa,Arena AufSchalke,"52,000",9 June 2006,19:00
+Germany 2006,Group Stage,A,Germany,Poland,1-0,1,0,False,False,False,,,Germany,Luis Medina Cantalejo,Westfalenstadion,"65,000",14 June 2006,19:00
+Germany 2006,Group Stage,A,Ecuador,Costa Rica,3-0,3,0,False,False,False,,,Ecuador,Coffi Codjia,Volksparkstadion,"50,000",15 June 2006,13:00
+Germany 2006,Group Stage,A,Ecuador,Germany,0-3,0,3,False,False,False,,,Germany,Valentin Ivanov,Olympiastadion,"72,000",20 June 2006,14:00
+Germany 2006,Group Stage,A,Costa Rica,Poland,1-2,1,2,False,False,False,,,Poland,Shamsul Maidin,Niedersachsenstadion,"43,000",20 June 2006,14:00
+Germany 2006,Group Stage,B,England,Paraguay,1-0,1,0,False,False,False,,,England,Marco Rodríguez,Waldstadion,"48,000",10 June 2006,15:00
+Germany 2006,Group Stage,B,Trinidad and Tobago,Sweden,0-0,0,0,False,False,False,,,Draw,Shamsul Maidin,Westfalenstadion,"62,959",10 June 2006,18:00
+Germany 2006,Group Stage,B,England,Trinidad and Tobago,2-0,2,0,False,False,False,,,England,Toru Kamikawa,Frankenstadion,"41,000",15 June 2006,18:00
+Germany 2006,Group Stage,B,Sweden,Paraguay,1-0,1,0,False,False,False,,,Sweden,Ľuboš Micheľ,Olympiastadion,"72,000",15 June 2006,21:00
+Germany 2006,Group Stage,B,Sweden,England,2-2,2,2,False,False,False,,,Draw,Massimo Busacca,RheinEnergieStadion,"45,000",20 June 2006,21:00
+Germany 2006,Group Stage,B,Paraguay,Trinidad and Tobago,2-0,2,0,False,False,False,,,Paraguay,Roberto Rosetti,Fritz-Walter-Stadion,"46,000",20 June 2006,21:00
+Germany 2006,Group Stage,C,Argentina,Ivory Coast,2-1,2,1,False,False,False,,,Argentina,Frank De Bleeckere,Volksparkstadion,"49,480",10 June 2006,21:00
+Germany 2006,Group Stage,C,Serbia and Montenegro,Netherlands,0-1,0,1,False,False,False,,,Netherlands,Markus Merk,Zentralstadion,"43,000",11 June 2006,15:00
+Germany 2006,Group Stage,C,Argentina,Serbia and Montenegro,6-0,6,0,False,False,False,,,Argentina,Roberto Rosetti,Arena AufSchalke,"52,000",16 June 2006,15:00
+Germany 2006,Group Stage,C,Netherlands,Ivory Coast,2-1,2,1,False,False,False,,,Netherlands,Óscar Ruiz,Gottlieb-Daimler-Stadion,"52,000",16 June 2006,18:00
+Germany 2006,Group Stage,C,Netherlands,Argentina,0-0,0,0,False,False,False,,,Draw,Luis Medina Cantalejo,Waldstadion,"48,000",21 June 2006,21:00
+Germany 2006,Group Stage,C,Ivory Coast,Serbia and Montenegro,3-2,3,2,False,False,False,,,Ivory Coast,Marco Rodríguez,Allianz Arena,"66,000",21 June 2006,21:00
+Germany 2006,Group Stage,D,Mexico,Iran,3-1,3,1,False,False,False,,,Mexico,Roberto Rosetti,Frankenstadion,"41,000",11 June 2006,18:00
+Germany 2006,Group Stage,D,Angola,Portugal,0-1,0,1,False,False,False,,,Portugal,Jorge Larrionda,RheinEnergieStadion,"45,000",11 June 2006,21:00
+Germany 2006,Group Stage,D,Mexico,Angola,0-0,0,0,False,False,False,,,Draw,Shamsul Maidin,Niedersachsenstadion,"43,000",16 June 2006,21:00
+Germany 2006,Group Stage,D,Portugal,Iran,2-0,2,0,False,False,False,,,Portugal,Éric Poulat,Waldstadion,"48,000",17 June 2006,15:00
+Germany 2006,Group Stage,D,Portugal,Mexico,2-1,2,1,False,False,False,,,Portugal,Ľuboš Micheľ,Arena AufSchalke,"52,000",21 June 2006,16:00
+Germany 2006,Group Stage,D,Iran,Angola,1-1,1,1,False,False,False,,,Draw,Mark Shield,Zentralstadion,"38,000",21 June 2006,16:00
+Germany 2006,Group Stage,E,United States,Czech Republic,0-3,0,3,False,False,False,,,Czech Republic,Carlos Amarilla,Arena AufSchalke,"52,000",12 June 2006,18:00
+Germany 2006,Group Stage,E,Italy,Ghana,2-0,2,0,False,False,False,,,Italy,Carlos Simon,Niedersachsenstadion,"43,000",12 June 2006,21:00
+Germany 2006,Group Stage,E,Czech Republic,Ghana,0-2,0,2,False,False,False,,,Ghana,Horacio Elizondo,RheinEnergieStadion,"45,000",17 June 2006,18:00
+Germany 2006,Group Stage,E,Italy,United States,1-1,1,1,False,False,False,,,Draw,Jorge Larrionda,Fritz-Walter-Stadion,"46,000",17 June 2006,21:00
+Germany 2006,Group Stage,E,Czech Republic,Italy,0-2,0,2,False,False,False,,,Italy,Benito Archundia,Volksparkstadion,"50,000",22 June 2006,16:00
+Germany 2006,Group Stage,E,Ghana,United States,2-1,2,1,False,False,False,,,Ghana,Markus Merk,Frankenstadion,"41,000",22 June 2006,16:00
+Germany 2006,Group Stage,F,Australia,Japan,3-1,3,1,False,False,False,,,Australia,Essam Abd El Fatah,Fritz-Walter-Stadion,"46,000",12 June 2006,15:00
+Germany 2006,Group Stage,F,Brazil,Croatia,1-0,1,0,False,False,False,,,Brazil,Benito Archundia,Olympiastadion,"72,000",13 June 2006,21:00
+Germany 2006,Group Stage,F,Japan,Croatia,0-0,0,0,False,False,False,,,Draw,Frank De Bleeckere,Frankenstadion,"41,000",18 June 2006,15:00
+Germany 2006,Group Stage,F,Brazil,Australia,2-0,2,0,False,False,False,,,Brazil,Markus Merk,Allianz Arena,"66,000",18 June 2006,18:00
+Germany 2006,Group Stage,F,Japan,Brazil,1-4,1,4,False,False,False,,,Brazil,Éric Poulat,Westfalenstadion,"65,000",22 June 2006,21:00
+Germany 2006,Group Stage,F,Croatia,Australia,2-2,2,2,False,False,False,,,Draw,Graham Poll,Gottlieb-Daimler-Stadion,"52,000",22 June 2006,21:00
+Germany 2006,Group Stage,G,South Korea,Togo,2-1,2,1,False,False,False,,,South Korea,Graham Poll,Waldstadion,"48,000",13 June 2006,15:00
+Germany 2006,Group Stage,G,France,Switzerland,0-0,0,0,False,False,False,,,Draw,Valentin Ivanov,Gottlieb-Daimler-Stadion,"52,000",13 June 2006,18:00
+Germany 2006,Group Stage,G,France,South Korea,1-1,1,1,False,False,False,,,Draw,Benito Archundia,Zentralstadion,"43,000",18 June 2006,21:00
+Germany 2006,Group Stage,G,Togo,Switzerland,0-2,0,2,False,False,False,,,Switzerland,Carlos Amarilla,Westfalenstadion,"65,000",19 June 2006,15:00
+Germany 2006,Group Stage,G,Togo,France,0-2,0,2,False,False,False,,,France,Jorge Larrionda,RheinEnergieStadion,"45,000",23 June 2006,21:00
+Germany 2006,Group Stage,G,Switzerland,South Korea,2-0,2,0,False,False,False,,,Switzerland,Horacio Elizondo,Niedersachsenstadion,"43,000",23 June 2006,21:00
+Germany 2006,Group Stage,H,Spain,Ukraine,4-0,4,0,False,False,False,,,Spain,Massimo Busacca,Zentralstadion,"43,000",14 June 2006,15:00
+Germany 2006,Group Stage,H,Tunisia,Saudi Arabia,2-2,2,2,False,False,False,,,Draw,Mark Shield,Allianz Arena,"66,000",14 June 2006,18:00
+Germany 2006,Group Stage,H,Saudi Arabia,Ukraine,0-4,0,4,False,False,False,,,Ukraine,Graham Poll,Volksparkstadion,"50,000",19 June 2006,18:00
+Germany 2006,Group Stage,H,Spain,Tunisia,3-1,3,1,False,False,False,,,Spain,Carlos Simon,Gottlieb-Daimler-Stadion,"52,000",19 June 2006,21:00
+Germany 2006,Group Stage,H,Saudi Arabia,Spain,0-1,0,1,False,False,False,,,Spain,Coffi Codjia,Fritz-Walter-Stadion,"46,000",23 June 2006,16:00
+Germany 2006,Group Stage,H,Ukraine,Tunisia,1-0,1,0,False,False,False,,,Ukraine,Carlos Amarilla,Olympiastadion,"72,000",23 June 2006,16:00
+Germany 2006,Round of 16,NaN,Germany,Sweden,2-0,2,0,False,False,False,,,Germany,Carlos Simon,Allianz Arena,"66,000",24 June 2006,17:00
+Germany 2006,Round of 16,NaN,Argentina,Mexico,2-1 (a.e.t.),2,1,True,False,False,,,Argentina,Massimo Busacca,Zentralstadion,"43,000",24 June 2006,21:00
+Germany 2006,Round of 16,NaN,England,Ecuador,1-0,1,0,False,False,False,,,England,Frank De Bleeckere,Gottlieb-Daimler-Stadion,"52,000",25 June 2006,17:00
+Germany 2006,Round of 16,NaN,Portugal,Netherlands,1-0,1,0,False,False,False,,,Portugal,Valentin Ivanov,Frankenstadion,"41,000",25 June 2006,21:00
+Germany 2006,Round of 16,NaN,Italy,Australia,1-0,1,0,False,False,False,,,Italy,Luis Medina Cantalejo,Fritz-Walter-Stadion,"46,000",26 June 2006,17:00
+Germany 2006,Round of 16,NaN,Switzerland,Ukraine,0-0 (a.e.t.),0,0,True,False,True,0,3,Ukraine,Benito Archundia,RheinEnergieStadion,"45,000",26 June 2006,21:00
+Germany 2006,Round of 16,NaN,Brazil,Ghana,3-0,3,0,False,False,False,,,Brazil,Ľuboš Micheľ,Westfalenstadion,"65,000",27 June 2006,17:00
+Germany 2006,Round of 16,NaN,Spain,France,1-3,1,3,False,False,False,,,France,Roberto Rosetti,Niedersachsenstadion,"43,000",27 June 2006,21:00
+Germany 2006,Quarter-finals,NaN,Germany,Argentina,1-1 (a.e.t.),1,1,True,False,True,4,2,Germany,Ľuboš Micheľ,Olympiastadion,"72,000",30 June 2006,17:00
+Germany 2006,Quarter-finals,NaN,Italy,Ukraine,3-0,3,0,False,False,False,,,Italy,Frank De Bleeckere,Volksparkstadion,"50,000",30 June 2006,21:00
+Germany 2006,Quarter-finals,NaN,England,Portugal,0-0 (a.e.t.),0,0,True,False,True,1,3,Portugal,Horacio Elizondo,Arena AufSchalke,"52,000",1 July 2006,17:00
+Germany 2006,Quarter-finals,NaN,Brazil,France,0-1,0,1,False,False,False,,,France,Luis Medina Cantalejo,Waldstadion,"48,000",1 July 2006,21:00
+Germany 2006,Semi-finals,NaN,Germany,Italy,0-2 (a.e.t.),0,2,True,False,False,,,Italy,Benito Archundia,Westfalenstadion,"65,000",4 July 2006,21:00
+Germany 2006,Semi-finals,NaN,Portugal,France,0-1,0,1,False,False,False,,,France,Jorge Larrionda,Allianz Arena,"66,000",5 July 2006,21:00
+Germany 2006,Third Place Match,NaN,Germany,Portugal,3-1,3,1,False,False,False,,,Germany,Toru Kamikawa,Gottlieb-Daimler-Stadion,"52,000",8 July 2006,21:00
+Germany 2006,Final,NaN,Italy,France,1-1 (a.e.t.),1,1,True,False,True,5,3,Italy,Horacio Elizondo,Olympiastadion,"69,000",9 July 2006,20:00
+South Africa 2010,Group Stage,A,South Africa,Mexico,1-1,1,1,False,False,False,,,Draw,Ravshan Irmatov,Soccer City,"84,490",11 June 2010,16:00
+South Africa 2010,Group Stage,A,Uruguay,France,0-0,0,0,False,False,False,,,Draw,Yuichi Nishimura,Cape Town Stadium,"64,100",11 June 2010,20:30
+South Africa 2010,Group Stage,A,South Africa,Uruguay,0-3,0,3,False,False,False,,,Uruguay,Massimo Busacca,Loftus Versfeld Stadium,"42,658",16 June 2010,20:30
+South Africa 2010,Group Stage,A,France,Mexico,0-2,0,2,False,False,False,,,Mexico,Khalil Al Ghamdi,Peter Mokaba Stadium,"35,370",17 June 2010,20:30
+South Africa 2010,Group Stage,A,Mexico,Uruguay,0-1,0,1,False,False,False,,,Uruguay,Viktor Kassai,Royal Bafokeng Stadium,"33,425",22 June 2010,16:00
+South Africa 2010,Group Stage,A,France,South Africa,1-2,1,2,False,False,False,,,South Africa,Óscar Ruiz,Free State Stadium,"39,415",22 June 2010,16:00
+South Africa 2010,Group Stage,B,South Korea,Greece,2-0,2,0,False,False,False,,,South Korea,Michael Hester,Nelson Mandela Bay Stadium,"31,513",12 June 2010,13:30
+South Africa 2010,Group Stage,B,Argentina,Nigeria,1-0,1,0,False,False,False,,,Argentina,Wolfgang Stark,Ellis Park Stadium,"55,686",12 June 2010,16:00
+South Africa 2010,Group Stage,B,Argentina,South Korea,4-1,4,1,False,False,False,,,Argentina,Frank De Bleeckere,Soccer City,"82,174",17 June 2010,13:30
+South Africa 2010,Group Stage,B,Greece,Nigeria,2-1,2,1,False,False,False,,,Greece,Óscar Ruiz,Free State Stadium,"31,593",17 June 2010,16:00
+South Africa 2010,Group Stage,B,Nigeria,South Korea,2-2,2,2,False,False,False,,,Draw,Olegário Benquerença,Moses Mabhida Stadium,"61,874",22 June 2010,20:30
+South Africa 2010,Group Stage,B,Greece,Argentina,0-2,0,2,False,False,False,,,Argentina,Ravshan Irmatov,Peter Mokaba Stadium,"38,891",22 June 2010,20:30
+South Africa 2010,Group Stage,C,England,United States,1-1,1,1,False,False,False,,,Draw,Carlos Simon,Royal Bafokeng Stadium,"38,646",12 June 2010,20:30
+South Africa 2010,Group Stage,C,Algeria,Slovenia,0-1,0,1,False,False,False,,,Slovenia,Carlos Batres,Peter Mokaba Stadium,"30,325",13 June 2010,13:30
+South Africa 2010,Group Stage,C,Slovenia,United States,2-2,2,2,False,False,False,,,Draw,Koman Coulibaly,Ellis Park Stadium,"45,573",18 June 2010,16:00
+South Africa 2010,Group Stage,C,England,Algeria,0-0,0,0,False,False,False,,,Draw,Ravshan Irmatov,Cape Town Stadium,"64,100",18 June 2010,20:30
+South Africa 2010,Group Stage,C,Slovenia,England,0-1,0,1,False,False,False,,,England,Wolfgang Stark,Nelson Mandela Bay Stadium,"36,893",23 June 2010,16:00
+South Africa 2010,Group Stage,C,United States,Algeria,1-0,1,0,False,False,False,,,United States,Frank De Bleeckere,Loftus Versfeld Stadium,"35,827",23 June 2010,16:00
+South Africa 2010,Group Stage,D,Serbia,Ghana,0-1,0,1,False,False,False,,,Ghana,Héctor Baldassi,Loftus Versfeld Stadium,"38,833",13 June 2010,16:00
+South Africa 2010,Group Stage,D,Germany,Australia,4-0,4,0,False,False,False,,,Germany,Marco Rodríguez,Moses Mabhida Stadium,"62,660",13 June 2010,20:30
+South Africa 2010,Group Stage,D,Germany,Serbia,0-1,0,1,False,False,False,,,Serbia,Alberto Undiano Mallenco,Nelson Mandela Bay Stadium,"38,294",18 June 2010,13:30
+South Africa 2010,Group Stage,D,Ghana,Australia,1-1,1,1,False,False,False,,,Draw,Roberto Rosetti,Royal Bafokeng Stadium,"34,812",19 June 2010,16:00
+South Africa 2010,Group Stage,D,Ghana,Germany,0-1,0,1,False,False,False,,,Germany,Carlos Simon,Soccer City,"83,391",23 June 2010,20:30
+South Africa 2010,Group Stage,D,Australia,Serbia,2-1,2,1,False,False,False,,,Australia,Jorge Larrionda,Mbombela Stadium,"37,836",23 June 2010,20:30
+South Africa 2010,Group Stage,E,Netherlands,Denmark,2-0,2,0,False,False,False,,,Netherlands,Stéphane Lannoy,Soccer City,"83,465",14 June 2010,13:30
+South Africa 2010,Group Stage,E,Japan,Cameroon,1-0,1,0,False,False,False,,,Japan,Olegário Benquerença,Free State Stadium,"30,620",14 June 2010,16:00
+South Africa 2010,Group Stage,E,Netherlands,Japan,1-0,1,0,False,False,False,,,Netherlands,Héctor Baldassi,Moses Mabhida Stadium,"62,010",19 June 2010,13:30
+South Africa 2010,Group Stage,E,Cameroon,Denmark,1-2,1,2,False,False,False,,,Denmark,Jorge Larrionda,Loftus Versfeld Stadium,"38,074",19 June 2010,20:30
+South Africa 2010,Group Stage,E,Denmark,Japan,1-3,1,3,False,False,False,,,Japan,Jerome Damon,Royal Bafokeng Stadium,"27,967",24 June 2010,20:30
+South Africa 2010,Group Stage,E,Cameroon,Netherlands,1-2,1,2,False,False,False,,,Netherlands,Pablo Pozo,Cape Town Stadium,"63,093",24 June 2010,20:30
+South Africa 2010,Group Stage,F,Italy,Paraguay,1-1,1,1,False,False,False,,,Draw,Benito Archundia,Cape Town Stadium,"62,869",14 June 2010,20:30
+South Africa 2010,Group Stage,F,New Zealand,Slovakia,1-1,1,1,False,False,False,,,Draw,Jerome Damon,Royal Bafokeng Stadium,"23,871",15 June 2010,13:30
+South Africa 2010,Group Stage,F,Slovakia,Paraguay,0-2,0,2,False,False,False,,,Paraguay,Eddy Maillet,Free State Stadium,"26,643",20 June 2010,13:30
+South Africa 2010,Group Stage,F,Italy,New Zealand,1-1,1,1,False,False,False,,,Draw,Carlos Batres,Mbombela Stadium,"38,229",20 June 2010,16:00
+South Africa 2010,Group Stage,F,Slovakia,Italy,3-2,3,2,False,False,False,,,Slovakia,Howard Webb,Ellis Park Stadium,"53,412",24 June 2010,16:00
+South Africa 2010,Group Stage,F,Paraguay,New Zealand,0-0,0,0,False,False,False,,,Draw,Yuichi Nishimura,Peter Mokaba Stadium,"34,850",24 June 2010,16:00
+South Africa 2010,Group Stage,G,Ivory Coast,Portugal,0-0,0,0,False,False,False,,,Draw,Jorge Larrionda,Nelson Mandela Bay Stadium,"37,034",15 June 2010,16:00
+South Africa 2010,Group Stage,G,Brazil,North Korea,2-1,2,1,False,False,False,,,Brazil,Viktor Kassai,Ellis Park Stadium,"54,331",15 June 2010,20:30
+South Africa 2010,Group Stage,G,Brazil,Ivory Coast,3-1,3,1,False,False,False,,,Brazil,Stéphane Lannoy,Soccer City,"84,455",20 June 2010,20:30
+South Africa 2010,Group Stage,G,Portugal,North Korea,7-0,7,0,False,False,False,,,Portugal,Pablo Pozo,Cape Town Stadium,"63,644",21 June 2010,13:30
+South Africa 2010,Group Stage,G,Portugal,Brazil,0-0,0,0,False,False,False,,,Draw,Benito Archundia,Moses Mabhida Stadium,"62,712",25 June 2010,16:00
+South Africa 2010,Group Stage,G,North Korea,Ivory Coast,0-3,0,3,False,False,False,,,Ivory Coast,Alberto Undiano Mallenco,Mbombela Stadium,"34,763",25 June 2010,16:00
+South Africa 2010,Group Stage,H,Honduras,Chile,0-1,0,1,False,False,False,,,Chile,Eddy Maillet,Mbombela Stadium,"32,664",16 June 2010,13:30
+South Africa 2010,Group Stage,H,Spain,Switzerland,0-1,0,1,False,False,False,,,Switzerland,Howard Webb,Moses Mabhida Stadium,"62,453",16 June 2010,16:00
+South Africa 2010,Group Stage,H,Chile,Switzerland,1-0,1,0,False,False,False,,,Chile,Khalil Al Ghamdi,Nelson Mandela Bay Stadium,"34,872",21 June 2010,16:00
+South Africa 2010,Group Stage,H,Spain,Honduras,2-0,2,0,False,False,False,,,Spain,Yuichi Nishimura,Ellis Park Stadium,"54,386",21 June 2010,20:30
+South Africa 2010,Group Stage,H,Chile,Spain,1-2,1,2,False,False,False,,,Spain,Marco Rodríguez,Loftus Versfeld Stadium,"41,958",25 June 2010,20:30
+South Africa 2010,Group Stage,H,Switzerland,Honduras,0-0,0,0,False,False,False,,,Draw,Héctor Baldassi,Free State Stadium,"28,042",25 June 2010,20:30
+South Africa 2010,Round of 16,NaN,Uruguay,South Korea,2-1,2,1,False,False,False,,,Uruguay,Wolfgang Stark,Nelson Mandela Bay Stadium,"30,597",26 June 2010,16:00
+South Africa 2010,Round of 16,NaN,United States,Ghana,1-2 (a.e.t.),1,2,True,False,False,,,Ghana,Viktor Kassai,Royal Bafokeng Stadium,"34,976",26 June 2010,20:30
+South Africa 2010,Round of 16,NaN,Germany,England,4-1,4,1,False,False,False,,,Germany,Jorge Larrionda,Free State Stadium,"40,510",27 June 2010,16:00
+South Africa 2010,Round of 16,NaN,Argentina,Mexico,3-1,3,1,False,False,False,,,Argentina,Roberto Rosetti,Soccer City,"84,377",27 June 2010,20:30
+South Africa 2010,Round of 16,NaN,Netherlands,Slovakia,2-1,2,1,False,False,False,,,Netherlands,Alberto Undiano Mallenco,Moses Mabhida Stadium,"61,962",28 June 2010,16:00
+South Africa 2010,Round of 16,NaN,Brazil,Chile,3-0,3,0,False,False,False,,,Brazil,Howard Webb,Ellis Park Stadium,"54,096",28 June 2010,20:30
+South Africa 2010,Round of 16,NaN,Paraguay,Japan,0-0 (a.e.t.),0,0,True,False,True,5,3,Paraguay,Frank De Bleeckere,Loftus Versfeld Stadium,"36,742",29 June 2010,16:00
+South Africa 2010,Round of 16,NaN,Spain,Portugal,1-0,1,0,False,False,False,,,Spain,Héctor Baldassi,Cape Town Stadium,"62,955",29 June 2010,20:30
+South Africa 2010,Quarter-finals,NaN,Netherlands,Brazil,2-1,2,1,False,False,False,,,Netherlands,Yuichi Nishimura,Nelson Mandela Bay Stadium,"40,186",2 July 2010,16:00
+South Africa 2010,Quarter-finals,NaN,Uruguay,Ghana,1-1 (a.e.t.),1,1,True,False,True,4,2,Uruguay,Olegário Benquerença,Soccer City,"84,017",2 July 2010,20:30
+South Africa 2010,Quarter-finals,NaN,Argentina,Germany,0-4,0,4,False,False,False,,,Germany,Ravshan Irmatov,Cape Town Stadium,"64,100",3 July 2010,16:00
+South Africa 2010,Quarter-finals,NaN,Paraguay,Spain,0-1,0,1,False,False,False,,,Spain,Carlos Batres,Ellis Park Stadium,"55,359",3 July 2010,20:30
+South Africa 2010,Semi-finals,NaN,Uruguay,Netherlands,2-3,2,3,False,False,False,,,Netherlands,Ravshan Irmatov,Cape Town Stadium,"62,479",6 July 2010,20:30
+South Africa 2010,Semi-finals,NaN,Germany,Spain,0-1,0,1,False,False,False,,,Spain,Viktor Kassai,Moses Mabhida Stadium,"60,960",7 July 2010,20:30
+South Africa 2010,Third Place Match,NaN,Uruguay,Germany,2-3,2,3,False,False,False,,,Germany,Benito Archundia,Nelson Mandela Bay Stadium,"36,254",10 July 2010,20:30
+South Africa 2010,Final,NaN,Netherlands,Spain,0-1 (a.e.t.),0,1,True,False,False,,,Spain,Howard Webb,Soccer City,"84,490",11 July 2010,20:30
+Brazil 2014,Group Stage,A,Brazil,Croatia,3-1,3,1,False,False,False,,,Brazil,Yuichi Nishimura,Arena de São Paulo,"62,103",12 June 2014,17:00
+Brazil 2014,Group Stage,A,Mexico,Cameroon,1-0,1,0,False,False,False,,,Mexico,Wilmar Roldán,Arena das Dunas,"39,216",13 June 2014,13:00
+Brazil 2014,Group Stage,A,Brazil,Mexico,0-0,0,0,False,False,False,,,Draw,Cüneyt Çakır,Estádio Castelão,"60,342",17 June 2014,16:00
+Brazil 2014,Group Stage,A,Cameroon,Croatia,0-4,0,4,False,False,False,,,Croatia,Pedro Proença,Arena da Amazônia,"39,982",18 June 2014,18:00
+Brazil 2014,Group Stage,A,Cameroon,Brazil,1-4,1,4,False,False,False,,,Brazil,Jonas Eriksson,Estádio Nacional Mané Garrincha,"69,112",23 June 2014,17:00
+Brazil 2014,Group Stage,A,Croatia,Mexico,1-3,1,3,False,False,False,,,Mexico,Ravshan Irmatov,Itaipava Arena Pernambuco,"41,212",23 June 2014,17:00
+Brazil 2014,Group Stage,B,Spain,Netherlands,1-5,1,5,False,False,False,,,Netherlands,Nicola Rizzoli,Itaipava Arena Fonte Nova,"48,173",13 June 2014,16:00
+Brazil 2014,Group Stage,B,Chile,Australia,3-1,3,1,False,False,False,,,Chile,Noumandiez Doué,Arena Pantanal,"40,275",13 June 2014,18:00
+Brazil 2014,Group Stage,B,Australia,Netherlands,2-3,2,3,False,False,False,,,Netherlands,Djamel Haimoudi,Estádio Beira-Rio,"42,877",18 June 2014,13:00
+Brazil 2014,Group Stage,B,Spain,Chile,0-2,0,2,False,False,False,,,Chile,Mark Geiger,Estádio do Maracanã,"74,101",18 June 2014,16:00
+Brazil 2014,Group Stage,B,Australia,Spain,0-3,0,3,False,False,False,,,Spain,Nawaf Shukralla,Arena da Baixada,"39,375",23 June 2014,13:00
+Brazil 2014,Group Stage,B,Netherlands,Chile,2-0,2,0,False,False,False,,,Netherlands,Bakary Gassama,Arena de São Paulo,"62,996",23 June 2014,13:00
+Brazil 2014,Group Stage,C,Colombia,Greece,3-0,3,0,False,False,False,,,Colombia,Mark Geiger,Estádio Mineirão,"57,174",14 June 2014,13:00
+Brazil 2014,Group Stage,C,Ivory Coast,Japan,2-1,2,1,False,False,False,,,Ivory Coast,Enrique Osses,Itaipava Arena Pernambuco,"40,267",14 June 2014,22:00
+Brazil 2014,Group Stage,C,Colombia,Ivory Coast,2-1,2,1,False,False,False,,,Colombia,Howard Webb,Estádio Nacional Mané Garrincha,"68,748",19 June 2014,13:00
+Brazil 2014,Group Stage,C,Japan,Greece,0-0,0,0,False,False,False,,,Draw,Joel Aguilar,Arena das Dunas,"39,485",19 June 2014,19:00
+Brazil 2014,Group Stage,C,Japan,Colombia,1-4,1,4,False,False,False,,,Colombia,Pedro Proença,Arena Pantanal,"40,340",24 June 2014,16:00
+Brazil 2014,Group Stage,C,Greece,Ivory Coast,2-1,2,1,False,False,False,,,Greece,Carlos Vera,Estádio Castelão,"59,095",24 June 2014,17:00
+Brazil 2014,Group Stage,D,Uruguay,Costa Rica,1-3,1,3,False,False,False,,,Costa Rica,Felix Brych,Estádio Castelão,"58,679",14 June 2014,16:00
+Brazil 2014,Group Stage,D,England,Italy,1-2,1,2,False,False,False,,,Italy,Björn Kuipers,Arena da Amazônia,"39,800",14 June 2014,18:00
+Brazil 2014,Group Stage,D,Uruguay,England,2-1,2,1,False,False,False,,,Uruguay,Carlos Velasco Carballo,Arena de São Paulo,"62,575",19 June 2014,16:00
+Brazil 2014,Group Stage,D,Italy,Costa Rica,0-1,0,1,False,False,False,,,Costa Rica,Enrique Osses,Itaipava Arena Pernambuco,"40,285",20 June 2014,13:00
+Brazil 2014,Group Stage,D,Italy,Uruguay,0-1,0,1,False,False,False,,,Uruguay,Marco Rodríguez,Arena das Dunas,"39,706",24 June 2014,13:00
+Brazil 2014,Group Stage,D,Costa Rica,England,0-0,0,0,False,False,False,,,Draw,Djamel Haimoudi,Estádio Mineirão,"57,823",24 June 2014,13:00
+Brazil 2014,Group Stage,E,Switzerland,Ecuador,2-1,2,1,False,False,False,,,Switzerland,Ravshan Irmatov,Estádio Nacional Mané Garrincha,"68,351",15 June 2014,13:00
+Brazil 2014,Group Stage,E,France,Honduras,3-0,3,0,False,False,False,,,France,Sandro Ricci,Estádio Beira-Rio,"43,012",15 June 2014,16:00
+Brazil 2014,Group Stage,E,Switzerland,France,2-5,2,5,False,False,False,,,France,Björn Kuipers,Itaipava Arena Fonte Nova,"51,003",20 June 2014,16:00
+Brazil 2014,Group Stage,E,Honduras,Ecuador,1-2,1,2,False,False,False,,,Ecuador,Ben Williams,Arena da Baixada,"39,224",20 June 2014,19:00
+Brazil 2014,Group Stage,E,Honduras,Switzerland,0-3,0,3,False,False,False,,,Switzerland,Néstor Pitana,Arena da Amazônia,"40,322",25 June 2014,16:00
+Brazil 2014,Group Stage,E,Ecuador,France,0-0,0,0,False,False,False,,,Draw,Noumandiez Doué,Estádio do Maracanã,"73,749",25 June 2014,17:00
+Brazil 2014,Group Stage,F,Argentina,Bosnia and Herzegovina,2-1,2,1,False,False,False,,,Argentina,Joel Aguilar,Estádio do Maracanã,"74,738",15 June 2014,19:00
+Brazil 2014,Group Stage,F,Iran,Nigeria,0-0,0,0,False,False,False,,,Draw,Carlos Vera,Arena da Baixada,"39,081",16 June 2014,16:00
+Brazil 2014,Group Stage,F,Argentina,Iran,1-0,1,0,False,False,False,,,Argentina,Milorad Mažić,Estádio Mineirão,"57,698",21 June 2014,13:00
+Brazil 2014,Group Stage,F,Nigeria,Bosnia and Herzegovina,1-0,1,0,False,False,False,,,Nigeria,Peter O'Leary,Arena Pantanal,"40,499",21 June 2014,18:00
+Brazil 2014,Group Stage,F,Nigeria,Argentina,2-3,2,3,False,False,False,,,Argentina,Nicola Rizzoli,Estádio Beira-Rio,"43,285",25 June 2014,13:00
+Brazil 2014,Group Stage,F,Bosnia and Herzegovina,Iran,3-1,3,1,False,False,False,,,Bosnia and Herzegovina,Carlos Velasco Carballo,Itaipava Arena Fonte Nova,"48,011",25 June 2014,13:00
+Brazil 2014,Group Stage,G,Germany,Portugal,4-0,4,0,False,False,False,,,Germany,Milorad Mažić,Itaipava Arena Fonte Nova,"51,081",16 June 2014,13:00
+Brazil 2014,Group Stage,G,Ghana,United States,1-2,1,2,False,False,False,,,United States,Jonas Eriksson,Arena das Dunas,"39,760",16 June 2014,19:00
+Brazil 2014,Group Stage,G,Germany,Ghana,2-2,2,2,False,False,False,,,Draw,Sandro Ricci,Estádio Castelão,"59,621",21 June 2014,16:00
+Brazil 2014,Group Stage,G,United States,Portugal,2-2,2,2,False,False,False,,,Draw,Néstor Pitana,Arena da Amazônia,"40,123",22 June 2014,18:00
+Brazil 2014,Group Stage,G,United States,Germany,0-1,0,1,False,False,False,,,Germany,Ravshan Irmatov,Itaipava Arena Pernambuco,"41,876",26 June 2014,13:00
+Brazil 2014,Group Stage,G,Portugal,Ghana,2-1,2,1,False,False,False,,,Portugal,Nawaf Shukralla,Estádio Nacional Mané Garrincha,"67,540",26 June 2014,13:00
+Brazil 2014,Group Stage,H,Belgium,Algeria,2-1,2,1,False,False,False,,,Belgium,Marco Rodríguez,Estádio Mineirão,"56,800",17 June 2014,13:00
+Brazil 2014,Group Stage,H,Russia,South Korea,1-1,1,1,False,False,False,,,Draw,Néstor Pitana,Arena Pantanal,"37,603",17 June 2014,18:00
+Brazil 2014,Group Stage,H,Belgium,Russia,1-0,1,0,False,False,False,,,Belgium,Felix Brych,Estádio do Maracanã,"73,819",22 June 2014,13:00
+Brazil 2014,Group Stage,H,South Korea,Algeria,2-4,2,4,False,False,False,,,Algeria,Wilmar Roldán,Estádio Beira-Rio,"42,732",22 June 2014,16:00
+Brazil 2014,Group Stage,H,South Korea,Belgium,0-1,0,1,False,False,False,,,Belgium,Ben Williams,Arena de São Paulo,"61,397",26 June 2014,17:00
+Brazil 2014,Group Stage,H,Algeria,Russia,1-1,1,1,False,False,False,,,Draw,Cüneyt Çakır,Arena da Baixada,"39,311",26 June 2014,17:00
+Brazil 2014,Round of 16,NaN,Brazil,Chile,1-1(a.e.t.),1,1,True,False,True,3,2,Brazil,Howard Webb,Estádio Mineirão,"57,714",28 June 2014,13:00
+Brazil 2014,Round of 16,NaN,Colombia,Uruguay,2-0,2,0,False,False,False,,,Colombia,Björn Kuipers,Estádio do Maracanã,"73,804",28 June 2014,17:00
+Brazil 2014,Round of 16,NaN,Netherlands,Mexico,2-1,2,1,False,False,False,,,Netherlands,Pedro Proença,Estádio Castelão,"58,817",29 June 2014,13:00
+Brazil 2014,Round of 16,NaN,Costa Rica,Greece,1-1(a.e.t.),1,1,True,False,True,5,3,Costa Rica,Ben Williams,Itaipava Arena Pernambuco,"41,242",29 June 2014,17:00
+Brazil 2014,Round of 16,NaN,France,Nigeria,2-0,2,0,False,False,False,,,France,Mark Geiger,Estádio Nacional Mané Garrincha,"67,882",30 June 2014,13:00
+Brazil 2014,Round of 16,NaN,Germany,Algeria,2-1(a.e.t.),2,1,True,False,False,,,Germany,Sandro Ricci,Estádio Beira-Rio,"43,063",30 June 2014,17:00
+Brazil 2014,Round of 16,NaN,Argentina,Switzerland,1-0(a.e.t.),1,0,True,False,False,,,Argentina,Jonas Eriksson,Arena Corinthians,"63,255",1 July 2014,13:00
+Brazil 2014,Round of 16,NaN,Belgium,United States,2-1(a.e.t.),2,1,True,False,False,,,Belgium,Djamel Haimoudi,Itaipava Arena Fonte Nova,"51,227",1 July 2014,17:00
+Brazil 2014,Quarter-finals,NaN,France,Germany,0-1,0,1,False,False,False,,,Germany,Néstor Pitana,Estádio do Maracanã,"74,240",4 July 2014,13:00
+Brazil 2014,Quarter-finals,NaN,Brazil,Colombia,2-1,2,1,False,False,False,,,Brazil,Carlos Velasco Carballo,Estádio Castelão,"60,342",4 July 2014,17:00
+Brazil 2014,Quarter-finals,NaN,Argentina,Belgium,1-0,1,0,False,False,False,,,Argentina,Nicola Rizzoli,Estádio Nacional Mané Garrincha,"68,551",5 July 2014,13:00
+Brazil 2014,Quarter-finals,NaN,Netherlands,Costa Rica,0-0(a.e.t.),0,0,True,False,True,4,3,Netherlands,Ravshan Irmatov,Itaipava Arena Fonte Nova,"51,179",5 July 2014,17:00
+Brazil 2014,Semi-finals,NaN,Brazil,Germany,1-7,1,7,False,False,False,,,Germany,Marco Antonio Rodríguez,Estádio Mineirão,"58,141",8 July 2014,17:00
+Brazil 2014,Semi-finals,NaN,Netherlands,Argentina,0-0(a.e.t.),0,0,True,False,True,2,4,Argentina,Cüneyt Çakır,Arena Corinthians,"63,267",9 July 2014,17:00
+Brazil 2014,Third Place Match,NaN,Brazil,Netherlands,0-3,0,3,False,False,False,,,Netherlands,Djamel Haimoudi,Estádio Nacional Mané Garrincha,"68,034",12 July 2014,17:00
+Brazil 2014,Final,NaN,Germany,Argentina,1-0(a.e.t.),1,0,True,False,False,,,Germany,Nicola Rizzoli,Maracanã Stadium,"74,738",13 July 2014,16:00
+Russia 2018,Group Stage,A,Russia,Saudi Arabia,5-0,5,0,False,False,False,,,Russia,Néstor Pitana,Luzhniki Stadium,"78,011[143]",14 June 2018(2018-06-14),18:00
+Russia 2018,Group Stage,A,Egypt,Uruguay,0-1,0,1,False,False,False,,,Uruguay,Björn Kuipers,Central Stadium,"27,015[144]",15 June 2018(2018-06-15),17:00
+Russia 2018,Group Stage,A,Russia,Egypt,3-1,3,1,False,False,False,,,Russia,Enrique Cáceres,Krestovsky Stadium,"64,468[145]",19 June 2018(2018-06-19),21:00
+Russia 2018,Group Stage,A,Uruguay,Saudi Arabia,1-0,1,0,False,False,False,,,Uruguay,Clément Turpin,Rostov Arena,"42,678[146]",20 June 2018(2018-06-20),18:00
+Russia 2018,Group Stage,A,Uruguay,Russia,3-0,3,0,False,False,False,,,Uruguay,Malang Diedhiou,Cosmos Arena,"41,970[147]",25 June 2018(2018-06-25),18:00
+Russia 2018,Group Stage,A,Saudi Arabia,Egypt,2-1,2,1,False,False,False,,,Saudi Arabia,Wilmar Roldán,Volgograd Arena,"36,823[148]",25 June 2018(2018-06-25),17:00
+Russia 2018,Group Stage,B,Morocco,Iran,0-1,0,1,False,False,False,,,Iran,Cüneyt Çakır,Krestovsky Stadium,"62,548[149]",15 June 2018(2018-06-15),18:00
+Russia 2018,Group Stage,B,Portugal,Spain,3-3,3,3,False,False,False,,,Draw,Gianluca Rocchi,Fisht Olympic Stadium,"43,866[150]",15 June 2018(2018-06-15),21:00
+Russia 2018,Group Stage,B,Portugal,Morocco,1-0,1,0,False,False,False,,,Portugal,Mark Geiger,Luzhniki Stadium,"78,011[151]",20 June 2018(2018-06-20),15:00
+Russia 2018,Group Stage,B,Iran,Spain,0-1,0,1,False,False,False,,,Spain,Andrés Cunha,Kazan Arena,"42,718[152]",20 June 2018(2018-06-20),21:00
+Russia 2018,Group Stage,B,Iran,Portugal,1-1,1,1,False,False,False,,,Draw,Enrique Cáceres,Mordovia Arena,"41,685[153]",25 June 2018(2018-06-25),21:00
+Russia 2018,Group Stage,B,Spain,Morocco,2-2,2,2,False,False,False,,,Draw,Ravshan Irmatov,Kaliningrad Stadium,"33,973[154]",25 June 2018(2018-06-25),20:00
+Russia 2018,Group Stage,C,France,Australia,2-1,2,1,False,False,False,,,France,Andrés Cunha,Kazan Arena,"41,279[155]",16 June 2018(2018-06-16),13:00
+Russia 2018,Group Stage,C,Peru,Denmark,0-1,0,1,False,False,False,,,Denmark,Bakary Gassama,Mordovia Arena,"40,502[156]",16 June 2018(2018-06-16),19:00
+Russia 2018,Group Stage,C,Denmark,Australia,1-1,1,1,False,False,False,,,Draw,Antonio Mateu Lahoz,Cosmos Arena,"40,727[157]",21 June 2018(2018-06-21),16:00
+Russia 2018,Group Stage,C,France,Peru,1-0,1,0,False,False,False,,,France,Mohammed Abdulla Hassan Mohamed,Central Stadium,"32,789[158]",21 June 2018(2018-06-21),20:00
+Russia 2018,Group Stage,C,Denmark,France,0-0,0,0,False,False,False,,,Draw,Sandro Ricci,Luzhniki Stadium,"78,011[159]",26 June 2018(2018-06-26),17:00
+Russia 2018,Group Stage,C,Australia,Peru,0-2,0,2,False,False,False,,,Peru,Sergei Karasev,Fisht Olympic Stadium,"44,073[160]",26 June 2018(2018-06-26),17:00
+Russia 2018,Group Stage,D,Argentina,Iceland,1-1,1,1,False,False,False,,,Draw,Szymon Marciniak,Otkritie Arena,"44,190[161]",16 June 2018(2018-06-16),16:00
+Russia 2018,Group Stage,D,Croatia,Nigeria,2-0,2,0,False,False,False,,,Croatia,Sandro Ricci,Kaliningrad Stadium,"31,136[162]",16 June 2018(2018-06-16),21:00
+Russia 2018,Group Stage,D,Argentina,Croatia,0-3,0,3,False,False,False,,,Croatia,Ravshan Irmatov,Nizhny Novgorod Stadium,"43,319[163]",21 June 2018(2018-06-21),21:00
+Russia 2018,Group Stage,D,Nigeria,Iceland,2-0,2,0,False,False,False,,,Nigeria,Matthew Conger,Volgograd Arena,"40,904[164]",22 June 2018(2018-06-22),18:00
+Russia 2018,Group Stage,D,Nigeria,Argentina,1-2,1,2,False,False,False,,,Argentina,Cüneyt Çakır,Krestovsky Stadium,"64,468[165]",26 June 2018(2018-06-26),21:00
+Russia 2018,Group Stage,D,Iceland,Croatia,1-2,1,2,False,False,False,,,Croatia,Antonio Mateu Lahoz,Rostov Arena,"43,472[166]",26 June 2018(2018-06-26),21:00
+Russia 2018,Group Stage,E,Costa Rica,Serbia,0-1,0,1,False,False,False,,,Serbia,Malang Diedhiou,Cosmos Arena,"41,432[167]",17 June 2018(2018-06-17),16:00
+Russia 2018,Group Stage,E,Brazil,Switzerland,1-1,1,1,False,False,False,,,Draw,César Arturo Ramos,Rostov Arena,"43,109[168]",17 June 2018(2018-06-17),21:00
+Russia 2018,Group Stage,E,Brazil,Costa Rica,2-0,2,0,False,False,False,,,Brazil,Björn Kuipers,Krestovsky Stadium,"64,468[169]",22 June 2018(2018-06-22),15:00
+Russia 2018,Group Stage,E,Serbia,Switzerland,1-2,1,2,False,False,False,,,Switzerland,Felix Brych,Kaliningrad Stadium,"33,167[170]",22 June 2018(2018-06-22),20:00
+Russia 2018,Group Stage,E,Serbia,Brazil,0-2,0,2,False,False,False,,,Brazil,Alireza Faghani,Otkritie Arena,"44,190[171]",27 June 2018(2018-06-27),21:00
+Russia 2018,Group Stage,E,Switzerland,Costa Rica,2-2,2,2,False,False,False,,,Draw,Clément Turpin,Nizhny Novgorod Stadium,"43,319[172]",27 June 2018(2018-06-27),21:00
+Russia 2018,Group Stage,F,Germany,Mexico,0-1,0,1,False,False,False,,,Mexico,Alireza Faghani,Luzhniki Stadium,"78,011[173]",17 June 2018(2018-06-17),18:00
+Russia 2018,Group Stage,F,Sweden,South Korea,1-0,1,0,False,False,False,,,Sweden,Joel Aguilar,Nizhny Novgorod Stadium,"42,300[174]",18 June 2018(2018-06-18),15:00
+Russia 2018,Group Stage,F,South Korea,Mexico,1-2,1,2,False,False,False,,,Mexico,Milorad Mažić,Rostov Arena,"43,472[175]",23 June 2018(2018-06-23),18:00
+Russia 2018,Group Stage,F,Germany,Sweden,2-1,2,1,False,False,False,,,Germany,Szymon Marciniak,Fisht Olympic Stadium,"44,287[176]",23 June 2018(2018-06-23),21:00
+Russia 2018,Group Stage,F,South Korea,Germany,2-0,2,0,False,False,False,,,South Korea,Mark Geiger,Kazan Arena,"41,835[177]",27 June 2018(2018-06-27),17:00
+Russia 2018,Group Stage,F,Mexico,Sweden,0-3,0,3,False,False,False,,,Sweden,Néstor Pitana,Central Stadium,"33,061[178]",27 June 2018(2018-06-27),19:00
+Russia 2018,Group Stage,G,Belgium,Panama,3-0,3,0,False,False,False,,,Belgium,Janny Sikazwe,Fisht Olympic Stadium,"43,257[179]",18 June 2018(2018-06-18),18:00
+Russia 2018,Group Stage,G,Tunisia,England,1-2,1,2,False,False,False,,,England,Wilmar Roldán,Volgograd Arena,"41,064[180]",18 June 2018(2018-06-18),21:00
+Russia 2018,Group Stage,G,Belgium,Tunisia,5-2,5,2,False,False,False,,,Belgium,Jair Marrufo,Otkritie Arena,"44,190[181]",23 June 2018(2018-06-23),15:00
+Russia 2018,Group Stage,G,England,Panama,6-1,6,1,False,False,False,,,England,Gehad Grisha,Nizhny Novgorod Stadium,"43,319[182]",24 June 2018(2018-06-24),15:00
+Russia 2018,Group Stage,G,England,Belgium,0-1,0,1,False,False,False,,,Belgium,Damir Skomina,Kaliningrad Stadium,"33,973[183]",28 June 2018(2018-06-28),20:00
+Russia 2018,Group Stage,G,Panama,Tunisia,1-2,1,2,False,False,False,,,Tunisia,Nawaf Shukralla,Mordovia Arena,"37,168[184]",28 June 2018(2018-06-28),21:00
+Russia 2018,Group Stage,H,Colombia,Japan,1-2,1,2,False,False,False,,,Japan,Damir Skomina,Mordovia Arena,"40,842[185]",19 June 2018(2018-06-19),15:00
+Russia 2018,Group Stage,H,Poland,Senegal,1-2,1,2,False,False,False,,,Senegal,Nawaf Shukralla,Otkritie Arena,"44,190[186]",19 June 2018(2018-06-19),18:00
+Russia 2018,Group Stage,H,Japan,Senegal,2-2,2,2,False,False,False,,,Draw,Gianluca Rocchi,Central Stadium,"32,572[187]",24 June 2018(2018-06-24),20:00
+Russia 2018,Group Stage,H,Poland,Colombia,0-3,0,3,False,False,False,,,Colombia,César Arturo Ramos,Kazan Arena,"42,873[188]",24 June 2018(2018-06-24),21:00
+Russia 2018,Group Stage,H,Japan,Poland,0-1,0,1,False,False,False,,,Poland,Janny Sikazwe,Volgograd Arena,"42,189[189]",28 June 2018(2018-06-28),17:00
+Russia 2018,Group Stage,H,Senegal,Colombia,0-1,0,1,False,False,False,,,Colombia,Milorad Mažić,Cosmos Arena,"41,970[190]",28 June 2018(2018-06-28),18:00
+Russia 2018,Round of 16,NaN,France,Argentina,4-3,4,3,False,False,False,,,France,Alireza Faghani,Kazan Arena,"42,873[191]",30 June 2018(2018-06-30),17:00
+Russia 2018,Round of 16,NaN,Uruguay,Portugal,2-1,2,1,False,False,False,,,Uruguay,César Arturo Ramos,Fisht Olympic Stadium,"44,287[192]",30 June 2018(2018-06-30),21:00
+Russia 2018,Round of 16,NaN,Spain,Russia,1-1(a.e.t.),1,1,True,False,True,3,4,Russia,Björn Kuipers,Luzhniki Stadium,"78,011[193]",1 July 2018(2018-07-01),17:00
+Russia 2018,Round of 16,NaN,Croatia,Denmark,1-1(a.e.t.),1,1,True,False,True,3,2,Croatia,Néstor Pitana,Nizhny Novgorod Stadium,"40,851[194]",1 July 2018(2018-07-01),21:00
+Russia 2018,Round of 16,NaN,Brazil,Mexico,2-0,2,0,False,False,False,,,Brazil,Gianluca Rocchi,Cosmos Arena,"41,970[195]",2 July 2018(2018-07-02),18:00
+Russia 2018,Round of 16,NaN,Belgium,Japan,3-2,3,2,False,False,False,,,Belgium,Malang Diedhiou,Rostov Arena,"41,466[196]",2 July 2018(2018-07-02),21:00
+Russia 2018,Round of 16,NaN,Sweden,Switzerland,1-0,1,0,False,False,False,,,Sweden,Damir Skomina,Krestovsky Stadium,"64,042[197]",3 July 2018(2018-07-03),17:00
+Russia 2018,Round of 16,NaN,Colombia,England,1-1(a.e.t.),1,1,True,False,True,3,4,England,Mark Geiger,Otkritie Arena,"44,190[198]",3 July 2018(2018-07-03),21:00
+Russia 2018,Quarter-finals,NaN,Uruguay,France,0-2,0,2,False,False,False,,,France,Néstor Pitana,Nizhny Novgorod Stadium,"43,319[199]",6 July 2018(2018-07-06),17:00
+Russia 2018,Quarter-finals,NaN,Brazil,Belgium,1-2,1,2,False,False,False,,,Belgium,Milorad Mažić,Kazan Arena,"42,873[200]",6 July 2018(2018-07-06),21:00
+Russia 2018,Quarter-finals,NaN,Sweden,England,0-2,0,2,False,False,False,,,England,Björn Kuipers,Cosmos Arena,"39,991[201]",7 July 2018(2018-07-07),18:00
+Russia 2018,Quarter-finals,NaN,Russia,Croatia,2-2(a.e.t.),2,2,True,False,True,3,4,Croatia,Sandro Ricci,Fisht Olympic Stadium,"44,287[202]",7 July 2018(2018-07-07),21:00
+Russia 2018,Semi-finals,NaN,France,Belgium,1-0,1,0,False,False,False,,,France,Andrés Cunha,Krestovsky Stadium,"64,286[203]",10 July 2018(2018-07-10),21:00
+Russia 2018,Semi-finals,NaN,Croatia,England,2-1(a.e.t.),2,1,True,False,False,,,Croatia,Cüneyt Çakır,Luzhniki Stadium,"78,011[204]",11 July 2018(2018-07-11),21:00
+Russia 2018,Third Place Match,NaN,Belgium,England,2-0,2,0,False,False,False,,,Belgium,Alireza Faghani,Krestovsky Stadium,"64,406[205]",14 July 2018(2018-07-14),17:00
+Russia 2018,Final,NaN,France,Croatia,4-2,4,2,False,False,False,,,France,Néstor Pitana,Luzhniki Stadium,"78,011",15 July 2018(2018-07-15),18:00
+Quatar 2022,Group Stage,A,Qatar,Ecuador,0-2,0,2,False,False,False,,,Ecuador,Daniele Orsato,Al Bayt Stadium,"67,372",20 November 2022(2022-11-20),19:00
+Quatar 2022,Group Stage,A,Senegal,Netherlands,0-2,0,2,False,False,False,,,Netherlands,Wilton Sampaio,Al Thumama Stadium,"41,721",21 November 2022(2022-11-21),19:00
+Quatar 2022,Group Stage,A,Qatar,Senegal,1-3,1,3,False,False,False,,,Senegal,Antonio Mateu Lahoz,Al Thumama Stadium,"41,797",25 November 2022(2022-11-25),16:00
+Quatar 2022,Group Stage,A,Netherlands,Ecuador,1-1,1,1,False,False,False,,,Draw,Mustapha Ghorbal,Khalifa International Stadium,"44,833",25 November 2022(2022-11-25),19:00
+Quatar 2022,Group Stage,A,Ecuador,Senegal,1-2,1,2,False,False,False,,,Senegal,Clément Turpin,Khalifa International Stadium,"44,569",29 November 2022(2022-11-29),18:00
+Quatar 2022,Group Stage,A,Netherlands,Qatar,2-0,2,0,False,False,False,,,Netherlands,Bakary Gassama,Al Bayt Stadium,"66,784",29 November 2022(2022-11-29),18:00
+Quatar 2022,Group Stage,B,England,Iran,6-2,6,2,False,False,False,,,England,Raphael Claus,Khalifa International Stadium,"45,334",21 November 2022(2022-11-21),16:00
+Quatar 2022,Group Stage,B,United States,Wales,1-1,1,1,False,False,False,,,Draw,Abdulrahman Al-Jassim,Ahmad bin Ali Stadium,"43,418",21 November 2022(2022-11-21),22:00
+Quatar 2022,Group Stage,B,Wales,Iran,0-2,0,2,False,False,False,,,Iran,Mario Escobar,Ahmad bin Ali Stadium,"40,875",25 November 2022(2022-11-25),13:00
+Quatar 2022,Group Stage,B,England,United States,0-0,0,0,False,False,False,,,Draw,Jesús Valenzuela,Al Bayt Stadium,"68,463",25 November 2022(2022-11-25),22:00
+Quatar 2022,Group Stage,B,Wales,England,0-3,0,3,False,False,False,,,England,Slavko Vinčić,Ahmad bin Ali Stadium,"44,297",29 November 2022(2022-11-29),22:00
+Quatar 2022,Group Stage,B,Iran,United States,0-1,0,1,False,False,False,,,United States,Antonio Mateu Lahoz,Al Thumama Stadium,"42,127",29 November 2022(2022-11-29),22:00
+Quatar 2022,Group Stage,C,Argentina,Saudi Arabia,1-2,1,2,False,False,False,,,Saudi Arabia,Slavko Vinčić,Lusail Stadium,"88,012",22 November 2022(2022-11-22),13:00
+Quatar 2022,Group Stage,C,Mexico,Poland,0-0,0,0,False,False,False,,,Draw,Chris Beath,Stadium 974,"39,369",22 November 2022(2022-11-22),19:00
+Quatar 2022,Group Stage,C,Poland,Saudi Arabia,2-0,2,0,False,False,False,,,Poland,Wilton Sampaio,Education City Stadium,"44,259",26 November 2022(2022-11-26),16:00
+Quatar 2022,Group Stage,C,Argentina,Mexico,2-0,2,0,False,False,False,,,Argentina,Daniele Orsato,Lusail Stadium,"88,966",26 November 2022(2022-11-26),22:00
+Quatar 2022,Group Stage,C,Poland,Argentina,0-2,0,2,False,False,False,,,Argentina,Danny Makkelie,Stadium 974,"44,089",30 November 2022(2022-11-30),22:00
+Quatar 2022,Group Stage,C,Saudi Arabia,Mexico,1-2,1,2,False,False,False,,,Mexico,Michael Oliver,Lusail Stadium,"84,985",30 November 2022(2022-11-30),22:00
+Quatar 2022,Group Stage,D,Denmark,Tunisia,0-0,0,0,False,False,False,,,Draw,César Arturo Ramos,Education City Stadium,"42,925",22 November 2022(2022-11-22),16:00
+Quatar 2022,Group Stage,D,France,Australia,4-1,4,1,False,False,False,,,France,Victor Gomes,Al Janoub Stadium,"40,875",22 November 2022(2022-11-22),22:00
+Quatar 2022,Group Stage,D,Tunisia,Australia,0-1,0,1,False,False,False,,,Australia,Daniel Siebert,Al Janoub Stadium,"41,823",26 November 2022(2022-11-26),13:00
+Quatar 2022,Group Stage,D,France,Denmark,2-1,2,1,False,False,False,,,France,Szymon Marciniak,Stadium 974,"42,860",26 November 2022(2022-11-26),19:00
+Quatar 2022,Group Stage,D,Australia,Denmark,1-0,1,0,False,False,False,,,Australia,Mustapha Ghorbal,Al Janoub Stadium,"41,232",30 November 2022(2022-11-30),18:00
+Quatar 2022,Group Stage,D,Tunisia,France,1-0,1,0,False,False,False,,,Tunisia,Matthew Conger,Education City Stadium,"43,627",30 November 2022(2022-11-30),18:00
+Quatar 2022,Group Stage,E,Germany,Japan,1-2,1,2,False,False,False,,,Japan,Iván Barton,Khalifa International Stadium,"42,608",23 November 2022(2022-11-23),16:00
+Quatar 2022,Group Stage,E,Spain,Costa Rica,7-0,7,0,False,False,False,,,Spain,Mohammed Abdulla Hassan Mohamed,Al Thumama Stadium,"40,013",23 November 2022(2022-11-23),19:00
+Quatar 2022,Group Stage,E,Japan,Costa Rica,0-1,0,1,False,False,False,,,Costa Rica,Michael Oliver,Ahmad bin Ali Stadium,"41,479",27 November 2022(2022-11-27),13:00
+Quatar 2022,Group Stage,E,Spain,Germany,1-1,1,1,False,False,False,,,Draw,Danny Makkelie,Al Bayt Stadium,"68,895",27 November 2022(2022-11-27),22:00
+Quatar 2022,Group Stage,E,Japan,Spain,2-1,2,1,False,False,False,,,Japan,Victor Gomes,Khalifa International Stadium,"44,851",1 December 2022(2022-12-01),22:00
+Quatar 2022,Group Stage,E,Costa Rica,Germany,2-4,2,4,False,False,False,,,Germany,Stéphanie Frappart,Al Bayt Stadium,"67,054",1 December 2022(2022-12-01),22:00
+Quatar 2022,Group Stage,F,Morocco,Croatia,0-0,0,0,False,False,False,,,Draw,Fernando Rapallini,Al Bayt Stadium,"59,407",23 November 2022(2022-11-23),13:00
+Quatar 2022,Group Stage,F,Belgium,Canada,1-0,1,0,False,False,False,,,Belgium,Janny Sikazwe,Ahmad bin Ali Stadium,"40,432",23 November 2022(2022-11-23),22:00
+Quatar 2022,Group Stage,F,Belgium,Morocco,0-2,0,2,False,False,False,,,Morocco,César Arturo Ramos,Al Thumama Stadium,"43,738",27 November 2022(2022-11-27),16:00
+Quatar 2022,Group Stage,F,Croatia,Canada,4-1,4,1,False,False,False,,,Croatia,Andrés Matonte,Khalifa International Stadium,"44,374",27 November 2022(2022-11-27),19:00
+Quatar 2022,Group Stage,F,Croatia,Belgium,0-0,0,0,False,False,False,,,Draw,Anthony Taylor,Ahmad bin Ali Stadium,"43,984",1 December 2022(2022-12-01),18:00
+Quatar 2022,Group Stage,F,Canada,Morocco,1-2,1,2,False,False,False,,,Morocco,Raphael Claus,Al Thumama Stadium,"43,102",1 December 2022(2022-12-01),18:00
+Quatar 2022,Group Stage,G,Switzerland,Cameroon,1-0,1,0,False,False,False,,,Switzerland,Facundo Tello,Al Janoub Stadium,"39,089",24 November 2022(2022-11-24),13:00
+Quatar 2022,Group Stage,G,Brazil,Serbia,2-0,2,0,False,False,False,,,Brazil,Alireza Faghani,Lusail Stadium,"88,103",24 November 2022(2022-11-24),22:00
+Quatar 2022,Group Stage,G,Cameroon,Serbia,3-3,3,3,False,False,False,,,Draw,Mohammed Abdulla Hassan Mohamed,Al Janoub Stadium,"39,789",28 November 2022(2022-11-28),13:00
+Quatar 2022,Group Stage,G,Brazil,Switzerland,1-0,1,0,False,False,False,,,Brazil,Iván Barton,Stadium 974,"43,649",28 November 2022(2022-11-28),19:00
+Quatar 2022,Group Stage,G,Serbia,Switzerland,2-3,2,3,False,False,False,,,Switzerland,Fernando Rapallini,Stadium 974,"41,378",2 December 2022(2022-12-02),22:00
+Quatar 2022,Group Stage,G,Cameroon,Brazil,1-0,1,0,False,False,False,,,Cameroon,Ismail Elfath,Lusail Stadium,"85,986",2 December 2022(2022-12-02),22:00
+Quatar 2022,Group Stage,H,Uruguay,South Korea,0-0,0,0,False,False,False,,,Draw,Clément Turpin,Education City Stadium,"41,663",24 November 2022(2022-11-24),16:00
+Quatar 2022,Group Stage,H,Portugal,Ghana,3-2,3,2,False,False,False,,,Portugal,Ismail Elfath,Stadium 974,"42,662",24 November 2022(2022-11-24),19:00
+Quatar 2022,Group Stage,H,South Korea,Ghana,2-3,2,3,False,False,False,,,Ghana,Anthony Taylor,Education City Stadium,"43,983",28 November 2022(2022-11-28),16:00
+Quatar 2022,Group Stage,H,Portugal,Uruguay,2-0,2,0,False,False,False,,,Portugal,Alireza Faghani,Lusail Stadium,"88,668",28 November 2022(2022-11-28),22:00
+Quatar 2022,Group Stage,H,Ghana,Uruguay,0-2,0,2,False,False,False,,,Uruguay,Daniel Siebert,Al Janoub Stadium,"43,443",2 December 2022(2022-12-02),18:00
+Quatar 2022,Group Stage,H,South Korea,Portugal,2-1,2,1,False,False,False,,,South Korea,Facundo Tello,Education City Stadium,"44,097",2 December 2022(2022-12-02),18:00
+Quatar 2022,Round of 16,NaN,Netherlands,United States,3-1,3,1,False,False,False,,,Netherlands,Wilton Sampaio,Khalifa International Stadium,"44,846",3 December 2022(2022-12-03),18:00
+Quatar 2022,Round of 16,NaN,Argentina,Australia,2-1,2,1,False,False,False,,,Argentina,Szymon Marciniak,Ahmad bin Ali Stadium,"45,032",3 December 2022(2022-12-03),22:00
+Quatar 2022,Round of 16,NaN,France,Poland,3-1,3,1,False,False,False,,,France,Jesús Valenzuela,Al Thumama Stadium,"40,989",4 December 2022(2022-12-04),18:00
+Quatar 2022,Round of 16,NaN,England,Senegal,3-0,3,0,False,False,False,,,England,Iván Barton,Al Bayt Stadium,"65,985",4 December 2022(2022-12-04),22:00
+Quatar 2022,Round of 16,NaN,Japan,Croatia,1-1(a.e.t.),1,1,True,False,True,1,3,Croatia,Ismail Elfath,Al Janoub Stadium,"42,523",5 December 2022(2022-12-05),18:00
+Quatar 2022,Round of 16,NaN,Brazil,South Korea,4-1,4,1,False,False,False,,,Brazil,Clément Turpin,Stadium 974,"43,847",5 December 2022(2022-12-05),22:00
+Quatar 2022,Round of 16,NaN,Morocco,Spain,0-0(a.e.t.),0,0,True,False,True,3,0,Morocco,Fernando Rapallini,Education City Stadium,"44,667",6 December 2022(2022-12-06),18:00
+Quatar 2022,Round of 16,NaN,Portugal,Switzerland,6-1,6,1,False,False,False,,,Portugal,César Arturo Ramos,Lusail Stadium,"83,720",6 December 2022(2022-12-06),22:00
+Quatar 2022,Quarter-finals,NaN,Croatia,Brazil,1-1(a.e.t.),1,1,True,False,True,4,2,Croatia,Michael Oliver,Education City Stadium,"43,893",9 December 2022(2022-12-09),18:00
+Quatar 2022,Quarter-finals,NaN,Netherlands,Argentina,2-2(a.e.t.),2,2,True,False,True,3,4,Argentina,Antonio Mateu Lahoz,Lusail Stadium,"88,235",9 December 2022(2022-12-09),22:00
+Quatar 2022,Quarter-finals,NaN,Morocco,Portugal,1-0,1,0,False,False,False,,,Morocco,Facundo Tello,Al Thumama Stadium,"44,198",10 December 2022(2022-12-10),18:00
+Quatar 2022,Quarter-finals,NaN,England,France,1-2,1,2,False,False,False,,,France,Wilton Sampaio,Al Bayt Stadium,"68,895",10 December 2022(2022-12-10),22:00
+Quatar 2022,Semi-finals,NaN,Argentina,Croatia,3-0,3,0,False,False,False,,,Argentina,Daniele Orsato,Lusail Stadium,"88,966",13 December 2022(2022-12-13),22:00
+Quatar 2022,Semi-finals,NaN,France,Morocco,2-0,2,0,False,False,False,,,France,César Arturo Ramos,Al Bayt Stadium,"68,294",14 December 2022(2022-12-14),22:00
+Quatar 2022,Third Place Match,NaN,Croatia,Morocco,2-1,2,1,False,False,False,,,Croatia,Abdulrahman Al-Jassim,Khalifa International Stadium,"44,137",17 December 2022(2022-12-17),18:00
+Quatar 2022,Final,NaN,Argentina,France,3-3(a.e.t.),3,3,True,False,True,4,2,Argentina,Szymon Marciniak,Lusail Stadium,"88,966",18 December 2022(2022-12-18),18:00
