@@ -1,33 +1,35 @@
-# FIFA World Cup Data Scraper
+# FIFA World Cup Data Engineering Pipeline
 
-Author: Daniel Vazquez
+**Author:** Daniel Vazquez
 
-Hosted here is a robust Python-based web scraper designed to extract comprehensive historical data from FIFA World Cup tournaments (supporting 1930–2022). The script targets Wikipedia’s highly organized football entry pages to build structured datasets for sports analysis, machine learning, or historical record-keeping.
+**Status:** Active development (Data Ingestion Phase)
 
-The scraper also fixes inconsistent table structures across different years, special Unicode characters in scores, and varying squad sizes.
+Hosted here is a robust Python-based web scraper and data cleaning pipeline designed to extract and standardize historical FIFA World Cup data (1930–2022). This project goes beyond simple scraping by implementing advanced data validation and transformation logic to ensure the dataset is "Database Ready" for SQL Server and AWS environments.
 
-## Extracted Data
+This pipeline achieves the following:
 
-Three data sets are generated from this script:
+* **Complex Date Normalization:** Implements regex-based extraction to handle varying Wikipedia date formats, standardizing all to ISO-8601 `YYYY-MM-DD` while maintaining an audit trail of null values.
+* **HTML Structural Adaptability:** Features a resilient scraping logic that navigates shifting Wikipedia templates.
+* **Edge Case Management:** Automatically identifies and handles "Walkovers" (e.g., 1938 Sweden vs. Austria), ensuring match statistics like attendance, referees, and winners are correctly nullified rather than filled with garbage data.
+* **Unicode & Type Safety:** Standardizes specialized characters (En/Em dashes) and ensures numeric fields are cleaned of commas and strings to maintain strict integer/float types for SQL compatibility.
 
-1. **squads_ds**: Full rosters including Player Name, Position, Age, Date of Birth, Captaincy status, Club, and Goals.
-2. **groups_ds**: Group stage standings, points, goal differences, and qualification status (including Fair Play Points logic).
-3. **matches_ds**: Detailed match results including:
-    - Home/Away teams and scores.
-    - Match Stage (Group, Round of 16, etc.).
-    - Attendance, Stadium Location, and Referees.
-    - Special outcomes: Extra Time (a.e.t.), Golden Goals (g.g.), and Penalty
-      Shootout results.
+## Data Architecture
+
+The pipeline generates three primary datasets, structured for a relational schema:
+
+1.  **squads_ds**: Full rosters including Player Name, Position, Birth Date (standardized), Club, and Captaincy status.
+2.  **groups_ds**: Group stage standings, points, and qualification status.
+3.  **matches_ds**: Comprehensive match records including:
+    * Home/Away teams, scores, and calculated Winners.
+    * Match Stage, Attendance, Stadium, and Hosting City.
+    * Special outcomes: Extra Time (a.e.t), Golden Goals, and Penalty results.
 
 ## Tech Features
 
-- **BeautifulSoup4 & CSS Selectors:** Utilizes precise pathing to extract data nested within complex Wikipedia templates.
-- **Regex Data Cleaning:**
-    - Extracts numeric scores from text (e.g., "3–1").
-    - Cleans Unicode "En Dashes" (\u2013) and "Em Dashes" (\u2014) into standard ASCII hyphens.
-    - Separates Captain status and Age from raw strings.
-- **Advanced Logic:** Calculates a definitive Winner column by comparing regular-time scores and, if necessary, penalty shootout results.
-- **Scalability:** Modular loop structure that iterates through tournament editions, making it easy to add future or older tournaments.
+- **Python 3.x**
+- **BeautifulSoup4:** Precise DOM navigation using CSS selectors.
+- **Pandas & NumPy:** For complex data transformation and `NaN` management.
+- **Regex (re):** For pattern matching in inconsistent string formats.
 
 ## Getting started
 
@@ -39,16 +41,19 @@ Ensure Python 3.x is installed along with the following libraries:
 - pandas
 - numpy
 
-**File Structure**
+## Usage
 
-The script automatically organizes its output.
+```
+# Clone the repository
+git clone https://github.com/vzqz2186/world-cup-scraper.git
 
-**Usage**
+# Run the pipeline
+python fifa_wc_scraper.py
+```
 
-Simply run the script. The console will provide real-time updates as it processes each tournament edition.
+## Roadmap
 
-## Roadmap / To-Do
-
-- Write a function to automate SQL Server upload.
-- Implement a pipeline to load the cleaned dataframes onto AWS for Cloud Data Warehousing.
-- Add support for the expanded 48-team 2026 edition.
+- [ ] **Relational Modeling:** Implement Primary and Foreign Key mapping (Player IDs, Team IDs).
+- [ ] **SQL Server Integration:** Write the automated ingestion script using `SQLAlchemy`.
+- [ ] **Cloud Migration:** Build a pipeline to load cleaned dataframes into **AWS S3** and **Amazon Redshift**.
+- [ ] **2026 Expansion:** Add support for the 48-team tournament format.
