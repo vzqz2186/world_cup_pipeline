@@ -39,5 +39,5 @@ python fifa_wc_madness.py
 ```
 
 ## Roadmap
-- [ ] **Cloud Migration:** Build a pipeline to load cleaned dataframes into **AWS S3** and **Amazon Redshift**.
+- [ ] **Cloud Migration:** Update pipeline to load cleaned dataframes into **AWS S3** and **Amazon Redshift**.
 - [ ] **2026 Expansion:** Add support for the 48-team tournament format.
