@@ -1,0 +1,678 @@
+﻿Match_ID,Tournament_ID,HomeTeam_ID,AwayTeam_ID,Winner_ID,Tournament,Stage,Group,HomeTeam,AwayTeam,Score,HomeScore,AwayScore,ExtraTime,GoldenGoal,Penalties,HomePKs,AwayPKs,Winner,Referee,Venue,City,Attendance,Date,Time
+0,URU-30,FRA,MEX,FRA,Uruguay 1930,Group Stage,1,France,Mexico,4-1,4,1,False,False,False,,,France,Domingo Lombardi,Estadio Pocitos,Montevideo,4444,1930-07-13,15:00
+1,URU-30,ARG,FRA,ARG,Uruguay 1930,Group Stage,1,Argentina,France,1-0,1,0,False,False,False,,,Argentina,Almeida Rêgo,Estadio Parque Central,Montevideo,23409,1930-07-15,16:00
+2,URU-30,CHI,MEX,CHI,Uruguay 1930,Group Stage,1,Chile,Mexico,3-0,3,0,False,False,False,,,Chile,Henri Christophe,Estadio Parque Central,Montevideo,9249,1930-07-16,14:45
+3,URU-30,CHI,FRA,CHI,Uruguay 1930,Group Stage,1,Chile,France,1-0,1,0,False,False,False,,,Chile,Anibal Tejada,Estadio Centenario,Montevideo,2000,1930-07-19,12:50
+4,URU-30,ARG,MEX,ARG,Uruguay 1930,Group Stage,1,Argentina,Mexico,6-3,6,3,False,False,False,,,Argentina,Ulises Saucedo,Estadio Centenario,Montevideo,42100,1930-07-19,15:00
+5,URU-30,ARG,CHI,ARG,Uruguay 1930,Group Stage,1,Argentina,Chile,3-1,3,1,False,False,False,,,Argentina,John Langenus,Estadio Centenario,Montevideo,41459,1930-07-22,14:45
+6,URU-30,YUG,BRA,YUG,Uruguay 1930,Group Stage,2,Yugoslavia,Brazil,2-1,2,1,False,False,False,,,Yugoslavia,Aníbal Tejada,Estadio Parque Central,Montevideo,24059,1930-07-14,12:45
+7,URU-30,YUG,BOL,YUG,Uruguay 1930,Group Stage,2,Yugoslavia,Bolivia,4-0,4,0,False,False,False,,,Yugoslavia,Francisco Mateucci,Estadio Parque Central,Montevideo,18306,1930-07-17,12:45
+8,URU-30,BRA,BOL,BRA,Uruguay 1930,Group Stage,2,Brazil,Bolivia,4-0,4,0,False,False,False,,,Brazil,Thomas Balvay,Estadio Centenario,Montevideo,25466,1930-07-20,13:00
+9,URU-30,ROM,PER,ROM,Uruguay 1930,Group Stage,3,Romania,Peru,3-1,3,1,False,False,False,,,Romania,Alberto Warnken,Estadio Pocitos,Montevideo,2549,1930-07-14,14:50
+10,URU-30,URU,PER,URU,Uruguay 1930,Group Stage,3,Uruguay,Peru,1-0,1,0,False,False,False,,,Uruguay,John Langenus,Estadio Centenario,Montevideo,57735,1930-07-18,14:30
+11,URU-30,URU,ROM,URU,Uruguay 1930,Group Stage,3,Uruguay,Romania,4-0,4,0,False,False,False,,,Uruguay,Almeida Rêgo,Estadio Centenario,Montevideo,70022,1930-07-21,14:50
+12,URU-30,USA,BEL,USA,Uruguay 1930,Group Stage,4,United States,Belgium,3-0,3,0,False,False,False,,,United States,José Macías,Estadio Parque Central,Montevideo,18346,1930-07-13,15:00
+13,URU-30,USA,PAR,USA,Uruguay 1930,Group Stage,4,United States,Paraguay,3-0,3,0,False,False,False,,,United States,José Macías,Estadio Parque Central,Montevideo,18306,1930-07-17,14:45
+14,URU-30,PAR,BEL,PAR,Uruguay 1930,Group Stage,4,Paraguay,Belgium,1-0,1,0,False,False,False,,,Paraguay,Ricardo Vallarino,Estadio Centenario,Montevideo,12000,1930-07-20,15:00
+15,URU-30,ARG,USA,ARG,Uruguay 1930,Semi-finals,,Argentina,United States,6-1,6,1,False,False,False,,,Argentina,John Langenus,Estadio Centenario,Montevideo,72886,1930-07-26,14:45
+16,URU-30,URU,YUG,URU,Uruguay 1930,Semi-finals,,Uruguay,Yugoslavia,6-1,6,1,False,False,False,,,Uruguay,Gilberto de Almeida Rêgo,Estadio Centenario,Montevideo,79867,1930-07-27,14:45
+17,URU-30,URU,ARG,URU,Uruguay 1930,Final,,Uruguay,Argentina,4-2,4,2,False,False,False,,,Uruguay,John Langenus,Estadio Centenario,Montevideo,68346,1930-07-30,12:45
+18,ITA-34,SPA,BRA,SPA,Italy 1934,Round of 16,,Spain,Brazil,3-1,3,1,False,False,False,,,Spain,Alfred Birlem,Stadio Luigi Ferraris,Genoa,21000,1934-05-27,16:00
+19,ITA-34,HUN,EGY,HUN,Italy 1934,Round of 16,,Hungary,Egypt,4-2,4,2,False,False,False,,,Hungary,Rinaldo Barlassina,Stadio Giorgio Ascarelli,Naples,9000,1934-05-27,16:00
+20,ITA-34,SWI,NET,SWI,Italy 1934,Round of 16,,Switzerland,Netherlands,3-2,3,2,False,False,False,,,Switzerland,Ivan Eklind,Stadio San Siro,Milan,33000,1934-05-27,16:00
+21,ITA-34,ITA,USA,ITA,Italy 1934,Round of 16,,Italy,United States,7-1,7,1,False,False,False,,,Italy,René Mercet,Stadio Nazionale PNF,Rome,25000,1934-05-27,16:00
+22,ITA-34,CZE,ROM,CZE,Italy 1934,Round of 16,,Czechoslovakia,Romania,2-1,2,1,False,False,False,,,Czechoslovakia,John Langenus,Stadio Littorio,Trieste,9000,1934-05-27,16:00
+23,ITA-34,SWE,ARG,SWE,Italy 1934,Round of 16,,Sweden,Argentina,3-2,3,2,False,False,False,,,Sweden,Eugen Braun,Stadio Littoriale,Bologna,14000,1934-05-27,16:00
+24,ITA-34,AUT,FRA,AUT,Italy 1934,Round of 16,,Austria,France,3-2(a.e.t.),3,2,True,False,False,,,Austria,Johannes van Moorsel,Stadio Benito Mussolini,Turin,16000,1934-05-27,16:00
+25,ITA-34,GER,BEL,GER,Italy 1934,Round of 16,,Germany,Belgium,5-2,5,2,False,False,False,,,Germany,Francesco Mattea,Stadio Giovanni Berta,Florence,8000,1934-05-27,16:00
+26,ITA-34,AUT,HUN,AUT,Italy 1934,Quarter-finals,,Austria,Hungary,2-1,2,1,False,False,False,,,Austria,Francesco Mattea,Stadio Littoriale,Bologna,23000,1934-05-31,16:30
+27,ITA-34,ITA,SPA,DRAW,Italy 1934,Quarter-finals,,Italy,Spain,1-1(a.e.t.),1,1,True,False,False,,,Draw,Louis Baert,Stadio Giovanni Berta,Florence,35000,1934-05-31,16:30
+28,ITA-34,GER,SWE,GER,Italy 1934,Quarter-finals,,Germany,Sweden,2-1,2,1,False,False,False,,,Germany,Rinaldo Barlassina,Stadio San Siro,Milan,3000,1934-05-31,16:30
+29,ITA-34,CZE,SWI,CZE,Italy 1934,Quarter-finals,,Czechoslovakia,Switzerland,3-2,3,2,False,False,False,,,Czechoslovakia,Alois Beranek,Stadio Benito Mussolini,Turin,12000,1934-05-31,16:30
+30,ITA-34,ITA,SPA,ITA,Italy 1934,QF Replay,,Italy,Spain,1-0,1,0,False,False,False,,,Italy,René Mercet,Stadio Giovanni Berta,Florence,43000,1934-06-01,16:30
+31,ITA-34,ITA,AUT,ITA,Italy 1934,Semi-finals,,Italy,Austria,1-0,1,0,False,False,False,,,Italy,Ivan Eklind,Stadio San Siro,Milan,35000,1934-06-03,16:30
+32,ITA-34,CZE,GER,CZE,Italy 1934,Semi-finals,,Czechoslovakia,Germany,3-1,3,1,False,False,False,,,Czechoslovakia,Rinaldo Barlassina,Stadio Nazionale PNF,Rome,15000,1934-06-03,16:30
+33,ITA-34,GER,AUT,GER,Italy 1934,Thirs Place Match,,Germany,Austria,3-2,3,2,False,False,False,,,Germany,Albino Carraro,Stadio Giorgio Ascarelli,Naples,7000,1934-06-07,18:00
+34,ITA-34,ITA,CZE,ITA,Italy 1934,Final,,Italy,Czechoslovakia,2-1(a.e.t.),2,1,True,False,False,,,Italy,Ivan Eklind,Stadio Nazionale PNF,Rome,55000,1934-06-10,15:30
+35,FRA-38,SWI,GER,DRAW,France 1938,Round of 16,,Switzerland,Germany,1-1(a.e.t.),1,1,True,False,False,,,Draw,John Langenus,Parc des Princes,Paris,27152,1938-06-04,17:00
+36,FRA-38,HUN,DEI,HUN,France 1938,Round of 16,,Hungary,Dutch East Indies,6-0,6,0,False,False,False,,,Hungary,Roger Conrié,Vélodrome Municipal,Reims,9000,1938-06-05,17:00
+37,FRA-38,SWE,AUT,,France 1938,Round of 16,,Sweden,Austria,Cancelled,,,False,False,False,,,,,Stade Gerland,Lyon,0,1938-06-05,
+38,FRA-38,CUB,ROM,DRAW,France 1938,Round of 16,,Cuba,Romania,3-3(a.e.t.),3,3,True,False,False,,,Draw,Giuseppe Scarpi,Stade du T.O.E.C.,Toulouse,7000,1938-06-05,17:00
+39,FRA-38,FRA,BEL,FRA,France 1938,Round of 16,,France,Belgium,3-1,3,1,False,False,False,,,France,Hans Wüthrich,Stade Olympique de Colombes,Colombes,30454,1938-06-05,17:00
+40,FRA-38,ITA,NOR,ITA,France 1938,Round of 16,,Italy,Norway,2-1(a.e.t.),2,1,True,False,False,,,Italy,Alois Beranek[a],Stade Vélodrome,Marseille,19000,1938-06-05,17:00
+41,FRA-38,BRA,POL,BRA,France 1938,Round of 16,,Brazil,Poland,6-5(a.e.t.),6,5,True,False,False,,,Brazil,Ivan Eklind,Stade de la Meinau,Strasbourg,13452,1938-06-05,17:00
+42,FRA-38,CZE,NET,CZE,France 1938,Round of 16,,Czechoslovakia,Netherlands,3-0(a.e.t.),3,0,True,False,False,,,Czechoslovakia,Lucien Leclerq,Stade municipal,Le Havre,11000,1938-06-05,17:00
+43,FRA-38,SWI,GER,SWI,France 1938,R16 Replay,,Switzerland,Germany,4-2,4,2,False,False,False,,,Switzerland,Ivan Eklind,Parc des Princes,Paris,20025,1938-06-09,18:00
+44,FRA-38,CUB,ROM,CUB,France 1938,R16 Replay,,Cuba,Romania,2-1,2,1,False,False,False,,,Cuba,Alfred Birlem,Stade du T.O.E.C.,Toulouse,8000,1938-06-09,18:00
+45,FRA-38,HUN,SWI,HUN,France 1938,Quarter-finals,,Hungary,Switzerland,2-0,2,0,False,False,False,,,Hungary,Rinaldo Barlassina,Stade Victor Boucquey,Lille,15000,1938-06-12,17:00
+46,FRA-38,SWE,CUB,SWE,France 1938,Quarter-finals,,Sweden,Cuba,8-0,8,0,False,False,False,,,Sweden,Augustin Krist,Stade du Fort Carré,Antibes,7000,1938-06-12,17:00
+47,FRA-38,ITA,FRA,ITA,France 1938,Quarter-finals,,Italy,France,3-1,3,1,False,False,False,,,Italy,Louis Baert,Stade Olympique de Colombes,Colombes,58455,1938-06-12,17:00
+48,FRA-38,BRA,CZE,DRAW,France 1938,Quarter-finals,,Brazil,Czechoslovakia,1-1(a.e.t.),1,1,True,False,False,,,Draw,Pál von Hertzka,Parc Lescure,Bordeaux,22021,1938-06-12,17:00
+49,FRA-38,BRA,CZE,BRA,France 1938,QF Replay,,Brazil,Czechoslovakia,2-1,2,1,False,False,False,,,Brazil,Georges Capdeville,Parc Lescure,Bordeaux,18141,1938-06-14,18:00
+50,FRA-38,HUN,SWE,HUN,France 1938,Semi-finals,,Hungary,Sweden,5-1,5,1,False,False,False,,,Hungary,Lucien Leclerq,Parc des Princes,Paris,20000,1938-06-16,18:00
+51,FRA-38,ITA,BRA,ITA,France 1938,Semi-finals,,Italy,Brazil,2-1,2,1,False,False,False,,,Italy,Hans Wüthrich,Stade Vélodrome,Marseille,33000,1938-06-16,18:00
+52,FRA-38,BRA,SWE,BRA,France 1938,Third Place Match,,Brazil,Sweden,4-2,4,2,False,False,False,,,Brazil,John Langenus,Parc Lescure,Bordeaux,12000,1938-06-19,17:00
+53,FRA-38,ITA,HUN,ITA,France 1938,Final,,Italy,Hungary,4-2,4,2,False,False,False,,,Italy,Georges Capdeville,Stade Olympique de Colombes,Paris,45000,1938-06-19,17:00
+54,BRA-50,BRA,MEX,BRA,Brazil 1950,Group Stage,1,Brazil,Mexico,4-0,4,0,False,False,False,,,Brazil,George Reader,Estádio do Maracanã,Rio de Janeiro,81649,1950-06-24,15:00
+55,BRA-50,YUG,SWI,YUG,Brazil 1950,Group Stage,1,Yugoslavia,Switzerland,3-0,3,0,False,False,False,,,Yugoslavia,Giovanni Galeati,Estádio Independência,Belo Horizonte,7336,1950-06-25,15:00
+56,BRA-50,BRA,SWI,DRAW,Brazil 1950,Group Stage,1,Brazil,Switzerland,2-2,2,2,False,False,False,,,Draw,Ramón Azón Romá,Estádio do Pacaembu,São Paulo,42032,1950-06-28,15:00
+57,BRA-50,YUG,MEX,YUG,Brazil 1950,Group Stage,1,Yugoslavia,Mexico,4-1,4,1,False,False,False,,,Yugoslavia,Reginald Leafe,Estádio dos Eucaliptos,Porto Alegre,11078,1950-06-28,15:00
+58,BRA-50,BRA,YUG,BRA,Brazil 1950,Group Stage,1,Brazil,Yugoslavia,2-0,2,0,False,False,False,,,Brazil,Benjamin Griffiths,Estádio do Maracanã,Rio de Janeiro,142429,1950-07-01,15:00
+59,BRA-50,SWI,MEX,SWI,Brazil 1950,Group Stage,1,Switzerland,Mexico,2-1,2,1,False,False,False,,,Switzerland,Ivan Eklind,Estádio dos Eucaliptos,Porto Alegre,3580,1950-07-02,15:40
+60,BRA-50,ENG,CHI,ENG,Brazil 1950,Group Stage,2,England,Chile,2-0,2,0,False,False,False,,,England,Karel van der Meer,Estádio do Maracanã,Rio de Janeiro,29703,1950-06-25,15:00
+61,BRA-50,SPA,USA,SPA,Brazil 1950,Group Stage,2,Spain,United States,3-1,3,1,False,False,False,,,Spain,Mário Vianna,Estádio Durival de Britto,Curitiba,9511,1950-06-25,15:00
+62,BRA-50,SPA,CHI,SPA,Brazil 1950,Group Stage,2,Spain,Chile,2-0,2,0,False,False,False,,,Spain,Alberto Malcher,Estádio do Maracanã,Rio de Janeiro,19790,1950-06-29,15:00
+63,BRA-50,USA,ENG,USA,Brazil 1950,Group Stage,2,United States,England,1-0,1,0,False,False,False,,,United States,Generoso Dattilo,Estádio Independência,Belo Horizonte,10151,1950-06-29,15:00
+64,BRA-50,SPA,ENG,SPA,Brazil 1950,Group Stage,2,Spain,England,1-0,1,0,False,False,False,,,Spain,Giovanni Galeati,Estádio do Maracanã,Rio de Janeiro,74462,1950-07-02,15:00
+65,BRA-50,CHI,USA,CHI,Brazil 1950,Group Stage,2,Chile,United States,5-2,5,2,False,False,False,,,Chile,Mário Gardelli,Estádio Ilha do Retiro,Recife,8501,1950-07-02,15:00
+66,BRA-50,SWE,ITA,SWE,Brazil 1950,Group Stage,3,Sweden,Italy,3-2,3,2,False,False,False,,,Sweden,Jean Lutz,Estádio do Pacaembu,São Paulo,36502,1950-06-25,15:00
+67,BRA-50,SWE,PAR,DRAW,Brazil 1950,Group Stage,3,Sweden,Paraguay,2-2,2,2,False,False,False,,,Draw,George Mitchell,Estádio Durival Britto,Curitiba,7903,1950-06-29,15:30
+68,BRA-50,ITA,PAR,ITA,Brazil 1950,Group Stage,3,Italy,Paraguay,2-0,2,0,False,False,False,,,Italy,Arthur Ellis,Estádio do Pacaembu,São Paulo,25811,1950-07-02,15:00
+69,BRA-50,URU,BOL,URU,Brazil 1950,Group Stage,4,Uruguay,Bolivia,8-0,8,0,False,False,False,,,Uruguay,George Reader,Estádio Independência,Belo Horizonte,5284,1950-07-02,15:00
+70,BRA-50,URU,SPA,DRAW,Brazil 1950,Final Stage,Final,Uruguay,Spain,2-2,2,2,False,False,False,,,Draw,Benjamin Griffiths,Estádio do Pacaembu,São Paulo,44802,1950-07-09,15:00
+71,BRA-50,BRA,SWE,BRA,Brazil 1950,Final Stage,Final,Brazil,Sweden,7-1,7,1,False,False,False,,,Brazil,Arthur Ellis,Estádio do Maracanã,Rio de Janeiro,138886,1950-07-09,15:00
+72,BRA-50,BRA,SPA,BRA,Brazil 1950,Final Stage,Final,Brazil,Spain,6-1,6,1,False,False,False,,,Brazil,Reginald Leafe,Estádio do Maracanã,Rio de Janeiro,152772,1950-07-13,15:00
+73,BRA-50,URU,SWE,URU,Brazil 1950,Final Stage,Final,Uruguay,Sweden,3-2,3,2,False,False,False,,,Uruguay,Giovanni Galeati,Estádio do Pacaembu,São Paulo,7987,1950-07-13,15:00
+74,BRA-50,SWE,SPA,SWE,Brazil 1950,Final Stage,Final,Sweden,Spain,3-1,3,1,False,False,False,,,Sweden,Karel van der Meer,Estádio do Pacaembu,São Paulo,11227,1950-07-16,15:00
+75,BRA-50,URU,BRA,URU,Brazil 1950,Final Stage,Final,Uruguay,Brazil,2-1,2,1,False,False,False,,,Uruguay,George Reader,Estádio do Maracanã,Rio de Janeiro,173850,1950-07-16,15:00
+76,SWI-54,BRA,MEX,BRA,Switzerland 1954,Group Stage,1,Brazil,Mexico,5-0,5,0,False,False,False,,,Brazil,Raymon Wyssling,Charmilles Stadium,Geneva,13470,1954-06-16,18:00
+77,SWI-54,YUG,FRA,YUG,Switzerland 1954,Group Stage,1,Yugoslavia,France,1-0,1,0,False,False,False,,,Yugoslavia,Benjamin Griffiths,Stade Olympique de la Pontaise,Lausanne,16000,1954-06-16,18:00
+78,SWI-54,BRA,YUG,DRAW,Switzerland 1954,Group Stage,1,Brazil,Yugoslavia,1-1(a.e.t.),1,1,True,False,False,,,Draw,Charlie Faultless,Stade Olympique de la Pontaise,Lausanne,24637,1954-06-19,17:00
+79,SWI-54,FRA,MEX,FRA,Switzerland 1954,Group Stage,1,France,Mexico,3-2,3,2,False,False,False,,,France,Manuel Asensi,Charmilles Stadium,Geneva,19000,1954-06-19,17:10
+80,SWI-54,WES,TUR,WES,Switzerland 1954,Group Stage,2,West Germany,Turkey,4-1,4,1,False,False,False,,,West Germany,Jose da Costa Vieira,Wankdorf Stadium,Bern,28000,1954-06-17,18:00
+81,SWI-54,HUN,SKO,HUN,Switzerland 1954,Group Stage,2,Hungary,South Korea,9-0,9,0,False,False,False,,,Hungary,Raymond Vincenti,Hardturm Stadium,Zürich,13000,1954-06-17,18:00
+82,SWI-54,HUN,WES,HUN,Switzerland 1954,Group Stage,2,Hungary,West Germany,8-3,8,3,False,False,False,,,Hungary,William Ling,St. Jakob Stadium,Basel,56000,1954-06-20,16:50
+83,SWI-54,TUR,SKO,TUR,Switzerland 1954,Group Stage,2,Turkey,South Korea,7-0,7,0,False,False,False,,,Turkey,Esteban Marino,Charmilles Stadium,Geneva,4000,1954-06-20,17:00
+84,SWI-54,WES,TUR,WES,Switzerland 1954,Group Stage,2 Play-off,West Germany,Turkey,7-2,7,2,False,False,False,,,West Germany,Raymond Vincenti,Hardturm Stadium,Zürich,17000,1954-06-23,18:00
+85,SWI-54,URU,CZE,URU,Switzerland 1954,Group Stage,3,Uruguay,Czechoslovakia,2-0,2,0,False,False,False,,,Uruguay,Arthur Ellis,Wankdorf Stadium,Bern,20500,1954-06-16,18:00
+86,SWI-54,AUT,SCO,AUT,Switzerland 1954,Group Stage,3,Austria,Scotland,1-0,1,0,False,False,False,,,Austria,Laurent Franken,Hardturm Stadium,Zürich,25000,1954-06-16,18:00
+87,SWI-54,URU,SCO,URU,Switzerland 1954,Group Stage,3,Uruguay,Scotland,7-0,7,0,False,False,False,,,Uruguay,Vincenzo Orlandini,St. Jakob Stadium,Basel,34000,1954-06-19,16:50
+88,SWI-54,AUT,CZE,AUT,Switzerland 1954,Group Stage,3,Austria,Czechoslovakia,5-0,5,0,False,False,False,,,Austria,Vasa Stefanovic,Hardturm Stadium,Zürich,26000,1954-06-19,17:00
+89,SWI-54,SWI,ITA,SWI,Switzerland 1954,Group Stage,4,Switzerland,Italy,2-1,2,1,False,False,False,,,Switzerland,Mário Vianna,Stade Olympique de la Pontaise,Lausanne,43000,1954-06-17,17:50
+90,SWI-54,ENG,BEL,DRAW,Switzerland 1954,Group Stage,4,England,Belgium,4-4(a.e.t.),4,4,True,False,False,,,Draw,Emil Schmetzer,St. Jakob Stadium,Basel,14000,1954-06-17,18:10
+91,SWI-54,ITA,BEL,ITA,Switzerland 1954,Group Stage,4,Italy,Belgium,4-1,4,1,False,False,False,,,Italy,Carl Erich Steiner,Cornaredo Stadium,Lugano,24000,1954-06-20,17:00
+92,SWI-54,ENG,SWI,ENG,Switzerland 1954,Group Stage,4,England,Switzerland,2-0,2,0,False,False,False,,,England,Istvan Zsolt,Wankdorf Stadium,Bern,43500,1954-06-20,17:10
+93,SWI-54,SWI,ITA,SWI,Switzerland 1954,Group Stage,4 Play-off,Switzerland,Italy,4-1,4,1,False,False,False,,,Switzerland,Benjamin Griffiths,St. Jakob Stadium,Basel,30000,1954-06-23,18:00
+94,SWI-54,AUT,SWI,AUT,Switzerland 1954,Quarter-finals,,Austria,Switzerland,7-5,7,5,False,False,False,,,Austria,Charlie Faultless,Stade Olympique de la Pontaise,Lausanne,35000,1954-06-26,17:00
+95,SWI-54,URU,ENG,URU,Switzerland 1954,Quarter-finals,,Uruguay,England,4-2,4,2,False,False,False,,,Uruguay,Carl Erich Steiner,St. Jakob Stadium,Basel,28000,1954-06-26,17:00
+96,SWI-54,WES,YUG,WES,Switzerland 1954,Quarter-finals,,West Germany,Yugoslavia,2-0,2,0,False,False,False,,,West Germany,Istvan Zsolt,Charmilles Stadium,Geneva,17000,1954-06-27,17:00
+97,SWI-54,HUN,BRA,HUN,Switzerland 1954,Quarter-finals,,Hungary,Brazil,4-2,4,2,False,False,False,,,Hungary,Arthur Ellis,Wankdorf Stadium,Bern,40000,1954-06-27,17:00
+98,SWI-54,WES,AUT,WES,Switzerland 1954,Semi-finals,,West Germany,Austria,6-1,6,1,False,False,False,,,West Germany,Vincenzo Orlandini,St. Jakob Stadium,Basel,58000,1954-06-30,18:00
+99,SWI-54,HUN,URU,HUN,Switzerland 1954,Semi-finals,,Hungary,Uruguay,4-2(a.e.t.),4,2,True,False,False,,,Hungary,Benjamin Griffiths,Stade Olympique de la Pontaise,Lausanne,45000,1954-06-30,18:00
+100,SWI-54,AUT,URU,AUT,Switzerland 1954,Third Place Match,,Austria,Uruguay,3-1,3,1,False,False,False,,,Austria,Raymon Wyssling,Hardturm Stadium,Zürich,32000,1954-07-03,17:00
+101,SWI-54,WES,HUN,WES,Switzerland 1954,Final,,West Germany,Hungary,3-2,3,2,False,False,False,,,West Germany,William Ling,Wankdorf Stadium,Bern,62500,1954-07-04,17:00
+102,SWE-58,ARG,WES,WES,Sweden 1958,Group Stage,1,Argentina,West Germany,1-3,1,3,False,False,False,,,West Germany,Reginald Leafe,Malmö Stadion,Malmö,31156,1958-06-08,19:00
+103,SWE-58,NIR,CZE,NIR,Sweden 1958,Group Stage,1,Northern Ireland,Czechoslovakia,1-0,1,0,False,False,False,,,Northern Ireland,Fritz Seipelt,Örjans Vall,Halmstad,10647,1958-06-08,19:00
+104,SWE-58,WES,CZE,DRAW,Sweden 1958,Group Stage,1,West Germany,Czechoslovakia,2-2,2,2,False,False,False,,,Draw,Arthur Edward Ellis,Olympiastadion,Helsingborg,25000,1958-06-11,19:00
+105,SWE-58,ARG,NIR,ARG,Sweden 1958,Group Stage,1,Argentina,Northern Ireland,3-1,3,1,False,False,False,,,Argentina,Sten Ahlner,Örjans Vall,Halmstad,14174,1958-06-11,19:00
+106,SWE-58,WES,NIR,DRAW,Sweden 1958,Group Stage,1,West Germany,Northern Ireland,2-2,2,2,False,False,False,,,Draw,Joaquim Campos,Malmö Stadion,Malmö,21990,1958-06-15,19:00
+107,SWE-58,CZE,ARG,CZE,Sweden 1958,Group Stage,1,Czechoslovakia,Argentina,6-1,6,1,False,False,False,,,Czechoslovakia,Arthur Edward Ellis,Olympiastadion,Helsingborg,16418,1958-06-15,19:00
+108,SWE-58,NIR,CZE,NIR,Sweden 1958,Group Stage,1 Play-off,Northern Ireland,Czechoslovakia,2-1(a.e.t.),2,1,True,False,False,,,Northern Ireland,Maurice Guigue,Malmö Stadion,Malmö,6196,1958-06-17,19:00
+109,SWE-58,FRA,PAR,FRA,Sweden 1958,Group Stage,2,France,Paraguay,7-3,7,3,False,False,False,,,France,Juan Gardeazábal Garay,Idrottsparken,Norrköping,16518,1958-06-08,19:00
+110,SWE-58,YUG,SCO,DRAW,Sweden 1958,Group Stage,2,Yugoslavia,Scotland,1-1,1,1,False,False,False,,,Draw,Raymond Wyssling,Arosvallen,Västerås,9591,1958-06-08,19:00
+111,SWE-58,YUG,FRA,YUG,Sweden 1958,Group Stage,2,Yugoslavia,France,3-2,3,2,False,False,False,,,Yugoslavia,Benjamin Griffiths,Arosvallen,Västerås,12217,1958-06-11,19:00
+112,SWE-58,PAR,SCO,PAR,Sweden 1958,Group Stage,2,Paraguay,Scotland,3-2,3,2,False,False,False,,,Paraguay,Vincenzo Orlandini,Idrottsparken,Norrköping,11665,1958-06-11,19:00
+113,SWE-58,FRA,SCO,FRA,Sweden 1958,Group Stage,2,France,Scotland,2-1,2,1,False,False,False,,,France,Juan Regis Brozzi,Eyravallen,Örebro,13554,1958-06-15,19:00
+114,SWE-58,PAR,YUG,DRAW,Sweden 1958,Group Stage,2,Paraguay,Yugoslavia,3-3,3,3,False,False,False,,,Draw,Martin Macko,Tunavallen,Eskilstuna,13103,1958-06-15,19:00
+115,SWE-58,SWE,MEX,SWE,Sweden 1958,Group Stage,3,Sweden,Mexico,3-0,3,0,False,False,False,,,Sweden,Nikolay Latyshev,Råsunda Stadium,Solna,34107,1958-06-08,14:00
+116,SWE-58,HUN,WAL,DRAW,Sweden 1958,Group Stage,3,Hungary,Wales,1-1,1,1,False,False,False,,,Draw,José María Codesal,Jernvallen,Sandviken,15343,1958-06-08,19:00
+117,SWE-58,MEX,WAL,DRAW,Sweden 1958,Group Stage,3,Mexico,Wales,1-1,1,1,False,False,False,,,Draw,Leo Lemesic,Råsunda Stadium,,15150,1958-06-11,19:00
+118,SWE-58,SWE,HUN,SWE,Sweden 1958,Group Stage,3,Sweden,Hungary,2-1,2,1,False,False,False,,,Sweden,Jack Mowat,Råsunda Stadium,Solna,38850,1958-06-12,19:00
+119,SWE-58,SWE,WAL,DRAW,Sweden 1958,Group Stage,3,Sweden,Wales,0-0,0,0,False,False,False,,,Draw,Lucien van Nuffel,Råsunda Stadium,,30287,1958-06-15,14:00
+120,SWE-58,HUN,MEX,HUN,Sweden 1958,Group Stage,3,Hungary,Mexico,4-0,4,0,False,False,False,,,Hungary,Arne Eriksson,Jernvallen,Sandviken,13300,1958-06-15,19:00
+121,SWE-58,WAL,HUN,WAL,Sweden 1958,Group Stage,3 Play-off,Wales,Hungary,2-1,2,1,False,False,False,,,Wales,Nikolay Latyshev,Råsunda Stadium,Solna,2823,1958-06-17,19:00
+122,SWE-58,BRA,AUT,BRA,Sweden 1958,Group Stage,4,Brazil,Austria,3-0,3,0,False,False,False,,,Brazil,Maurice Guigue,Rimnersvallen,Uddevalla,17788,1958-06-08,19:00
+123,SWE-58,SOV,ENG,DRAW,Sweden 1958,Group Stage,4,Soviet Union,England,2-2,2,2,False,False,False,,,Draw,István Zsolt,Ullevi,Gothenburg,49348,1958-06-08,19:00
+124,SWE-58,BRA,ENG,DRAW,Sweden 1958,Group Stage,4,Brazil,England,0-0,0,0,False,False,False,,,Draw,Albert Dusch,Ullevi,Gothenburg,40895,1958-06-11,19:00
+125,SWE-58,SOV,AUT,SOV,Sweden 1958,Group Stage,4,Soviet Union,Austria,2-0,2,0,False,False,False,,,Soviet Union,Carl Jørgensen,Ryavallen,Borås,21239,1958-06-11,19:00
+126,SWE-58,ENG,AUT,DRAW,Sweden 1958,Group Stage,4,England,Austria,2-2,2,2,False,False,False,,,Draw,Jan Bronkhorst,Ryavallen,Borås,15872,1958-06-15,19:00
+127,SWE-58,BRA,SOV,BRA,Sweden 1958,Group Stage,4,Brazil,Soviet Union,2-0,2,0,False,False,False,,,Brazil,Maurice Guigue,Ullevi,Gothenburg,50928,1958-06-15,19:00
+128,SWE-58,SOV,ENG,SOV,Sweden 1958,Group Stage,4 Play-off,Soviet Union,England,1-0,1,0,False,False,False,,,Soviet Union,Albert Dusch,Ullevi,Gothenburg,23182,1958-06-17,19:00
+129,SWE-58,BRA,WAL,BRA,Sweden 1958,Quarter-finals,,Brazil,Wales,1-0,1,0,False,False,False,,,Brazil,Fritz Seipelt,Ullevi,Gothenburg,25923,1958-06-19,19:00
+130,SWE-58,FRA,NIR,FRA,Sweden 1958,Quarter-finals,,France,Northern Ireland,4-0,4,0,False,False,False,,,France,Juan Gardeazábal Garay,Idrottsparken,Norrköping,11800,1958-06-19,19:00
+131,SWE-58,SWE,SOV,SWE,Sweden 1958,Quarter-finals,,Sweden,Soviet Union,2-0,2,0,False,False,False,,,Sweden,Reginald Leafe,Råsunda Stadium,Solna,31900,1958-06-19,19:00
+132,SWE-58,WES,YUG,WES,Sweden 1958,Quarter-finals,,West Germany,Yugoslavia,1-0,1,0,False,False,False,,,West Germany,Raymond Wyssling,Malmö Stadion,Malmö,20055,1958-06-19,19:00
+133,SWE-58,BRA,FRA,BRA,Sweden 1958,Semi-finals,,Brazil,France,5-2,5,2,False,False,False,,,Brazil,Benjamin Griffiths,Råsunda Stadium,Solna,27100,1958-06-24,19:00
+134,SWE-58,SWE,WES,SWE,Sweden 1958,Semi-finals,,Sweden,West Germany,3-1,3,1,False,False,False,,,Sweden,István Zsolt,Ullevi,Gothenburg,49471,1958-06-24,19:00
+135,SWE-58,FRA,WES,FRA,Sweden 1958,Third Place Match,,France,West Germany,6-3,6,3,False,False,False,,,France,Juan Regis Brozzi,Ullevi,Gothenburg,32483,1958-06-28,17:00
+136,SWE-58,BRA,SWE,BRA,Sweden 1958,Final,,Brazil,Sweden,5-2,5,2,False,False,False,,,Brazil,Maurice Guigue,Råsunda Stadium,Solna,49737,1958-06-29,15:00
+137,CHI-62,URU,COL,URU,Chile 1962,Group Stage,1,Uruguay,Colombia,2-1,2,1,False,False,False,,,Uruguay,Andor Dorogi,Estadio Carlos Dittborn,Arica,7908,1962-05-30,15:00
+138,CHI-62,SOV,YUG,SOV,Chile 1962,Group Stage,1,Soviet Union,Yugoslavia,2-0,2,0,False,False,False,,,Soviet Union,Albert Dusch,Estadio Carlos Dittborn,Arica,9622,1962-05-31,15:00
+139,CHI-62,YUG,URU,YUG,Chile 1962,Group Stage,1,Yugoslavia,Uruguay,3-1,3,1,False,False,False,,,Yugoslavia,Karol Galba,Estadio Carlos Dittborn,Arica,8829,1962-06-02,15:00
+140,CHI-62,SOV,COL,DRAW,Chile 1962,Group Stage,1,Soviet Union,Colombia,4-4,4,4,False,False,False,,,Draw,João Etzel Filho,Estadio Carlos Dittborn,Arica,8040,1962-06-03,15:00
+141,CHI-62,SOV,URU,SOV,Chile 1962,Group Stage,1,Soviet Union,Uruguay,2-1,2,1,False,False,False,,,Soviet Union,Cesare Jonni,Estadio Carlos Dittborn,Arica,9973,1962-06-06,15:00
+142,CHI-62,YUG,COL,YUG,Chile 1962,Group Stage,1,Yugoslavia,Colombia,5-0,5,0,False,False,False,,,Yugoslavia,Carlos Robles,Estadio Carlos Dittborn,Arica,7167,1962-06-07,15:00
+143,CHI-62,CHI,SWI,CHI,Chile 1962,Group Stage,2,Chile,Switzerland,3-1,3,1,False,False,False,,,Chile,Kenneth Aston,Estadio Nacional,Santiago,65006,1962-05-30,15:00
+144,CHI-62,WES,ITA,DRAW,Chile 1962,Group Stage,2,West Germany,Italy,0-0,0,0,False,False,False,,,Draw,Robert Holley Davidson,Estadio Nacional,Santiago,65440,1962-05-31,15:00
+145,CHI-62,CHI,ITA,CHI,Chile 1962,Group Stage,2,Chile,Italy,2-0,2,0,False,False,False,,,Chile,Kenneth Aston,Estadio Nacional,Santiago,66057,1962-06-02,15:00
+146,CHI-62,WES,SWI,WES,Chile 1962,Group Stage,2,West Germany,Switzerland,2-1,2,1,False,False,False,,,West Germany,Leo Horn,Estadio Nacional,Santiago,64922,1962-06-03,15:00
+147,CHI-62,WES,CHI,WES,Chile 1962,Group Stage,2,West Germany,Chile,2-0,2,0,False,False,False,,,West Germany,Robert Holley Davidson,Estadio Nacional,Santiago,67224,1962-06-06,15:00
+148,CHI-62,ITA,SWI,ITA,Chile 1962,Group Stage,2,Italy,Switzerland,3-0,3,0,False,False,False,,,Italy,Nikolay Latyshev,Estadio Nacional,Santiago,59828,1962-06-07,15:00
+149,CHI-62,BRA,MEX,BRA,Chile 1962,Group Stage,3,Brazil,Mexico,2-0,2,0,False,False,False,,,Brazil,Gottfried Dienst,Estadio Sausalito,Viña del Mar,10484,1962-05-30,15:00
+150,CHI-62,CZE,SPA,CZE,Chile 1962,Group Stage,3,Czechoslovakia,Spain,1-0,1,0,False,False,False,,,Czechoslovakia,Carl Erich Steiner,Estadio Sausalito,Viña del Mar,12700,1962-05-31,15:00
+151,CHI-62,BRA,CZE,DRAW,Chile 1962,Group Stage,3,Brazil,Czechoslovakia,0-0,0,0,False,False,False,,,Draw,Pierre Schwinte,Estadio Sausalito,Viña del Mar,14903,1962-06-02,15:00
+152,CHI-62,SPA,MEX,SPA,Chile 1962,Group Stage,3,Spain,Mexico,1-0,1,0,False,False,False,,,Spain,Branko Tesanić,Estadio Sausalito,Viña del Mar,11875,1962-06-03,15:00
+153,CHI-62,BRA,SPA,BRA,Chile 1962,Group Stage,3,Brazil,Spain,2-1,2,1,False,False,False,,,Brazil,Sergio Bustamante,Estadio Sausalito,Viña del Mar,18715,1962-06-06,15:00
+154,CHI-62,MEX,CZE,MEX,Chile 1962,Group Stage,3,Mexico,Czechoslovakia,3-1,3,1,False,False,False,,,Mexico,Gottfried Dienst,Estadio Sausalito,Viña del Mar,10648,1962-06-07,15:00
+155,CHI-62,ARG,BUL,ARG,Chile 1962,Group Stage,4,Argentina,Bulgaria,1-0,1,0,False,False,False,,,Argentina,Juan Gardeazábal Garay,Estadio El Teniente,Rancagua,7134,1962-05-30,15:00
+156,CHI-62,HUN,ENG,HUN,Chile 1962,Group Stage,4,Hungary,England,2-1,2,1,False,False,False,,,Hungary,Leo Horn,Estadio El Teniente,Rancagua,7938,1962-05-31,15:00
+157,CHI-62,ENG,ARG,ENG,Chile 1962,Group Stage,4,England,Argentina,3-1,3,1,False,False,False,,,England,Nikolay Latyshev,Estadio El Teniente,Rancagua,9794,1962-06-02,15:00
+158,CHI-62,HUN,BUL,HUN,Chile 1962,Group Stage,4,Hungary,Bulgaria,6-1,6,1,False,False,False,,,Hungary,Juan Gardeazábal Garay,Estadio El Teniente,Rancagua,7442,1962-06-03,15:00
+159,CHI-62,HUN,ARG,DRAW,Chile 1962,Group Stage,4,Hungary,Argentina,0-0,0,0,False,False,False,,,Draw,Arturo Yamasaki Maldonado,Estadio El Teniente,Rancagua,7945,1962-06-06,15:00
+160,CHI-62,ENG,BUL,DRAW,Chile 1962,Group Stage,4,England,Bulgaria,0-0,0,0,False,False,False,,,Draw,Antoine Blavier,Estadio El Teniente,Rancagua,5700,1962-06-07,15:00
+161,CHI-62,CHI,SOV,CHI,Chile 1962,Quarter-finals,,Chile,Soviet Union,2-1,2,1,False,False,False,,,Chile,Leo Horn,Estadio Carlos Dittborn,Arica,17268,1962-06-10,14:30
+162,CHI-62,CZE,HUN,CZE,Chile 1962,Quarter-finals,,Czechoslovakia,Hungary,1-0,1,0,False,False,False,,,Czechoslovakia,Nikolay Latyshev,Estadio El Teniente,Rancagua,11690,1962-06-10,14:30
+163,CHI-62,BRA,ENG,BRA,Chile 1962,Quarter-finals,,Brazil,England,3-1,3,1,False,False,False,,,Brazil,Pierre Schwinte,Estadio Sausalito,Viña del Mar,17736,1962-06-10,14:30
+164,CHI-62,YUG,WES,YUG,Chile 1962,Quarter-finals,,Yugoslavia,West Germany,1-0,1,0,False,False,False,,,Yugoslavia,Arturo Yamasaki Maldonado,Estadio Nacional,Santiago,63324,1962-06-10,14:30
+165,CHI-62,CZE,YUG,CZE,Chile 1962,Semi-finals,,Czechoslovakia,Yugoslavia,3-1,3,1,False,False,False,,,Czechoslovakia,Gottfried Dienst,Estadio Sausalito,Viña del Mar,5890,1962-06-13,14:30
+166,CHI-62,BRA,CHI,BRA,Chile 1962,Semi-finals,,Brazil,Chile,4-2,4,2,False,False,False,,,Brazil,Arturo Yamasaki Maldonado,Estadio Nacional,Santiago,76594,1962-06-13,14:30
+167,CHI-62,CHI,YUG,CHI,Chile 1962,Third Place Match,,Chile,Yugoslavia,1-0,1,0,False,False,False,,,Chile,Juan Gardeazábal Garay,Estadio Nacional,Santiago,66697,1962-06-16,14:30
+168,CHI-62,BRA,CZE,BRA,Chile 1962,Final,,Brazil,Czechoslovakia,3-1,3,1,False,False,False,,,Brazil,Nikolay Latyshev,Estadio Nacional,Santiago,68679,1962-06-17,14:30
+169,ENG-66,ENG,URU,DRAW,England 1966,Group Stage,1,England,Uruguay,0-0,0,0,False,False,False,,,Draw,Istvan Zsolt,Wembley Stadium,London,87148,1966-07-11,19:30
+170,ENG-66,FRA,MEX,DRAW,England 1966,Group Stage,1,France,Mexico,1-1,1,1,False,False,False,,,Draw,Menachem Ashkenazi,Wembley Stadium,London,69237,1966-07-13,19:30
+171,ENG-66,URU,FRA,URU,England 1966,Group Stage,1,Uruguay,France,2-1,2,1,False,False,False,,,Uruguay,Karol Galba,White City Stadium,London,45662,1966-07-15,19:30
+172,ENG-66,ENG,MEX,ENG,England 1966,Group Stage,1,England,Mexico,2-0,2,0,False,False,False,,,England,Concetto Lo Bello,Wembley Stadium,London,92570,1966-07-16,19:30
+173,ENG-66,MEX,URU,DRAW,England 1966,Group Stage,1,Mexico,Uruguay,0-0,0,0,False,False,False,,,Draw,Bertil Lööw,Wembley Stadium,London,61112,1966-07-19,16:30
+174,ENG-66,ENG,FRA,ENG,England 1966,Group Stage,1,England,France,2-0,2,0,False,False,False,,,England,Arturo Yamasaki,Wembley Stadium,London,98270,1966-07-20,19:30
+175,ENG-66,WES,SWI,WES,England 1966,Group Stage,2,West Germany,Switzerland,5-0,5,0,False,False,False,,,West Germany,Hugh Phillips,Hillsborough Stadium,Sheffield,36127,1966-07-12,19:30
+176,ENG-66,ARG,SPA,ARG,England 1966,Group Stage,2,Argentina,Spain,2-1,2,1,False,False,False,,,Argentina,Dimitar Rumenchev,Villa Park,Birmingham,42738,1966-07-13,19:30
+177,ENG-66,SPA,SWI,SPA,England 1966,Group Stage,2,Spain,Switzerland,2-1,2,1,False,False,False,,,Spain,Tofiq Bahramov,Hillsborough Stadium,Sheffield,32028,1966-07-15,19:30
+178,ENG-66,ARG,WES,DRAW,England 1966,Group Stage,2,Argentina,West Germany,0-0,0,0,False,False,False,,,Draw,Konstantin Zečević,Villa Park,Birmingham,46587,1966-07-16,15:00
+179,ENG-66,ARG,SWI,ARG,England 1966,Group Stage,2,Argentina,Switzerland,2-0,2,0,False,False,False,,,Argentina,Joaquim Campos,Hillsborough Stadium,Sheffield,32127,1966-07-19,19:30
+180,ENG-66,WES,SPA,WES,England 1966,Group Stage,2,West Germany,Spain,2-1,2,1,False,False,False,,,West Germany,Armando Marques,Villa Park,Birmingham,42187,1966-07-20,19:30
+181,ENG-66,BRA,BUL,BRA,England 1966,Group Stage,3,Brazil,Bulgaria,2-0,2,0,False,False,False,,,Brazil,Kurt Tschenscher,Goodison Park,Liverpool,47308,1966-07-12,19:30
+182,ENG-66,POR,HUN,POR,England 1966,Group Stage,3,Portugal,Hungary,3-1,3,1,False,False,False,,,Portugal,Leo Callaghan,Old Trafford,Manchester,29886,1966-07-13,19:30
+183,ENG-66,HUN,BRA,HUN,England 1966,Group Stage,3,Hungary,Brazil,3-1,3,1,False,False,False,,,Hungary,Ken Dagnall,Goodison Park,Liverpool,51387,1966-07-15,19:30
+184,ENG-66,POR,BUL,POR,England 1966,Group Stage,3,Portugal,Bulgaria,3-0,3,0,False,False,False,,,Portugal,José María Codensal,Old Trafford,Manchester,25438,1966-07-16,15:00
+185,ENG-66,POR,BRA,POR,England 1966,Group Stage,3,Portugal,Brazil,3-1,3,1,False,False,False,,,Portugal,George McCabe,Goodison Park,Liverpool,58479,1966-07-19,19:30
+186,ENG-66,HUN,BUL,HUN,England 1966,Group Stage,3,Hungary,Bulgaria,3-1,3,1,False,False,False,,,Hungary,Roberto Goicoechea,Old Trafford,Manchester,24129,1966-07-20,19:30
+187,ENG-66,SOV,NKO,SOV,England 1966,Group Stage,4,Soviet Union,North Korea,3-0,3,0,False,False,False,,,Soviet Union,Juan Gardeazábal Garay,Ayresome Park,Middlesbrough,23006,1966-07-12,19:30
+188,ENG-66,ITA,CHI,ITA,England 1966,Group Stage,4,Italy,Chile,2-0,2,0,False,False,False,,,Italy,Gottfried Dienst,Roker Park,Sunderland,27199,1966-07-13,19:30
+189,ENG-66,CHI,NKO,DRAW,England 1966,Group Stage,4,Chile,North Korea,1-1,1,1,False,False,False,,,Draw,Ali Kandil,Ayresome Park,Middlesbrough,13792,1966-07-15,19:30
+190,ENG-66,SOV,ITA,SOV,England 1966,Group Stage,4,Soviet Union,Italy,1-0,1,0,False,False,False,,,Soviet Union,Rudolf Kreitlein,Roker Park,Sunderland,27793,1966-07-16,15:00
+191,ENG-66,NKO,ITA,NKO,England 1966,Group Stage,4,North Korea,Italy,1-0,1,0,False,False,False,,,North Korea,Pierre Schwinte,Ayresome Park,Middlesbrough,17829,1966-07-19,19:30
+192,ENG-66,SOV,CHI,SOV,England 1966,Group Stage,4,Soviet Union,Chile,2-1,2,1,False,False,False,,,Soviet Union,John Adair,Roker Park,Sunderland,16027,1966-07-20,19:30
+193,ENG-66,ENG,ARG,ENG,England 1966,Quarter-finals,,England,Argentina,1-0,1,0,False,False,False,,,England,Rudolf Kreitlein,Wembley Stadium,London,90584,1966-07-23,15:00
+194,ENG-66,WES,URU,WES,England 1966,Quarter-finals,,West Germany,Uruguay,4-0,4,0,False,False,False,,,West Germany,Jim Finney,Hillsborough Stadium,Sheffield,40007,1966-07-23,15:00
+195,ENG-66,SOV,HUN,SOV,England 1966,Quarter-finals,,Soviet Union,Hungary,2-1,2,1,False,False,False,,,Soviet Union,Juan Gardeazábal Garay,Roker Park,Sunderland,26844,1966-07-23,15:00
+196,ENG-66,POR,NKO,POR,England 1966,Quarter-finals,,Portugal,North Korea,5-3,5,3,False,False,False,,,Portugal,Menachem Ashkenazi,Goodison Park,Liverpool,40248,1966-07-23,15:00
+197,ENG-66,WES,SOV,WES,England 1966,Semi-finals,,West Germany,Soviet Union,2-1,2,1,False,False,False,,,West Germany,Concetto Lo Bello,Goodison Park,Liverpool,38273,1966-07-25,19:30
+198,ENG-66,ENG,POR,ENG,England 1966,Semi-finals,,England,Portugal,2-1,2,1,False,False,False,,,England,Pierre Schwinte,Wembley Stadium,London,94493,1966-07-26,19:30
+199,ENG-66,POR,SOV,POR,England 1966,Third Place Match,,Portugal,Soviet Union,2-1,2,1,False,False,False,,,Portugal,Ken Dagnall,Wembley Stadium,London,87696,1966-07-28,19:30
+200,ENG-66,ENG,WES,ENG,England 1966,Final,,England,West Germany,4-2(a.e.t.),4,2,True,False,False,,,England,Gottfried Dienst,Wembley Stadium,London,96924,1966-07-30,15:00
+201,MEX-70,MEX,SOV,DRAW,Mexico 1970,Group Stage,1,Mexico,Soviet Union,0-0,0,0,False,False,False,,,Draw,Kurt Tschenscher,Estadio Azteca,Mexico City,107160,1970-05-31,12:00
+202,MEX-70,BEL,SAL,BEL,Mexico 1970,Group Stage,1,Belgium,El Salvador,3-0,3,0,False,False,False,,,Belgium,Andrei Rădulescu,Estadio Azteca,Mexico City,92205,1970-06-03,16:00
+203,MEX-70,SOV,BEL,SOV,Mexico 1970,Group Stage,1,Soviet Union,Belgium,4-1,4,1,False,False,False,,,Soviet Union,Rudolf Scheurer,Estadio Azteca,Mexico City,95261,1970-06-06,16:00
+204,MEX-70,MEX,SAL,MEX,Mexico 1970,Group Stage,1,Mexico,El Salvador,4-0,4,0,False,False,False,,,Mexico,Ali Kandil,Estadio Azteca,Mexico City,103058,1970-06-07,12:00
+205,MEX-70,SOV,SAL,SOV,Mexico 1970,Group Stage,1,Soviet Union,El Salvador,2-0,2,0,False,False,False,,,Soviet Union,Rafael Hormazábal Díaz,Estadio Azteca,Mexico City,89979,1970-06-10,16:00
+206,MEX-70,MEX,BEL,MEX,Mexico 1970,Group Stage,1,Mexico,Belgium,1-0,1,0,False,False,False,,,Mexico,Ángel Norberto Coerezza,Estadio Azteca,Mexico City,108192,1970-06-11,16:00
+207,MEX-70,URU,ISR,URU,Mexico 1970,Group Stage,2,Uruguay,Israel,2-0,2,0,False,False,False,,,Uruguay,Bobby Davidson,Estadio Cuauhtémoc,Puebla,20654,1970-06-02,16:00
+208,MEX-70,ITA,SWE,ITA,Mexico 1970,Group Stage,2,Italy,Sweden,1-0,1,0,False,False,False,,,Italy,Jack Taylor,Estadio Luis Dosal,Toluca,13433,1970-06-03,16:00
+209,MEX-70,URU,ITA,DRAW,Mexico 1970,Group Stage,2,Uruguay,Italy,0-0,0,0,False,False,False,,,Draw,Rudi Glöckner,Estadio Cuauhtémoc,Puebla,29968,1970-06-06,16:00
+210,MEX-70,SWE,ISR,DRAW,Mexico 1970,Group Stage,2,Sweden,Israel,1-1,1,1,False,False,False,,,Draw,Seyoum Tarekegn,Estadio Luis Dosal,Toluca,9624,1970-06-07,12:00
+211,MEX-70,SWE,URU,SWE,Mexico 1970,Group Stage,2,Sweden,Uruguay,1-0,1,0,False,False,False,,,Sweden,Henry Landauer,Estadio Cuauhtémoc,Puebla,18163,1970-06-10,16:00
+212,MEX-70,ITA,ISR,DRAW,Mexico 1970,Group Stage,2,Italy,Israel,0-0,0,0,False,False,False,,,Draw,Ayrton Vieira de Moraes,Estadio Luis Dosal,Toluca,9890,1970-06-11,16:00
+213,MEX-70,ENG,ROM,ENG,Mexico 1970,Group Stage,3,England,Romania,1-0,1,0,False,False,False,,,England,Vital Loraux,Estadio Jalisco,Guadalajara,50560,1970-06-02,16:00
+214,MEX-70,BRA,CZE,BRA,Mexico 1970,Group Stage,3,Brazil,Czechoslovakia,4-1,4,1,False,False,False,,,Brazil,Ramón Barreto,Estadio Jalisco,Guadalajara,52897,1970-06-03,16:00
+215,MEX-70,ROM,CZE,ROM,Mexico 1970,Group Stage,3,Romania,Czechoslovakia,2-1,2,1,False,False,False,,,Romania,Diego De Leo,Estadio Jalisco,Guadalajara,56818,1970-06-06,16:00
+216,MEX-70,BRA,ENG,BRA,Mexico 1970,Group Stage,3,Brazil,England,1-0,1,0,False,False,False,,,Brazil,Abraham Klein,Estadio Jalisco,Guadalajara,66843,1970-06-07,12:00
+217,MEX-70,BRA,ROM,BRA,Mexico 1970,Group Stage,3,Brazil,Romania,3-2,3,2,False,False,False,,,Brazil,Ferdinand Marschall,Estadio Jalisco,Guadalajara,50804,1970-06-10,16:00
+218,MEX-70,ENG,CZE,ENG,Mexico 1970,Group Stage,3,England,Czechoslovakia,1-0,1,0,False,False,False,,,England,Roger Machin,Estadio Jalisco,Guadalajara,49292,1970-06-11,16:00
+219,MEX-70,PER,BUL,PER,Mexico 1970,Group Stage,4,Peru,Bulgaria,3-2,3,2,False,False,False,,,Peru,Antonio Sbardella,Estadio Nou Camp,León,13765,1970-06-02,16:00
+220,MEX-70,WES,MOR,WES,Mexico 1970,Group Stage,4,West Germany,Morocco,2-1,2,1,False,False,False,,,West Germany,Laurens van Ravens,Estadio Nou Camp,León,12942,1970-06-03,16:00
+221,MEX-70,PER,MOR,PER,Mexico 1970,Group Stage,4,Peru,Morocco,3-0,3,0,False,False,False,,,Peru,Tofiq Bahramov,Estadio Nou Camp,León,13537,1970-06-06,16:00
+222,MEX-70,WES,BUL,WES,Mexico 1970,Group Stage,4,West Germany,Bulgaria,5-2,5,2,False,False,False,,,West Germany,José María Ortiz de Mendíbil,Estadio Nou Camp,León,12710,1970-06-07,12:00
+223,MEX-70,WES,PER,WES,Mexico 1970,Group Stage,4,West Germany,Peru,3-1,3,1,False,False,False,,,West Germany,Abel Aguilar Elizalde,Estadio Nou Camp,León,17875,1970-06-10,16:00
+224,MEX-70,BUL,MOR,DRAW,Mexico 1970,Group Stage,4,Bulgaria,Morocco,1-1,1,1,False,False,False,,,Draw,Antonio Ribeiro Saldanha,Estadio Nou Camp,León,12299,1970-06-11,16:00
+225,MEX-70,SOV,URU,URU,Mexico 1970,Quarter-finals,,Soviet Union,Uruguay,0-1(a.e.t.),0,1,True,False,False,,,Uruguay,Laurens van Ravens,Estadio Azteca,Mexico City,26085,1970-06-14,12:00
+226,MEX-70,ITA,MEX,ITA,Mexico 1970,Quarter-finals,,Italy,Mexico,4-1,4,1,False,False,False,,,Italy,Rudolf Scheurer,Estadio Luis Dosal,Toluca,26851,1970-06-14,12:00
+227,MEX-70,BRA,PER,BRA,Mexico 1970,Quarter-finals,,Brazil,Peru,4-2,4,2,False,False,False,,,Brazil,Vital Loraux,Estadio Jalisco,Guadalajara,54233,1970-06-14,12:00
+228,MEX-70,WES,ENG,WES,Mexico 1970,Quarter-finals,,West Germany,England,3-2(a.e.t.),3,2,True,False,False,,,West Germany,Ángel Norberto Coerezza,Estadio Nou Camp,León,23357,1970-06-14,12:00
+229,MEX-70,BRA,URU,BRA,Mexico 1970,Semi-finals,,Brazil,Uruguay,3-1,3,1,False,False,False,,,Brazil,José María Ortiz de Mendibil,Estadio Jalisco,Guadalajara,51261,1970-06-17,16:00
+230,MEX-70,ITA,WES,ITA,Mexico 1970,Semi-finals,,Italy,West Germany,4-3(a.e.t.),4,3,True,False,False,,,Italy,Arturo Yamasaki,Estadio Azteca,Mexico City,102444,1970-06-17,16:00
+231,MEX-70,WES,URU,WES,Mexico 1970,Third Place Match,,West Germany,Uruguay,1-0,1,0,False,False,False,,,West Germany,Antonio Sbardella,Estadio Azteca,Mexico City,104403,1970-06-20,16:00
+232,MEX-70,BRA,ITA,BRA,Mexico 1970,Final,,Brazil,Italy,4-1,4,1,False,False,False,,,Brazil,Rudi Glöckner,Estadio Azteca,Mexico City,107412,1970-06-21,12:00
+233,WES-74,WES,CHI,WES,West Germany 1974,Group Stage 1,1,West Germany,Chile,1-0,1,0,False,False,False,,,West Germany,Doğan Babacan,Olympiastadion,West Berlin,81100,1974-06-14,16:00
+234,WES-74,EAS,AUS,EAS,West Germany 1974,Group Stage 1,1,East Germany,Australia,2-0,2,0,False,False,False,,,East Germany,Youssou N'Diaye,Volksparkstadion,Hamburg,17000,1974-06-14,19:30
+235,WES-74,AUS,WES,WES,West Germany 1974,Group Stage 1,1,Australia,West Germany,0-3,0,3,False,False,False,,,West Germany,Mahmoud Mustafa Kamel,Volksparkstadion,Hamburg,53300,1974-06-18,16:00
+236,WES-74,CHI,EAS,DRAW,West Germany 1974,Group Stage 1,1,Chile,East Germany,1-1,1,1,False,False,False,,,Draw,Aurelio Angonese,Olympiastadion,West Berlin,28300,1974-06-18,19:30
+237,WES-74,AUS,CHI,DRAW,West Germany 1974,Group Stage 1,1,Australia,Chile,0-0,0,0,False,False,False,,,Draw,Jafar Namdar,Olympiastadion,West Berlin,17400,1974-06-22,16:00
+238,WES-74,EAS,WES,EAS,West Germany 1974,Group Stage 1,1,East Germany,West Germany,1-0,1,0,False,False,False,,,East Germany,Ramón Barreto Ruíz,Volksparkstadion,Hamburg,60200,1974-06-22,19:30
+239,WES-74,BRA,YUG,DRAW,West Germany 1974,Group Stage 1,2,Brazil,Yugoslavia,0-0,0,0,False,False,False,,,Draw,Rudolf Scheurer,Waldstadion,Frankfurt,62000,1974-06-13,17:00
+240,WES-74,ZAI,SCO,SCO,West Germany 1974,Group Stage 1,2,Zaire,Scotland,0-2,0,2,False,False,False,,,Scotland,Gerhard Schulenburg,Westfalenstadion,Dortmund,27000,1974-06-14,19:30
+241,WES-74,YUG,ZAI,YUG,West Germany 1974,Group Stage 1,2,Yugoslavia,Zaire,9-0,9,0,False,False,False,,,Yugoslavia,Omar Delgado Gómez,Parkstadion,Gelsenkirchen,31700,1974-06-18,19:30
+242,WES-74,SCO,BRA,DRAW,West Germany 1974,Group Stage 1,2,Scotland,Brazil,0-0,0,0,False,False,False,,,Draw,Arie van Gemert,Waldstadion,Frankfurt,62000,1974-06-18,19:30
+243,WES-74,SCO,YUG,DRAW,West Germany 1974,Group Stage 1,2,Scotland,Yugoslavia,1-1,1,1,False,False,False,,,Draw,Alfonso González Archundía,Waldstadion,Frankfurt,56000,1974-06-22,16:00
+244,WES-74,ZAI,BRA,BRA,West Germany 1974,Group Stage 1,2,Zaire,Brazil,0-3,0,3,False,False,False,,,Brazil,Nicolae Rainea,Parkstadion,Gelsenkirchen,36200,1974-06-22,16:00
+245,WES-74,URU,NET,NET,West Germany 1974,Group Stage 1,3,Uruguay,Netherlands,0-2,0,2,False,False,False,,,Netherlands,Károly Palotai,Niedersachsenstadion,Hanover,55100,1974-06-15,16:00
+246,WES-74,SWE,BUL,DRAW,West Germany 1974,Group Stage 1,3,Sweden,Bulgaria,0-0,0,0,False,False,False,,,Draw,Edison Peréz Núñez,Rheinstadion,Düsseldorf,23800,1974-06-15,16:00
+247,WES-74,BUL,URU,DRAW,West Germany 1974,Group Stage 1,3,Bulgaria,Uruguay,1-1,1,1,False,False,False,,,Draw,Jack Taylor,Niedersachsenstadion,Hanover,13400,1974-06-19,19:30
+248,WES-74,NET,SWE,DRAW,West Germany 1974,Group Stage 1,3,Netherlands,Sweden,0-0,0,0,False,False,False,,,Draw,Werner Winsemann,Westfalenstadion,Dortmund,53700,1974-06-19,19:30
+249,WES-74,BUL,NET,NET,West Germany 1974,Group Stage 1,3,Bulgaria,Netherlands,1-4,1,4,False,False,False,,,Netherlands,Tony Boskovic,Westfalenstadion,Dortmund,53300,1974-06-23,16:00
+250,WES-74,SWE,URU,SWE,West Germany 1974,Group Stage 1,3,Sweden,Uruguay,3-0,3,0,False,False,False,,,Sweden,Erich Linemayr,Rheinstadion,Düsseldorf,28300,1974-06-23,16:00
+251,WES-74,ITA,HAI,ITA,West Germany 1974,Group Stage 1,4,Italy,Haiti,3-1,3,1,False,False,False,,,Italy,Vicente Llobregat,Olympiastadion,Munich,53000,1974-06-15,18:00
+252,WES-74,POL,ARG,POL,West Germany 1974,Group Stage 1,4,Poland,Argentina,3-2,3,2,False,False,False,,,Poland,Clive Thomas,Neckarstadion,Stuttgart,32700,1974-06-15,18:00
+253,WES-74,ARG,ITA,DRAW,West Germany 1974,Group Stage 1,4,Argentina,Italy,1-1,1,1,False,False,False,,,Draw,Pavel Kazakov,Neckarstadion,Stuttgart,70100,1974-06-19,19:30
+254,WES-74,HAI,POL,POL,West Germany 1974,Group Stage 1,4,Haiti,Poland,0-7,0,7,False,False,False,,,Poland,Govindasamy Suppiah,Olympiastadion,Munich,25300,1974-06-19,19:30
+255,WES-74,ARG,HAI,ARG,West Germany 1974,Group Stage 1,4,Argentina,Haiti,4-1,4,1,False,False,False,,,Argentina,Pablo Sánchez Ibáñez,Olympiastadion,Munich,25900,1974-06-23,16:00
+256,WES-74,POL,ITA,POL,West Germany 1974,Group Stage 1,4,Poland,Italy,2-1,2,1,False,False,False,,,Poland,Hans-Joachim Weyland,Neckarstadion,Stuttgart,70100,1974-06-23,16:00
+257,WES-74,NET,ARG,NET,West Germany 1974,Group Stage 2,A,Netherlands,Argentina,4-0,4,0,False,False,False,,,Netherlands,Bob Davidson,Parkstadion,Gelsenkirchen,56548,1974-06-26,19:30
+258,WES-74,BRA,EAS,BRA,West Germany 1974,Group Stage 2,A,Brazil,East Germany,1-0,1,0,False,False,False,,,Brazil,Clive Thomas,Niedersachsenstadion,Hanover,59863,1974-06-26,19:30
+259,WES-74,ARG,BRA,BRA,West Germany 1974,Group Stage 2,A,Argentina,Brazil,1-2,1,2,False,False,False,,,Brazil,Vital Loraux,Niedersachsenstadion,Hanover,39400,1974-06-30,16:00
+260,WES-74,EAS,NET,NET,West Germany 1974,Group Stage 2,A,East Germany,Netherlands,0-2,0,2,False,False,False,,,Netherlands,Rudolf Scheurer,Parkstadion,Gelsenkirchen,68348,1974-06-30,16:00
+261,WES-74,ARG,EAS,DRAW,West Germany 1974,Group Stage 2,A,Argentina,East Germany,1-1,1,1,False,False,False,,,Draw,Jack Taylor,Parkstadion,Gelsenkirchen,54254,1974-07-03,19:30
+262,WES-74,NET,BRA,NET,West Germany 1974,Group Stage 2,A,Netherlands,Brazil,2-0,2,0,False,False,False,,,Netherlands,Kurt Tschenscher,Westfalenstadion,Dortmund,53700,1974-07-03,19:30
+263,WES-74,YUG,WES,WES,West Germany 1974,Group Stage 2,B,Yugoslavia,West Germany,0-2,0,2,False,False,False,,,West Germany,Armando Marques,Rheinstadion,Düsseldorf,67385,1974-06-26,16:00
+264,WES-74,SWE,POL,POL,West Germany 1974,Group Stage 2,B,Sweden,Poland,0-1,0,1,False,False,False,,,Poland,Ramón Barreto,Neckarstadion,Stuttgart,44955,1974-06-26,19:30
+265,WES-74,POL,YUG,POL,West Germany 1974,Group Stage 2,B,Poland,Yugoslavia,2-1,2,1,False,False,False,,,Poland,Rudi Glöckner,Waldstadion,Frankfurt,58000,1974-06-30,16:00
+266,WES-74,WES,SWE,WES,West Germany 1974,Group Stage 2,B,West Germany,Sweden,4-2,4,2,False,False,False,,,West Germany,Pavel Kazakov,Rheinstadion,Düsseldorf,67800,1974-06-30,19:30
+267,WES-74,POL,WES,WES,West Germany 1974,Group Stage 2,B,Poland,West Germany,0-1,0,1,False,False,False,,,West Germany,Erich Linemayr,Waldstadion,Frankfurt,62000,1974-07-03,16:35
+268,WES-74,SWE,YUG,SWE,West Germany 1974,Group Stage 2,B,Sweden,Yugoslavia,2-1,2,1,False,False,False,,,Sweden,Luis Pestarino,Rheinstadion,Düsseldorf,41300,1974-07-03,19:30
+269,WES-74,BRA,POL,POL,West Germany 1974,Third Place Match,,Brazil,Poland,0-1,0,1,False,False,False,,,Poland,Aurelio Angonese,Olympiastadion,Munich,77100,1974-07-06,16:00
+270,WES-74,NET,WES,WES,West Germany 1974,Final,,Netherlands,West Germany,1-2,1,2,False,False,False,,,West Germany,Jack Taylor,Olympiastadion,Munich,78200,1974-07-07,16:00
+271,ARG-78,ITA,FRA,ITA,Argentina 1978,Group Stage 1,1,Italy,France,2-1,2,1,False,False,False,,,Italy,Nicolae Rainea,Estadio José María Minella,Mar del Plata,42373,1978-06-02,13:45
+272,ARG-78,ARG,HUN,ARG,Argentina 1978,Group Stage 1,1,Argentina,Hungary,2-1,2,1,False,False,False,,,Argentina,Antonio Garrido,Estadio Monumental,Buenos Aires,71615,1978-06-02,19:15
+273,ARG-78,ITA,HUN,ITA,Argentina 1978,Group Stage 1,1,Italy,Hungary,3-1,3,1,False,False,False,,,Italy,Ramón Barreto,Estadio José María Minella,Mar del Plata,26533,1978-06-06,13:45
+274,ARG-78,ARG,FRA,ARG,Argentina 1978,Group Stage 1,1,Argentina,France,2-1,2,1,False,False,False,,,Argentina,Jean Dubach,Estadio Monumental,Buenos Aires,71666,1978-06-06,19:15
+275,ARG-78,FRA,HUN,FRA,Argentina 1978,Group Stage 1,1,France,Hungary,3-1,3,1,False,False,False,,,France,Arnaldo Cézar Coelho,Estadio José María Minella,Mar del Plata,23127,1978-06-10,14:30
+276,ARG-78,ARG,ITA,ITA,Argentina 1978,Group Stage 1,1,Argentina,Italy,0-1,0,1,False,False,False,,,Italy,Abraham Klein,Estadio Monumental,Buenos Aires,71712,1978-06-10,19:15
+277,ARG-78,WES,POL,DRAW,Argentina 1978,Group Stage 1,2,West Germany,Poland,0-0,0,0,False,False,False,,,Draw,Ángel Norberto Coerezza,Estadio Monumental,Buenos Aires,67579,1978-06-01,15:00
+278,ARG-78,TUN,MEX,TUN,Argentina 1978,Group Stage 1,2,Tunisia,Mexico,3-1,3,1,False,False,False,,,Tunisia,John Gordon,Estadio Gigante de Arroyito,Rosario,17396,1978-06-02,16:45
+279,ARG-78,WES,MEX,WES,Argentina 1978,Group Stage 1,2,West Germany,Mexico,6-0,6,0,False,False,False,,,West Germany,Farouk Bouzo,Estadio Chateau Carreras,Córdoba,35258,1978-06-06,16:45
+280,ARG-78,POL,TUN,POL,Argentina 1978,Group Stage 1,2,Poland,Tunisia,1-0,1,0,False,False,False,,,Poland,Ángel Franco Martínez,Estadio Gigante de Arroyito,Rosario,9624,1978-06-06,16:45
+281,ARG-78,WES,TUN,DRAW,Argentina 1978,Group Stage 1,2,West Germany,Tunisia,0-0,0,0,False,False,False,,,Draw,César Guerrero Orosco,Estadio Olímpico Chateau Carreras,Córdoba,30667,1978-06-10,16:45
+282,ARG-78,POL,MEX,POL,Argentina 1978,Group Stage 1,2,Poland,Mexico,3-1,3,1,False,False,False,,,Poland,Jafar Namdar,Estadio Gigante de Arroyito,Rosario,22651,1978-06-10,16:45
+283,ARG-78,AUT,SPA,AUT,Argentina 1978,Group Stage 1,3,Austria,Spain,2-1,2,1,False,False,False,,,Austria,Károly Palotai,Estadio José Amalfitani,Buenos Aires,40841,1978-06-03,13:45
+284,ARG-78,BRA,SWE,DRAW,Argentina 1978,Group Stage 1,3,Brazil,Sweden,1-1,1,1,False,False,False,,,Draw,Clive Thomas,Estadio José Maria Minella,Mar del Plata,32569,1978-06-03,13:45
+285,ARG-78,AUT,SWE,AUT,Argentina 1978,Group Stage 1,3,Austria,Sweden,1-0,1,0,False,False,False,,,Austria,Charles Corver,Estadio José Amalfitani,Buenos Aires,41424,1978-06-07,13:45
+286,ARG-78,BRA,SPA,DRAW,Argentina 1978,Group Stage 1,3,Brazil,Spain,0-0,0,0,False,False,False,,,Draw,Sergio Gonella,Estadio José Maria Minella,Mar del Plata,34771,1978-06-07,13:45
+287,ARG-78,SPA,SWE,SPA,Argentina 1978,Group Stage 1,3,Spain,Sweden,1-0,1,0,False,False,False,,,Spain,Ferdinand Biwersi,Estadio José Amalfitani,Buenos Aires,42132,1978-06-11,13:45
+288,ARG-78,BRA,AUT,BRA,Argentina 1978,Group Stage 1,3,Brazil,Austria,1-0,1,0,False,False,False,,,Brazil,Robert Wurtz,Estadio José Maria Minella,Mar del Plata,35221,1978-06-11,13:45
+289,ARG-78,PER,SCO,PER,Argentina 1978,Group Stage 1,4,Peru,Scotland,3-1,3,1,False,False,False,,,Peru,Ulf Eriksson,Chateau Carreras,Córdoba,37927,1978-06-03,16:45
+290,ARG-78,NET,IRA,NET,Argentina 1978,Group Stage 1,4,Netherlands,Iran,3-0,3,0,False,False,False,,,Netherlands,Alfonso González Archundia,Estadio Ciudad de Mendoza,Mendoza,33431,1978-06-03,16:45
+291,ARG-78,SCO,IRA,DRAW,Argentina 1978,Group Stage 1,4,Scotland,Iran,1-1,1,1,False,False,False,,,Draw,Youssou N'Diaye,Estadio Chateau Carreras,Córdoba,7938,1978-06-07,16:45
+292,ARG-78,NET,PER,DRAW,Argentina 1978,Group Stage 1,4,Netherlands,Peru,0-0,0,0,False,False,False,,,Draw,Adolf Prokop,Estadio Ciudad de Mendoza,Mendoza,28125,1978-06-07,16:45
+293,ARG-78,PER,IRA,PER,Argentina 1978,Group Stage 1,4,Peru,Iran,4-1,4,1,False,False,False,,,Peru,Alojzy Jarguz,Estadio Chateau Carreras,Córdoba,21262,1978-06-11,16:45
+294,ARG-78,SCO,NET,SCO,Argentina 1978,Group Stage 1,4,Scotland,Netherlands,3-2,3,2,False,False,False,,,Scotland,Erich Linemayr,Estadio Ciudad de Mendoza,Mendoza,35130,1978-06-11,16:45
+295,ARG-78,AUT,NET,NET,Argentina 1978,Group Stage 2,A,Austria,Netherlands,1-5,1,5,False,False,False,,,Netherlands,John Gordon,Estadio Chateau Carreras,Córdoba,25050,1978-06-14,13:45
+296,ARG-78,ITA,WES,DRAW,Argentina 1978,Group Stage 2,A,Italy,West Germany,0-0,0,0,False,False,False,,,Draw,Dušan Maksimović,Estadio Monumental,Buenos Aires,67547,1978-06-14,13:45
+297,ARG-78,NET,WES,DRAW,Argentina 1978,Group Stage 2,A,Netherlands,West Germany,2-2,2,2,False,False,False,,,Draw,Ramón Barreto,Estadio Chateau Carreras,Córdoba,40750,1978-06-18,16:45
+298,ARG-78,ITA,AUT,ITA,Argentina 1978,Group Stage 2,A,Italy,Austria,1-0,1,0,False,False,False,,,Italy,Francis Rion,Estadio Monumental,,66695,1978-06-18,16:45
+299,ARG-78,AUT,WES,AUT,Argentina 1978,Group Stage 2,A,Austria,West Germany,3-2,3,2,False,False,False,,,Austria,Abraham Klein,Estadio Olímpico Chateau Carreras,Córdoba,38318,1978-06-21,13:45
+300,ARG-78,ITA,NET,NET,Argentina 1978,Group Stage 2,A,Italy,Netherlands,1-2,1,2,False,False,False,,,Netherlands,Ángel Franco Martínez,Estadio Monumental,,67433,1978-06-21,13:45
+301,ARG-78,BRA,PER,BRA,Argentina 1978,Group Stage 2,B,Brazil,Peru,3-0,3,0,False,False,False,,,Brazil,Nicolae Rainea,Estadio Malvinas Argentinas,Mendoza,31278,1978-06-14,16:45
+302,ARG-78,ARG,POL,ARG,Argentina 1978,Group Stage 2,B,Argentina,Poland,2-0,2,0,False,False,False,,,Argentina,Ulf Eriksson,Estadio Gigante de Arroyito,Rosario,37091,1978-06-14,19:15
+303,ARG-78,PER,POL,POL,Argentina 1978,Group Stage 2,B,Peru,Poland,0-1,0,1,False,False,False,,,Poland,Pat Partridge,Estadio Ciudad de Mendoza,Mendoza,35288,1978-06-18,13:45
+304,ARG-78,ARG,BRA,DRAW,Argentina 1978,Group Stage 2,B,Argentina,Brazil,0-0,0,0,False,False,False,,,Draw,Károly Palotai,Estadio Gigante de Arroyito,Rosario,37326,1978-06-18,19:15
+305,ARG-78,BRA,POL,BRA,Argentina 1978,Group Stage 2,B,Brazil,Poland,3-1,3,1,False,False,False,,,Brazil,Juan Silvagno Cavanna,Estadio Malvinas Argentinas,Mendoza,39586,1978-06-21,16:45
+306,ARG-78,ARG,PER,ARG,Argentina 1978,Group Stage 2,B,Argentina,Peru,6-0,6,0,False,False,False,,,Argentina,Robert Wurtz,Estadio Gigante de Arroyito,Rosario,37315,1978-06-21,19:15
+307,ARG-78,BRA,ITA,BRA,Argentina 1978,Third Place Match,,Brazil,Italy,2-1,2,1,False,False,False,,,Brazil,Abraham Klein,River Plate Stadium,Buenos Aires,69659,1978-06-24,15:00
+308,ARG-78,ARG,NET,ARG,Argentina 1978,Final,,Argentina,Netherlands,3-1(a.e.t.),3,1,True,False,False,,,Argentina,Sergio Gonella,River Plate Stadium,Buenos Aires,71483,1978-06-25,15:00
+309,SPA-82,ITA,POL,DRAW,Spain 1982,Group Stage 1,1,Italy,Poland,0-0,0,0,False,False,False,,,Draw,Michel Vautrot,Balaídos,Vigo,33000,1982-06-14,17:15
+310,SPA-82,PER,CAM,DRAW,Spain 1982,Group Stage 1,1,Peru,Cameroon,0-0,0,0,False,False,False,,,Draw,Franz Wöhrer,Estadio de Riazor,A Coruña,11000,1982-06-15,17:15
+311,SPA-82,ITA,PER,DRAW,Spain 1982,Group Stage 1,1,Italy,Peru,1-1,1,1,False,False,False,,,Draw,Walter Eschweiler,Balaídos,Vigo,25000,1982-06-18,17:15
+312,SPA-82,POL,CAM,DRAW,Spain 1982,Group Stage 1,1,Poland,Cameroon,0-0,0,0,False,False,False,,,Draw,Alexis Ponnet,Estadio de Riazor,A Coruña,19000,1982-06-19,17:15
+313,SPA-82,POL,PER,POL,Spain 1982,Group Stage 1,1,Poland,Peru,5-1,5,1,False,False,False,,,Poland,Mario Rubio Vázquez,Estadio de Riazor,A Coruña,25000,1982-06-22,17:15
+314,SPA-82,ITA,CAM,DRAW,Spain 1982,Group Stage 1,1,Italy,Cameroon,1-1,1,1,False,False,False,,,Draw,Bogdan Dotchev,Balaídos,Vigo,20000,1982-06-23,17:15
+315,SPA-82,WES,ALG,ALG,Spain 1982,Group Stage 1,2,West Germany,Algeria,1-2,1,2,False,False,False,,,Algeria,Enrique Labo Revoredo,El Molinón,Gijón,42000,1982-06-16,17:15
+316,SPA-82,CHI,AUT,AUT,Spain 1982,Group Stage 1,2,Chile,Austria,0-1,0,1,False,False,False,,,Austria,Juan Daniel Cardellino,Estadio Carlos Tartiere,Oviedo,22500,1982-06-17,17:15
+317,SPA-82,WES,CHI,WES,Spain 1982,Group Stage 1,2,West Germany,Chile,4-1,4,1,False,False,False,,,West Germany,Bruno Galler,El Molinón,Gijón,42000,1982-06-20,17:15
+318,SPA-82,ALG,AUT,AUT,Spain 1982,Group Stage 1,2,Algeria,Austria,0-2,0,2,False,False,False,,,Austria,Tony Boskovic,Estadio Carlos Tartiere,Oviedo,22000,1982-06-21,17:15
+319,SPA-82,ALG,CHI,ALG,Spain 1982,Group Stage 1,2,Algeria,Chile,3-2,3,2,False,False,False,,,Algeria,Rómulo Méndez,Estadio Carlos Tartiere,Oviedo,16000,1982-06-24,17:15
+320,SPA-82,WES,AUT,WES,Spain 1982,Group Stage 1,2,West Germany,Austria,1-0,1,0,False,False,False,,,West Germany,Bob Valentine,El Molinón,Gijón,41000,1982-06-25,17:15
+321,SPA-82,ARG,BEL,BEL,Spain 1982,Group Stage 1,3,Argentina,Belgium,0-1,0,1,False,False,False,,,Belgium,Vojtech Christov,Camp Nou,Barcelona,95000,1982-06-13,20:00
+322,SPA-82,HUN,SAL,HUN,Spain 1982,Group Stage 1,3,Hungary,El Salvador,10-1,10,1,False,False,False,,,Hungary,Ibrahim Youssef Al-Doy,Nuevo Estadio,Elche,23000,1982-06-15,21:00
+323,SPA-82,ARG,HUN,ARG,Spain 1982,Group Stage 1,3,Argentina,Hungary,4-1,4,1,False,False,False,,,Argentina,Belaïd Lacarne,Estadio José Rico Pérez,Alicante,32093,1982-06-18,21:00
+324,SPA-82,BEL,SAL,BEL,Spain 1982,Group Stage 1,3,Belgium,El Salvador,1-0,1,0,False,False,False,,,Belgium,Malcolm Moffat,Nuevo Estadio,Elche,15000,1982-06-19,21:00
+325,SPA-82,BEL,HUN,DRAW,Spain 1982,Group Stage 1,3,Belgium,Hungary,1-1,1,1,False,False,False,,,Draw,Clive White,Nuevo Estadio,Elche,37000,1982-06-22,21:00
+326,SPA-82,ARG,SAL,ARG,Spain 1982,Group Stage 1,3,Argentina,El Salvador,2-0,2,0,False,False,False,,,Argentina,Luis Barrancos,Estadio José Rico Pérez,Alicante,32500,1982-06-23,21:00
+327,SPA-82,ENG,FRA,ENG,Spain 1982,Group Stage 1,4,England,France,3-1,3,1,False,False,False,,,England,António Garrido,San Mamés,Bilbao,44172,1982-06-16,17:15
+328,SPA-82,CZE,KUW,DRAW,Spain 1982,Group Stage 1,4,Czechoslovakia,Kuwait,1-1,1,1,False,False,False,,,Draw,Benjamin Dwomoh,Estadio José Zorrilla,Valladolid,25000,1982-06-17,17:15
+329,SPA-82,ENG,CZE,ENG,Spain 1982,Group Stage 1,4,England,Czechoslovakia,2-0,2,0,False,False,False,,,England,Charles Corver,San Mamés,Bilbao,41123,1982-06-20,17:15
+330,SPA-82,FRA,KUW,FRA,Spain 1982,Group Stage 1,4,France,Kuwait,4-1,4,1,False,False,False,,,France,Myroslav Stupar,Estadio José Zorrilla,Valladolid,30043,1982-06-21,17:15
+331,SPA-82,FRA,CZE,DRAW,Spain 1982,Group Stage 1,4,France,Czechoslovakia,1-1,1,1,False,False,False,,,Draw,Paolo Casarin,Estadio José Zorrilla,Valladolid,28000,1982-06-24,17:15
+332,SPA-82,ENG,KUW,ENG,Spain 1982,Group Stage 1,4,England,Kuwait,1-0,1,0,False,False,False,,,England,Gilberto Aristizábal,San Mamés,Bilbao,39700,1982-06-25,17:15
+333,SPA-82,SPA,HON,DRAW,Spain 1982,Group Stage 1,5,Spain,Honduras,1-1,1,1,False,False,False,,,Draw,Arturo Ithurralde,Estadio Luis Casanova,Valencia,49562,1982-06-16,21:00
+334,SPA-82,YUG,NIR,DRAW,Spain 1982,Group Stage 1,5,Yugoslavia,Northern Ireland,0-0,0,0,False,False,False,,,Draw,Erik Fredriksson,La Romareda,Zaragoza,25000,1982-06-17,21:00
+335,SPA-82,SPA,YUG,SPA,Spain 1982,Group Stage 1,5,Spain,Yugoslavia,2-1,2,1,False,False,False,,,Spain,Henning Lund-Sørensen,Estadio Luis Casanova,Valencia,48000,1982-06-20,21:00
+336,SPA-82,HON,NIR,DRAW,Spain 1982,Group Stage 1,5,Honduras,Northern Ireland,1-1,1,1,False,False,False,,,Draw,Chan Tam Sun,La Romareda,Zaragoza,15000,1982-06-21,21:00
+337,SPA-82,HON,YUG,YUG,Spain 1982,Group Stage 1,5,Honduras,Yugoslavia,0-1,0,1,False,False,False,,,Yugoslavia,Gastón Castro,La Romareda,Zaragoza,25000,1982-06-24,21:00
+338,SPA-82,SPA,NIR,NIR,Spain 1982,Group Stage 1,5,Spain,Northern Ireland,0-1,0,1,False,False,False,,,Northern Ireland,Héctor Ortiz,Estadio Luis Casanova,Valencia,49562,1982-06-25,21:00
+339,SPA-82,BRA,SOV,BRA,Spain 1982,Group Stage 1,6,Brazil,Soviet Union,2-1,2,1,False,False,False,,,Brazil,Augusto Lamo Castillo,Ramón Sánchez Pizjuán,Seville,68000,1982-06-14,21:00
+340,SPA-82,SCO,NEW,SCO,Spain 1982,Group Stage 1,6,Scotland,New Zealand,5-2,5,2,False,False,False,,,Scotland,David Socha,La Rosaleda Stadium,Málaga,36000,1982-06-15,21:00
+341,SPA-82,BRA,SCO,BRA,Spain 1982,Group Stage 1,6,Brazil,Scotland,4-1,4,1,False,False,False,,,Brazil,Luis Paulino Siles,Estadio Benito Villamarín,Seville,47379,1982-06-18,21:00
+342,SPA-82,SOV,NEW,SOV,Spain 1982,Group Stage 1,6,Soviet Union,New Zealand,3-0,3,0,False,False,False,,,Soviet Union,Yousef Alghoul,La Rosaleda Stadium,Málaga,19000,1982-06-19,21:00
+343,SPA-82,SOV,SCO,DRAW,Spain 1982,Group Stage 1,6,Soviet Union,Scotland,2-2,2,2,False,False,False,,,Draw,Nicolae Rainea,La Rosaleda Stadium,Málaga,45000,1982-06-22,21:00
+344,SPA-82,BRA,NEW,BRA,Spain 1982,Group Stage 1,6,Brazil,New Zealand,4-0,4,0,False,False,False,,,Brazil,Damir Matovinović,Estadio Benito Villamarín,Seville,43000,1982-06-23,21:00
+345,SPA-82,POL,BEL,POL,Spain 1982,Group Stage 2,A,Poland,Belgium,3-0,3,0,False,False,False,,,Poland,Luis Paulino Siles,Camp Nou,Barcelona,65000,1982-06-28,21:00
+346,SPA-82,BEL,SOV,SOV,Spain 1982,Group Stage 2,A,Belgium,Soviet Union,0-1,0,1,False,False,False,,,Soviet Union,Michel Vautrot,Camp Nou,Barcelona,45000,1982-07-01,21:00
+347,SPA-82,SOV,POL,DRAW,Spain 1982,Group Stage 2,A,Soviet Union,Poland,0-0,0,0,False,False,False,,,Draw,Bob Valentine,Camp Nou,Barcelona,65000,1982-07-04,21:00
+348,SPA-82,WES,ENG,DRAW,Spain 1982,Group Stage 2,B,West Germany,England,0-0,0,0,False,False,False,,,Draw,Arnaldo Cézar Coelho,Santiago Bernabéu,Madrid,75000,1982-06-29,21:00
+349,SPA-82,WES,SPA,WES,Spain 1982,Group Stage 2,B,West Germany,Spain,2-1,2,1,False,False,False,,,West Germany,Paolo Casarin,Santiago Bernabéu,Madrid,90089,1982-07-02,21:00
+350,SPA-82,SPA,ENG,DRAW,Spain 1982,Group Stage 2,B,Spain,England,0-0,0,0,False,False,False,,,Draw,Alexis Ponnet,Santiago Bernabéu,Madrid,75000,1982-07-05,21:00
+351,SPA-82,ITA,ARG,ITA,Spain 1982,Group Stage 2,C,Italy,Argentina,2-1,2,1,False,False,False,,,Italy,Nicolae Rainea,Sarrià Stadium,Barcelona,43000,1982-06-29,17:15
+352,SPA-82,ARG,BRA,BRA,Spain 1982,Group Stage 2,C,Argentina,Brazil,1-3,1,3,False,False,False,,,Brazil,Mario Rubio Vázquez,Sarrià Stadium,Barcelona,44000,1982-07-02,17:15
+353,SPA-82,ITA,BRA,ITA,Spain 1982,Group Stage 2,C,Italy,Brazil,3-2,3,2,False,False,False,,,Italy,Abraham Klein,Estadio Sarriá,Barcelona,44000,1982-07-05,17:15
+354,SPA-82,AUT,FRA,FRA,Spain 1982,Group Stage 2,D,Austria,France,0-1,0,1,False,False,False,,,France,Károly Palotai,Vicente Calderón,Madrid,37000,1982-06-28,17:15
+355,SPA-82,AUT,NIR,DRAW,Spain 1982,Group Stage 2,D,Austria,Northern Ireland,2-2,2,2,False,False,False,,,Draw,Adolf Prokop,Vicente Calderón,Madrid,20000,1982-07-01,17:15
+356,SPA-82,FRA,NIR,FRA,Spain 1982,Group Stage 2,D,France,Northern Ireland,4-1,4,1,False,False,False,,,France,Alojzy Jarguz,Vicente Calderón,Madrid,37000,1982-07-04,17:15
+357,SPA-82,POL,ITA,ITA,Spain 1982,Semi-finals,,Poland,Italy,0-2,0,2,False,False,False,,,Italy,Juan Daniel Cardellino,Camp Nou,Barcelona,50000,1982-07-08,17:15
+358,SPA-82,WES,FRA,WES,Spain 1982,Semi-finals,,West Germany,France,3-3(a.e.t.),3,3,True,False,True,5,4,West Germany,Charles Corver,Ramón Sánchez Pizjuán Stadium,Seville,70000,1982-07-08,21:00
+359,SPA-82,POL,FRA,POL,Spain 1982,Third Place Match,,Poland,France,3-2,3,2,False,False,False,,,Poland,António Garrido,Estadio José Rico Pérez,Alicante,28000,1982-07-10,20:00
+360,SPA-82,ITA,WES,ITA,Spain 1982,Final,,Italy,West Germany,3-1,3,1,False,False,False,,,Italy,Arnaldo Cézar Coelho,Santiago Bernabéu,Madrid,90000,1982-07-11,20:00
+361,MEX-86,BUL,ITA,DRAW,Mexico 1986,Group Stage,A,Bulgaria,Italy,1-1,1,1,False,False,False,,,Draw,Erik Fredriksson,Estadio Azteca,Mexico City,96000,1986-05-31,12:00
+362,MEX-86,ARG,SKO,ARG,Mexico 1986,Group Stage,A,Argentina,South Korea,3-1,3,1,False,False,False,,,Argentina,Victoriano Sánchez Arminio,Estadio Olímpico Universitario,Mexico City,60000,1986-06-02,12:00
+363,MEX-86,ITA,ARG,DRAW,Mexico 1986,Group Stage,A,Italy,Argentina,1-1,1,1,False,False,False,,,Draw,Jan Keizer,Estadio Cuauhtémoc,Puebla,32000,1986-06-05,12:00
+364,MEX-86,SKO,BUL,DRAW,Mexico 1986,Group Stage,A,South Korea,Bulgaria,1-1,1,1,False,False,False,,,Draw,Fallaj Al Shanar,Estadio Olímpico Universitario,Mexico City,45000,1986-06-05,16:00
+365,MEX-86,SKO,ITA,ITA,Mexico 1986,Group Stage,A,South Korea,Italy,2-3,2,3,False,False,False,,,Italy,David Socha,Estadio Cuauhtémoc,Puebla,20000,1986-06-10,12:00
+366,MEX-86,ARG,BUL,ARG,Mexico 1986,Group Stage,A,Argentina,Bulgaria,2-0,2,0,False,False,False,,,Argentina,Berny Ulloa Morera,Estadio Olímpico Universitario,Mexico City,65000,1986-06-10,12:00
+367,MEX-86,BEL,MEX,MEX,Mexico 1986,Group Stage,B,Belgium,Mexico,1-2,1,2,False,False,False,,,Mexico,Carlos Espósito,Estadio Azteca,Mexico City,110000,1986-06-03,12:00
+368,MEX-86,PAR,IRQ,PAR,Mexico 1986,Group Stage,B,Paraguay,Iraq,1-0,1,0,False,False,False,,,Paraguay,Edwin Picon-Ackong,Estadio Toluca 70–86,Toluca,24000,1986-06-04,12:00
+369,MEX-86,MEX,PAR,DRAW,Mexico 1986,Group Stage,B,Mexico,Paraguay,1-1,1,1,False,False,False,,,Draw,George Courtney,Estadio Azteca,Mexico City,114600,1986-06-07,12:00
+370,MEX-86,IRQ,BEL,BEL,Mexico 1986,Group Stage,B,Iraq,Belgium,1-2,1,2,False,False,False,,,Belgium,Jesús Díaz,Estadio Toluca 70–86,Toluca,20000,1986-06-08,12:00
+371,MEX-86,PAR,BEL,DRAW,Mexico 1986,Group Stage,B,Paraguay,Belgium,2-2,2,2,False,False,False,,,Draw,Bogdan Dotchev,Estadio Toluca 70–86,Toluca,16000,1986-06-11,12:00
+372,MEX-86,IRQ,MEX,MEX,Mexico 1986,Group Stage,B,Iraq,Mexico,0-1,0,1,False,False,False,,,Mexico,Zoran Petrović,Estadio Azteca,Mexico City,103763,1986-06-11,12:00
+373,MEX-86,CAN,FRA,FRA,Mexico 1986,Group Stage,C,Canada,France,0-1,0,1,False,False,False,,,France,Hernán Silva,Estadio Nou Camp,León,65500,1986-06-01,16:00
+374,MEX-86,SOV,HUN,SOV,Mexico 1986,Group Stage,C,Soviet Union,Hungary,6-0,6,0,False,False,False,,,Soviet Union,Luigi Agnolin,Estadio Sergio León Chavez,Irapuato,16500,1986-06-02,12:00
+375,MEX-86,FRA,SOV,DRAW,Mexico 1986,Group Stage,C,France,Soviet Union,1-1,1,1,False,False,False,,,Draw,Romualdo Arppi Filho,Estadio Nou Camp,León,36540,1986-06-05,12:00
+376,MEX-86,HUN,CAN,HUN,Mexico 1986,Group Stage,C,Hungary,Canada,2-0,2,0,False,False,False,,,Hungary,Jamal Al Sharif,Estadio Sergio León Chavez,Irapuato,13800,1986-06-06,12:00
+377,MEX-86,HUN,FRA,FRA,Mexico 1986,Group Stage,C,Hungary,France,0-3,0,3,False,False,False,,,France,Carlos Silva Valente,Estadio Nou Camp,León,31420,1986-06-09,12:00
+378,MEX-86,SOV,CAN,SOV,Mexico 1986,Group Stage,C,Soviet Union,Canada,2-0,2,0,False,False,False,,,Soviet Union,Idrissa Traoré,Estadio Sergio León Chavez,Irapuato,14200,1986-06-09,12:00
+379,MEX-86,SPA,BRA,BRA,Mexico 1986,Group Stage,D,Spain,Brazil,0-1,0,1,False,False,False,,,Brazil,Chris Bambridge,Estadio Jalisco,Guadalajara,35748,1986-06-01,12:00
+380,MEX-86,ALG,NIR,DRAW,Mexico 1986,Group Stage,D,Algeria,Northern Ireland,1-1,1,1,False,False,False,,,Draw,Valeri Butenko,Estadio Tres de Marzo,Zapopan,22000,1986-06-03,12:00
+381,MEX-86,BRA,ALG,BRA,Mexico 1986,Group Stage,D,Brazil,Algeria,1-0,1,0,False,False,False,,,Brazil,Rómulo Méndez,Estadio Jalisco,Guadalajara,48000,1986-06-06,12:00
+382,MEX-86,NIR,SPA,SPA,Mexico 1986,Group Stage,D,Northern Ireland,Spain,1-2,1,2,False,False,False,,,Spain,Horst Brummeier,Estadio Tres de Marzo,Zapopan,28000,1986-06-07,12:00
+383,MEX-86,NIR,BRA,BRA,Mexico 1986,Group Stage,D,Northern Ireland,Brazil,0-3,0,3,False,False,False,,,Brazil,Siegfried Kirschen,Estadio Jalisco,Guadalajara,51000,1986-06-12,12:00
+384,MEX-86,ALG,SPA,SPA,Mexico 1986,Group Stage,D,Algeria,Spain,0-3,0,3,False,False,False,,,Spain,Shizuo Takada,Estadio Tecnológico,Monterrey,23980,1986-06-12,12:00
+385,MEX-86,URU,WES,DRAW,Mexico 1986,Group Stage,E,Uruguay,West Germany,1-1,1,1,False,False,False,,,Draw,Vojtěch Christov,Estadio La Corregidora,Querétaro,30500,1986-06-04,12:00
+386,MEX-86,SCO,DEN,DEN,Mexico 1986,Group Stage,E,Scotland,Denmark,0-1,0,1,False,False,False,,,Denmark,Lajos Németh,Estadio Neza 86,Nezahualcóyotl,18000,1986-06-04,16:00
+387,MEX-86,WES,SCO,WES,Mexico 1986,Group Stage,E,West Germany,Scotland,2-1,2,1,False,False,False,,,West Germany,Ioan Igna,Estadio La Corregidora,Querétaro,30000,1986-06-08,12:00
+388,MEX-86,DEN,URU,DEN,Mexico 1986,Group Stage,E,Denmark,Uruguay,6-1,6,1,False,False,False,,,Denmark,Antonio Márquez Ramírez,Estadio Neza 86,Nezahualcóyotl,26500,1986-06-08,16:00
+389,MEX-86,DEN,WES,DEN,Mexico 1986,Group Stage,E,Denmark,West Germany,2-0,2,0,False,False,False,,,Denmark,Alexis Ponnet,Estadio La Corregidora,Querétaro,36000,1986-06-13,12:00
+390,MEX-86,SCO,URU,DRAW,Mexico 1986,Group Stage,E,Scotland,Uruguay,0-0,0,0,False,False,False,,,Draw,Joël Quiniou,Estadio Neza 86,Nezahualcóyotl,20000,1986-06-13,12:00
+391,MEX-86,MOR,POL,DRAW,Mexico 1986,Group Stage,F,Morocco,Poland,0-0,0,0,False,False,False,,,Draw,José Luis Martínez Bazán,Estadio Universitario,San Nicolás de los Garza,19900,1986-06-02,16:00
+392,MEX-86,POR,ENG,POR,Mexico 1986,Group Stage,F,Portugal,England,1-0,1,0,False,False,False,,,Portugal,Volker Roth,Estadio Tecnológico,Monterrey,23000,1986-06-03,16:00
+393,MEX-86,ENG,MOR,DRAW,Mexico 1986,Group Stage,F,England,Morocco,0-0,0,0,False,False,False,,,Draw,Gabriel González,Estadio Tecnológico,Monterrey,20200,1986-06-06,16:00
+394,MEX-86,POL,POR,POL,Mexico 1986,Group Stage,F,Poland,Portugal,1-0,1,0,False,False,False,,,Poland,Ali Bin Nasser,Estadio Universitario,San Nicolás de los Garza,19915,1986-06-07,16:00
+395,MEX-86,ENG,POL,ENG,Mexico 1986,Group Stage,F,England,Poland,3-0,3,0,False,False,False,,,England,André Daina,Estadio Universitario,San Nicolás de los Garza,22700,1986-06-11,16:00
+396,MEX-86,POR,MOR,MOR,Mexico 1986,Group Stage,F,Portugal,Morocco,1-3,1,3,False,False,False,,,Morocco,Alan Snoddy,Estadio Tres de Marzo,Zapopan,28000,1986-06-11,16:00
+397,MEX-86,MEX,BUL,MEX,Mexico 1986,Round of 16,,Mexico,Bulgaria,2-0,2,0,False,False,False,,,Mexico,Romualdo Arppi Filho,Estadio Azteca,Mexico City,114580,1986-06-15,12:00
+398,MEX-86,SOV,BEL,BEL,Mexico 1986,Round of 16,,Soviet Union,Belgium,3-4(a.e.t.),3,4,True,False,False,,,Belgium,Erik Fredriksson,Estadio Nou Camp,León,32277,1986-06-15,16:00
+399,MEX-86,BRA,POL,BRA,Mexico 1986,Round of 16,,Brazil,Poland,4-0,4,0,False,False,False,,,Brazil,Volker Roth,Estadio Jalisco,Guadalajara,45000,1986-06-16,12:00
+400,MEX-86,ARG,URU,ARG,Mexico 1986,Round of 16,,Argentina,Uruguay,1-0,1,0,False,False,False,,,Argentina,Luigi Agnolin,Estadio Cuauhtémoc,Puebla,26000,1986-06-16,16:00
+401,MEX-86,ITA,FRA,FRA,Mexico 1986,Round of 16,,Italy,France,0-2,0,2,False,False,False,,,France,Carlos Espósito,Estadio Olímpico Universitario,Mexico City,70000,1986-06-17,12:00
+402,MEX-86,MOR,WES,WES,Mexico 1986,Round of 16,,Morocco,West Germany,0-1,0,1,False,False,False,,,West Germany,Zoran Petrović,Estadio Universitario,San Nicolás de los Garza,19800,1986-06-17,16:00
+403,MEX-86,ENG,PAR,ENG,Mexico 1986,Round of 16,,England,Paraguay,3-0,3,0,False,False,False,,,England,Jamal Al Sharif,Estadio Azteca,Mexico City,98728,1986-06-18,12:00
+404,MEX-86,DEN,SPA,SPA,Mexico 1986,Round of 16,,Denmark,Spain,1-5,1,5,False,False,False,,,Spain,Jan Keizer,Estadio La Corregidora,Querétaro,38500,1986-06-18,16:00
+405,MEX-86,BRA,FRA,FRA,Mexico 1986,Quarter-finals,,Brazil,France,1-1(a.e.t.),1,1,True,False,True,3,4,France,Ioan Igna,Estadio Jalisco,Guadalajara,65000,1986-06-21,12:00
+406,MEX-86,WES,MEX,WES,Mexico 1986,Quarter-finals,,West Germany,Mexico,0-0(a.e.t.),0,0,True,False,True,4,1,West Germany,Jesús Díaz,Estadio Universitario,San Nicolás de los Garza,41700,1986-06-21,16:00
+407,MEX-86,ARG,ENG,ARG,Mexico 1986,Quarter-finals,,Argentina,England,2-1,2,1,False,False,False,,,Argentina,Ali Bin Nasser,Estadio Azteca,Mexico City,114580,1986-06-22,12:00
+408,MEX-86,SPA,BEL,BEL,Mexico 1986,Quarter-finals,,Spain,Belgium,1-1(a.e.t.),1,1,True,False,True,4,5,Belgium,Siegfried Kirschen,Estadio Cuauhtémoc,Puebla,45000,1986-06-22,16:00
+409,MEX-86,FRA,WES,WES,Mexico 1986,Semi-finals,,France,West Germany,0-2,0,2,False,False,False,,,West Germany,Luigi Agnolin,Estadio Jalisco,Guadalajara,45000,1986-06-25,12:00
+410,MEX-86,ARG,BEL,ARG,Mexico 1986,Semi-finals,,Argentina,Belgium,2-0,2,0,False,False,False,,,Argentina,Antonio Márquez Ramírez,Estadio Azteca,Mexico City,114500,1986-06-25,16:00
+411,MEX-86,BEL,FRA,FRA,Mexico 1986,Third Place Match,,Belgium,France,2-4(a.e.t.),2,4,True,False,False,,,France,George Courtney,Estadio Cuauhtémoc,Puebla,21000,1986-06-28,12:00
+412,MEX-86,ARG,WES,ARG,Mexico 1986,Final,,Argentina,West Germany,3-2,3,2,False,False,False,,,Argentina,Romualdo Arppi Filho,Estadio Azteca,Mexico City,114600,1986-06-29,12:00
+413,ITA-90,ITA,AUT,ITA,Italy 1990,Group Stage,A,Italy,Austria,1-0,1,0,False,False,False,,,Italy,José Roberto Wright,Stadio Olimpico,Rome,73303,1990-06-09,21:00
+414,ITA-90,USA,CZE,CZE,Italy 1990,Group Stage,A,United States,Czechoslovakia,1-5,1,5,False,False,False,,,Czechoslovakia,Kurt Röthlisberger,Stadio Comunale,Florence,33266,1990-06-10,17:00
+415,ITA-90,ITA,USA,ITA,Italy 1990,Group Stage,A,Italy,United States,1-0,1,0,False,False,False,,,Italy,Edgardo Codesal,Stadio Olimpico,Rome,73423,1990-06-14,21:00
+416,ITA-90,AUT,CZE,CZE,Italy 1990,Group Stage,A,Austria,Czechoslovakia,0-1,0,1,False,False,False,,,Czechoslovakia,George Smith,Stadio Comunale,Florence,38962,1990-06-15,17:00
+417,ITA-90,ITA,CZE,ITA,Italy 1990,Group Stage,A,Italy,Czechoslovakia,2-0,2,0,False,False,False,,,Italy,Joël Quiniou,Stadio Olimpico,Rome,73303,1990-06-19,21:00
+418,ITA-90,AUT,USA,AUT,Italy 1990,Group Stage,A,Austria,United States,2-1,2,1,False,False,False,,,Austria,Jamal Al Sharif,Stadio Comunale,Florence,34857,1990-06-19,21:00
+419,ITA-90,ARG,CAM,CAM,Italy 1990,Group Stage,B,Argentina,Cameroon,0-1,0,1,False,False,False,,,Cameroon,Michel Vautrot,San Siro,Milan,73780,1990-06-08,18:00
+420,ITA-90,SOV,ROM,ROM,Italy 1990,Group Stage,B,Soviet Union,Romania,0-2,0,2,False,False,False,,,Romania,Juan Daniel Cardellino,Stadio San Nicola,Bari,42907,1990-06-09,17:00
+421,ITA-90,ARG,SOV,ARG,Italy 1990,Group Stage,B,Argentina,Soviet Union,2-0,2,0,False,False,False,,,Argentina,Erik Fredriksson,Stadio San Paolo,Naples,55759,1990-06-13,21:00
+422,ITA-90,CAM,ROM,CAM,Italy 1990,Group Stage,B,Cameroon,Romania,2-1,2,1,False,False,False,,,Cameroon,Hernán Silva,Stadio San Nicola,Bari,38687,1990-06-14,17:00
+423,ITA-90,ARG,ROM,DRAW,Italy 1990,Group Stage,B,Argentina,Romania,1-1,1,1,False,False,False,,,Draw,Carlos Silva Valente,Stadio San Paolo,Naples,52733,1990-06-18,21:00
+424,ITA-90,CAM,SOV,SOV,Italy 1990,Group Stage,B,Cameroon,Soviet Union,0-4,0,4,False,False,False,,,Soviet Union,José Roberto Wright,Stadio San Nicola,Bari,37307,1990-06-18,21:00
+425,ITA-90,BRA,SWE,BRA,Italy 1990,Group Stage,C,Brazil,Sweden,2-1,2,1,False,False,False,,,Brazil,Tullio Lanese,Stadio Delle Alpi,Turin,62628,1990-06-10,21:00
+426,ITA-90,COS,SCO,COS,Italy 1990,Group Stage,C,Costa Rica,Scotland,1-0,1,0,False,False,False,,,Costa Rica,Juan Carlos Loustau,Stadio Luigi Ferraris,Genoa,30867,1990-06-11,17:00
+427,ITA-90,BRA,COS,BRA,Italy 1990,Group Stage,C,Brazil,Costa Rica,1-0,1,0,False,False,False,,,Brazil,Neji Jouini,Stadio Delle Alpi,Turin,58007,1990-06-16,17:00
+428,ITA-90,SWE,SCO,SCO,Italy 1990,Group Stage,C,Sweden,Scotland,1-2,1,2,False,False,False,,,Scotland,Carlos Maciel,Stadio Luigi Ferraris,Genoa,31823,1990-06-16,21:00
+429,ITA-90,BRA,SCO,BRA,Italy 1990,Group Stage,C,Brazil,Scotland,1-0,1,0,False,False,False,,,Brazil,Helmut Kohl,Stadio Delle Alpi,Turin,62502,1990-06-20,21:00
+430,ITA-90,SWE,COS,COS,Italy 1990,Group Stage,C,Sweden,Costa Rica,1-2,1,2,False,False,False,,,Costa Rica,Zoran Petrović,Stadio Luigi Ferraris,Genoa,30223,1990-06-20,21:00
+431,ITA-90,UAE,COL,COL,Italy 1990,Group Stage,D,United Arab Emirates,Colombia,0-2,0,2,False,False,False,,,Colombia,George Courtney,Stadio Renato Dall'Ara,Bologna,30791,1990-06-09,17:00
+432,ITA-90,WES,YUG,WES,Italy 1990,Group Stage,D,West Germany,Yugoslavia,4-1,4,1,False,False,False,,,West Germany,Peter Mikkelsen,San Siro,Milan,74765,1990-06-10,21:00
+433,ITA-90,YUG,COL,YUG,Italy 1990,Group Stage,D,Yugoslavia,Colombia,1-0,1,0,False,False,False,,,Yugoslavia,Luigi Agnolin,Stadio Renato Dall'Ara,Bologna,32257,1990-06-14,17:00
+434,ITA-90,WES,UAE,WES,Italy 1990,Group Stage,D,West Germany,United Arab Emirates,5-1,5,1,False,False,False,,,West Germany,Alexey Spirin,San Siro,Milan,71169,1990-06-15,21:00
+435,ITA-90,WES,COL,DRAW,Italy 1990,Group Stage,D,West Germany,Colombia,1-1,1,1,False,False,False,,,Draw,Alan Snoddy,San Siro,Milan,72510,1990-06-19,17:00
+436,ITA-90,YUG,UAE,YUG,Italy 1990,Group Stage,D,Yugoslavia,United Arab Emirates,4-1,4,1,False,False,False,,,Yugoslavia,Shizuo Takada,Stadio Renato Dall'Ara,Bologna,27833,1990-06-19,17:00
+437,ITA-90,BEL,SKO,BEL,Italy 1990,Group Stage,E,Belgium,South Korea,2-0,2,0,False,False,False,,,Belgium,Vincent Mauro,Stadio Marc'Antonio Bentegodi,Verona,32790,1990-06-12,17:00
+438,ITA-90,URU,SPA,DRAW,Italy 1990,Group Stage,E,Uruguay,Spain,0-0,0,0,False,False,False,,,Draw,Helmut Kohl,Stadio Friuli,Udine,35713,1990-06-13,17:00
+439,ITA-90,BEL,URU,BEL,Italy 1990,Group Stage,E,Belgium,Uruguay,3-1,3,1,False,False,False,,,Belgium,Siegfried Kirschen,Stadio Marc'Antonio Bentegodi,Verona,33759,1990-06-17,21:00
+440,ITA-90,SKO,SPA,SPA,Italy 1990,Group Stage,E,South Korea,Spain,1-3,1,3,False,False,False,,,Spain,Elías Jácome,Stadio Friuli,Udine,32733,1990-06-17,21:00
+441,ITA-90,BEL,SPA,SPA,Italy 1990,Group Stage,E,Belgium,Spain,1-2,1,2,False,False,False,,,Spain,Juan Carlos Loustau,Stadio Marc'Antonio Bentegodi,Verona,35950,1990-06-21,17:00
+442,ITA-90,SKO,URU,URU,Italy 1990,Group Stage,E,South Korea,Uruguay,0-1,0,1,False,False,False,,,Uruguay,Tullio Lanese,Stadio Friuli,Udine,29039,1990-06-21,17:00
+443,ITA-90,ENG,REP,DRAW,Italy 1990,Group Stage,F,England,Republic of Ireland,1-1,1,1,False,False,False,,,Draw,Aron Schmidhuber,Stadio Sant'Elia,Cagliari,35238,1990-06-11,21:00
+444,ITA-90,NET,EGY,DRAW,Italy 1990,Group Stage,F,Netherlands,Egypt,1-1,1,1,False,False,False,,,Draw,Emilio Soriano Aladrén,Stadio La Favorita,Palermo,33288,1990-06-12,21:00
+445,ITA-90,ENG,NET,DRAW,Italy 1990,Group Stage,F,England,Netherlands,0-0,0,0,False,False,False,,,Draw,Zoran Petrović,Stadio Sant'Elia,Cagliari,35267,1990-06-16,21:00
+446,ITA-90,REP,EGY,DRAW,Italy 1990,Group Stage,F,Republic of Ireland,Egypt,0-0,0,0,False,False,False,,,Draw,Marcel van Langenhove,Stadio La Favorita,Palermo,33288,1990-06-17,17:00
+447,ITA-90,ENG,EGY,ENG,Italy 1990,Group Stage,F,England,Egypt,1-0,1,0,False,False,False,,,England,Kurt Röthlisberger,Stadio Sant'Elia,Cagliari,34959,1990-06-21,21:00
+448,ITA-90,REP,NET,DRAW,Italy 1990,Group Stage,F,Republic of Ireland,Netherlands,1-1,1,1,False,False,False,,,Draw,Michel Vautrot,Stadio La Favorita,Palermo,33288,1990-06-21,21:00
+449,ITA-90,CAM,COL,CAM,Italy 1990,Round of 16,,Cameroon,Colombia,2-1(a.e.t.),2,1,True,False,False,,,Cameroon,Tullio Lanese,Stadio San Paolo,Naples,50026,1990-06-23,17:00
+450,ITA-90,CZE,COS,CZE,Italy 1990,Round of 16,,Czechoslovakia,Costa Rica,4-1,4,1,False,False,False,,,Czechoslovakia,Siegfried Kirschen,Stadio San Nicola,Bari,47673,1990-06-23,21:00
+451,ITA-90,BRA,ARG,ARG,Italy 1990,Round of 16,,Brazil,Argentina,0-1,0,1,False,False,False,,,Argentina,Joël Quiniou,Stadio Delle Alpi,Turin,61381,1990-06-24,17:00
+452,ITA-90,WES,NET,WES,Italy 1990,Round of 16,,West Germany,Netherlands,2-1,2,1,False,False,False,,,West Germany,Juan Carlos Loustau,San Siro,Milan,74559,1990-06-24,21:00
+453,ITA-90,REP,ROM,REP,Italy 1990,Round of 16,,Republic of Ireland,Romania,0-0(a.e.t.),0,0,True,False,True,5,4,Republic of Ireland,José Roberto Wright,Stadio Luigi Ferraris,Genoa,31818,1990-06-25,17:00
+454,ITA-90,ITA,URU,ITA,Italy 1990,Round of 16,,Italy,Uruguay,2-0,2,0,False,False,False,,,Italy,George Courtney,Stadio Olimpico,Rome,73303,1990-06-25,21:00
+455,ITA-90,SPA,YUG,YUG,Italy 1990,Round of 16,,Spain,Yugoslavia,1-2(a.e.t.),1,2,True,False,False,,,Yugoslavia,Aron Schmidhuber,Stadio Marc'Antonio Bentegodi,Verona,35500,1990-06-26,17:00
+456,ITA-90,ENG,BEL,ENG,Italy 1990,Round of 16,,England,Belgium,1-0(a.e.t.),1,0,True,False,False,,,England,Peter Mikkelsen,Stadio Renato Dall'Ara,Bologna,34520,1990-06-26,21:00
+457,ITA-90,ARG,YUG,ARG,Italy 1990,Quarter-finals,,Argentina,Yugoslavia,0-0(a.e.t.),0,0,True,False,True,3,2,Argentina,Kurt Röthlisberger,Stadio Comunale,Florence,38971,1990-06-30,17:00
+458,ITA-90,REP,ITA,ITA,Italy 1990,Quarter-finals,,Republic of Ireland,Italy,0-1,0,1,False,False,False,,,Italy,Carlos Silva Valente,Stadio Olimpico,Rome,73303,1990-06-30,21:00
+459,ITA-90,CZE,WES,WES,Italy 1990,Quarter-finals,,Czechoslovakia,West Germany,0-1,0,1,False,False,False,,,West Germany,Helmut Kohl,San Siro,Milan,73347,1990-07-01,17:00
+460,ITA-90,CAM,ENG,ENG,Italy 1990,Quarter-finals,,Cameroon,England,2-3(a.e.t.),2,3,True,False,False,,,England,Edgardo Codesal,Stadio San Paolo,Naples,55205,1990-07-01,21:00
+461,ITA-90,ARG,ITA,ARG,Italy 1990,Semi-finals,,Argentina,Italy,1-1(a.e.t.),1,1,True,False,True,4,3,Argentina,Michel Vautrot,Stadio San Paolo,Naples,59978,1990-07-03,20:00
+462,ITA-90,WES,ENG,WES,Italy 1990,Semi-finals,,West Germany,England,1-1(a.e.t.),1,1,True,False,True,4,3,West Germany,José Roberto Wright,Stadio delle Alpi,Turin,62628,1990-07-04,20:00
+463,ITA-90,ITA,ENG,ITA,Italy 1990,Third Place Match,,Italy,England,2-1,2,1,False,False,False,,,Italy,Joël Quiniou,Stadio San Nicola,Bari,51426,1990-07-07,20:00
+464,ITA-90,WES,ARG,WES,Italy 1990,Final,,West Germany,Argentina,1-0,1,0,False,False,False,,,West Germany,Edgardo Codesal,Stadio Olimpico,Rome,73603,1990-07-08,20:00
+465,USA-94,USA,SWI,DRAW,USA 1994,Group Stage,A,United States,Switzerland,1-1,1,1,False,False,False,,,Draw,Francisco Oscar Lamolina,Pontiac Silverdome,Pontiac,73425,1994-06-18,11:30
+466,USA-94,COL,ROM,ROM,USA 1994,Group Stage,A,Colombia,Romania,1-3,1,3,False,False,False,,,Romania,Jamal Al Sharif,Rose Bowl,Pasadena,91856,1994-06-18,4:30
+467,USA-94,ROM,SWI,SWI,USA 1994,Group Stage,A,Romania,Switzerland,1-4,1,4,False,False,False,,,Switzerland,Neji Jouini,Pontiac Silverdome,Pontiac,61428,1994-06-22,4:00
+468,USA-94,USA,COL,USA,USA 1994,Group Stage,A,United States,Colombia,2-1,2,1,False,False,False,,,United States,Fabio Baldas,Rose Bowl,Pasadena,93869,1994-06-22,4:30
+469,USA-94,SWI,COL,COL,USA 1994,Group Stage,A,Switzerland,Colombia,0-2,0,2,False,False,False,,,Colombia,Peter Mikkelsen,Stanford Stadium,Stanford,83401,1994-06-26,1:00
+470,USA-94,USA,ROM,ROM,USA 1994,Group Stage,A,United States,Romania,0-1,0,1,False,False,False,,,Romania,Mario van der Ende,Rose Bowl,Pasadena,93869,1994-06-26,1:00
+471,USA-94,CAM,SWE,DRAW,USA 1994,Group Stage,B,Cameroon,Sweden,2-2,2,2,False,False,False,,,Draw,Alberto Tejada Noriega,Rose Bowl,Pasadena,93194,1994-06-19,4:30
+472,USA-94,BRA,RUS,BRA,USA 1994,Group Stage,B,Brazil,Russia,2-0,2,0,False,False,False,,,Brazil,Lim Kee Chong,Stanford Stadium,Stanford,81061,1994-06-20,1:00
+473,USA-94,BRA,CAM,BRA,USA 1994,Group Stage,B,Brazil,Cameroon,3-0,3,0,False,False,False,,,Brazil,Arturo Brizio Carter,Stanford Stadium,Stanford,83401,1994-06-24,1:00
+474,USA-94,SWE,RUS,SWE,USA 1994,Group Stage,B,Sweden,Russia,3-1,3,1,False,False,False,,,Sweden,Joël Quiniou,Pontiac Silverdome,Pontiac,71528,1994-06-24,7:30
+475,USA-94,RUS,CAM,RUS,USA 1994,Group Stage,B,Russia,Cameroon,6-1,6,1,False,False,False,,,Russia,Jamal Al Sharif,Stanford Stadium,Stanford,74914,1994-06-28,1:00
+476,USA-94,BRA,SWE,DRAW,USA 1994,Group Stage,B,Brazil,Sweden,1-1,1,1,False,False,False,,,Draw,Sándor Puhl,Pontiac Silverdome,Pontiac,77217,1994-06-28,4:00
+477,USA-94,GER,BOL,GER,USA 1994,Group Stage,C,Germany,Bolivia,1-0,1,0,False,False,False,,,Germany,Arturo Brizio Carter,Soldier Field,Chicago,63117,1994-06-17,2:00
+478,USA-94,SPA,SKO,DRAW,USA 1994,Group Stage,C,Spain,South Korea,2-2,2,2,False,False,False,,,Draw,Peter Mikkelsen,Cotton Bowl,Dallas,56247,1994-06-17,6:30
+479,USA-94,GER,SPA,DRAW,USA 1994,Group Stage,C,Germany,Spain,1-1,1,1,False,False,False,,,Draw,Filippi Cavani,Soldier Field,Chicago,63113,1994-06-21,3:00
+480,USA-94,SKO,BOL,DRAW,USA 1994,Group Stage,C,South Korea,Bolivia,0-0,0,0,False,False,False,,,Draw,Leslie Mottram,Foxboro Stadium,Foxborough,54453,1994-06-23,7:30
+481,USA-94,BOL,SPA,SPA,USA 1994,Group Stage,C,Bolivia,Spain,1-3,1,3,False,False,False,,,Spain,Rodrigo Badilla,Soldier Field,Chicago,63089,1994-06-27,3:00
+482,USA-94,GER,SKO,GER,USA 1994,Group Stage,C,Germany,South Korea,3-2,3,2,False,False,False,,,Germany,Joël Quiniou,Cotton Bowl,Dallas,63998,1994-06-27,3:00
+483,USA-94,ARG,GRE,ARG,USA 1994,Group Stage,D,Argentina,Greece,4-0,4,0,False,False,False,,,Argentina,Arturo Angeles,Foxboro Stadium,Foxborough,54456,1994-06-21,12:30
+484,USA-94,NIG,BUL,NIG,USA 1994,Group Stage,D,Nigeria,Bulgaria,3-0,3,0,False,False,False,,,Nigeria,Rodrigo Badilla,Cotton Bowl,Dallas,44132,1994-06-21,6:30
+485,USA-94,ARG,NIG,ARG,USA 1994,Group Stage,D,Argentina,Nigeria,2-1,2,1,False,False,False,,,Argentina,Bo Karlsson,Foxboro Stadium,Foxborough,54453,1994-06-25,4:00
+486,USA-94,BUL,GRE,BUL,USA 1994,Group Stage,D,Bulgaria,Greece,4-0,4,0,False,False,False,,,Bulgaria,Ali Bujsaim,Soldier Field,Chicago,63160,1994-06-26,11:30
+487,USA-94,ARG,BUL,BUL,USA 1994,Group Stage,D,Argentina,Bulgaria,0-2,0,2,False,False,False,,,Bulgaria,Neji Jouini,Cotton Bowl,Dallas,63998,1994-06-30,6:30
+488,USA-94,GRE,NIG,NIG,USA 1994,Group Stage,D,Greece,Nigeria,0-2,0,2,False,False,False,,,Nigeria,Leslie Mottram,Foxboro Stadium,Foxborough,53001,1994-06-30,7:30
+489,USA-94,ITA,REP,REP,USA 1994,Group Stage,E,Italy,Republic of Ireland,0-1,0,1,False,False,False,,,Republic of Ireland,Mario van der Ende,Giants Stadium,East Rutherford,75338,1994-06-18,4:00
+490,USA-94,NOR,MEX,NOR,USA 1994,Group Stage,E,Norway,Mexico,1-0,1,0,False,False,False,,,Norway,Sándor Puhl,RFK Stadium,"Washington, D.C.",52395,1994-06-19,4:00
+491,USA-94,ITA,NOR,ITA,USA 1994,Group Stage,E,Italy,Norway,1-0,1,0,False,False,False,,,Italy,Hellmut Krug,Giants Stadium,East Rutherford,74624,1994-06-23,4:00
+492,USA-94,MEX,REP,MEX,USA 1994,Group Stage,E,Mexico,Republic of Ireland,2-1,2,1,False,False,False,,,Mexico,Kurt Röthlisberger,Citrus Bowl,Orlando,60790,1994-06-24,12:30
+493,USA-94,ITA,MEX,DRAW,USA 1994,Group Stage,E,Italy,Mexico,1-1,1,1,False,False,False,,,Draw,Francisco Oscar Lamolina,RFK Stadium,"Washington, D.C.",52535,1994-06-28,12:30
+494,USA-94,REP,NOR,DRAW,USA 1994,Group Stage,E,Republic of Ireland,Norway,0-0,0,0,False,False,False,,,Draw,José Torres Cadena,Giants Stadium,East Rutherford,72404,1994-06-28,12:30
+495,USA-94,BEL,MOR,BEL,USA 1994,Group Stage,F,Belgium,Morocco,1-0,1,0,False,False,False,,,Belgium,José Torres Cadena,Citrus Bowl,Orlando,61219,1994-06-19,12:30
+496,USA-94,NET,SAU,NET,USA 1994,Group Stage,F,Netherlands,Saudi Arabia,2-1,2,1,False,False,False,,,Netherlands,Manuel Díaz Vega,RFK Stadium,"Washington, D.C.",50535,1994-06-20,7:30
+497,USA-94,BEL,NET,BEL,USA 1994,Group Stage,F,Belgium,Netherlands,1-0,1,0,False,False,False,,,Belgium,Renato Marsiglia,Citrus Bowl,Orlando,62387,1994-06-25,12:30
+498,USA-94,SAU,MOR,SAU,USA 1994,Group Stage,F,Saudi Arabia,Morocco,2-1,2,1,False,False,False,,,Saudi Arabia,Philip Don,Giants Stadium,East Rutherford,76322,1994-06-25,12:30
+499,USA-94,BEL,SAU,SAU,USA 1994,Group Stage,F,Belgium,Saudi Arabia,0-1,0,1,False,False,False,,,Saudi Arabia,Hellmut Krug,RFK Stadium,"Washington, D.C.",52959,1994-06-29,12:30
+500,USA-94,MOR,NET,NET,USA 1994,Group Stage,F,Morocco,Netherlands,1-2,1,2,False,False,False,,,Netherlands,Alberto Tejada Noriega,Citrus Bowl,Orlando,60578,1994-06-29,12:30
+501,USA-94,GER,BEL,GER,USA 1994,Round of 16,,Germany,Belgium,3-2,3,2,False,False,False,,,Germany,Kurt Röthlisberger,Soldier Field,Chicago,60246,1994-07-02,12:00
+502,USA-94,SPA,SWI,SPA,USA 1994,Round of 16,,Spain,Switzerland,3-0,3,0,False,False,False,,,Spain,Mario van der Ende,RFK Stadium,"Washington, D.C.",53121,1994-07-02,4:30
+503,USA-94,SAU,SWE,SWE,USA 1994,Round of 16,,Saudi Arabia,Sweden,1-3,1,3,False,False,False,,,Sweden,Renato Marsiglia,Cotton Bowl,Dallas,60277,1994-07-03,12:00
+504,USA-94,ROM,ARG,ROM,USA 1994,Round of 16,,Romania,Argentina,3-2,3,2,False,False,False,,,Romania,Pierluigi Pairetto,Rose Bowl,Pasadena,90469,1994-07-03,1:30
+505,USA-94,NET,REP,NET,USA 1994,Round of 16,,Netherlands,Republic of Ireland,2-0,2,0,False,False,False,,,Netherlands,Peter Mikkelsen,Citrus Bowl,Orlando,61355,1994-07-04,12:00
+506,USA-94,BRA,USA,BRA,USA 1994,Round of 16,,Brazil,United States,1-0,1,0,False,False,False,,,Brazil,Joël Quiniou,Stanford Stadium,Stanford,84147,1994-07-04,12:30
+507,USA-94,NIG,ITA,ITA,USA 1994,Round of 16,,Nigeria,Italy,1-2(a.e.t.),1,2,True,False,False,,,Italy,Arturo Brizio Carter,Foxboro Stadium,Foxborough,54367,1994-07-05,1:00
+508,USA-94,MEX,BUL,BUL,USA 1994,Round of 16,,Mexico,Bulgaria,1-1(a.e.t.),1,1,True,False,True,1,3,Bulgaria,Jamal Al Sharif,Giants Stadium,East Rutherford,71030,1994-07-05,4:30
+509,USA-94,ITA,SPA,ITA,USA 1994,Quarter-finals,,Italy,Spain,2-1,2,1,False,False,False,,,Italy,Sándor Puhl,Foxboro Stadium,Foxborough,53400,1994-07-09,12:00
+510,USA-94,NET,BRA,BRA,USA 1994,Quarter-finals,,Netherlands,Brazil,2-3,2,3,False,False,False,,,Brazil,Rodrigo Badilla,Cotton Bowl,Dallas,63500,1994-07-09,2:30
+511,USA-94,BUL,GER,BUL,USA 1994,Quarter-finals,,Bulgaria,Germany,2-1,2,1,False,False,False,,,Bulgaria,José Torres Cadena,Giants Stadium,East Rutherford,72000,1994-07-10,12:00
+512,USA-94,ROM,SWE,SWE,USA 1994,Quarter-finals,,Romania,Sweden,2-2(a.e.t.),2,2,True,False,True,4,5,Sweden,Philip Don,Stanford Stadium,Stanford,83500,1994-07-10,12:30
+513,USA-94,BUL,ITA,ITA,USA 1994,Semi-finals,,Bulgaria,Italy,1-2,1,2,False,False,False,,,Italy,Joël Quiniou,Giants Stadium,East Rutherford,74110,1994-07-13,4:00
+514,USA-94,SWE,BRA,BRA,USA 1994,Semi-finals,,Sweden,Brazil,0-1,0,1,False,False,False,,,Brazil,José Torres Cadena,Rose Bowl,Pasadena,91856,1994-07-13,4:30
+515,USA-94,SWE,BUL,SWE,USA 1994,Third Place Match,,Sweden,Bulgaria,4-0,4,0,False,False,False,,,Sweden,Ali Bujsaim,Rose Bowl,Pasadena,91500,1994-07-16,12:30
+516,USA-94,BRA,ITA,BRA,USA 1994,Final,,Brazil,Italy,0-0(a.e.t.),0,0,True,False,True,3,2,Brazil,Sándor Puhl,Rose Bowl,Pasadena,94194,1994-07-17,12:30
+517,FRA-98,ITA,NOR,ITA,France 1998,Group Stage,A,Italy,Norway,1-0,1,0,False,False,False,,,Italy,Bernd Heynemann,Stade Vélodrome,Marseille,55000,1998-06-27,16:30
+518,FRA-98,BRA,CHI,BRA,France 1998,Group Stage,A,Brazil,Chile,4-1,4,1,False,False,False,,,Brazil,Marc Batta,Parc des Princes,,45500,1998-06-27,21:00
+519,FRA-98,FRA,PAR,FRA,France 1998,Group Stage,A,France,Paraguay,1-0(a.e.t./g.g.),1,0,True,True,False,,,France,Ali Bujsaim,Stade Félix-Bollaert,Lens,31800,1998-06-28,16:30
+520,FRA-98,NIG,DEN,DEN,France 1998,Group Stage,A,Nigeria,Denmark,1-4,1,4,False,False,False,,,Denmark,Urs Meier,Stade de France,Saint-Denis,77000,1998-06-28,21:00
+521,FRA-98,GER,MEX,GER,France 1998,Group Stage,A,Germany,Mexico,2-1,2,1,False,False,False,,,Germany,Vítor Melo Pereira,Stade de la Mosson,Montpellier,29800,1998-06-29,16:30
+522,FRA-98,NET,FRY,NET,France 1998,Group Stage,A,Netherlands,FR Yugoslavia,2-1,2,1,False,False,False,,,Netherlands,José María García-Aranda,Stade de Toulouse,Toulouse,33500,1998-06-29,21:00
+523,FRA-98,ROM,CRO,CRO,France 1998,Group Stage,B,Romania,Croatia,0-1,0,1,False,False,False,,,Croatia,Javier Castrilli,Parc Lescure,Bordeaux,31800,1998-06-30,16:30
+524,FRA-98,ARG,ENG,ARG,France 1998,Group Stage,B,Argentina,England,2-2(a.e.t.),2,2,True,False,True,4,3,Argentina,Kim Milton Nielsen,Stade Geoffroy-Guichard,Saint-Étienne,30600,1998-06-30,21:00
+525,FRA-98,ITA,FRA,FRA,France 1998,Group Stage,B,Italy,France,0-0(a.e.t.),0,0,True,False,True,3,4,France,Hugh Dallas,Stade de France,Saint-Denis,77000,1998-07-03,16:30
+526,FRA-98,BRA,DEN,BRA,France 1998,Group Stage,B,Brazil,Denmark,3-2,3,2,False,False,False,,,Brazil,Gamal Al-Ghandour,Stade de la Beaujoire,Nantes,35500,1998-07-03,21:00
+527,FRA-98,NET,ARG,NET,France 1998,Group Stage,B,Netherlands,Argentina,2-1,2,1,False,False,False,,,Netherlands,Arturo Brizio Carter,Stade Vélodrome,Marseille,55000,1998-07-04,16:30
+528,FRA-98,GER,CRO,CRO,France 1998,Group Stage,B,Germany,Croatia,0-3,0,3,False,False,False,,,Croatia,Rune Pedersen,Stade de Gerland,Lyon,39100,1998-07-04,21:00
+529,FRA-98,BRA,NET,BRA,France 1998,Group Stage,C,Brazil,Netherlands,1-1(a.e.t.),1,1,True,False,True,4,2,Brazil,Ali Bujsaim,Stade Vélodrome,Marseille,54000,1998-07-07,21:00
+530,FRA-98,FRA,CRO,FRA,France 1998,Group Stage,C,France,Croatia,2-1,2,1,False,False,False,,,France,José María García-Aranda,Stade de France,Saint-Denis,76000,1998-07-08,21:00
+531,FRA-98,NET,CRO,CRO,France 1998,Group Stage,C,Netherlands,Croatia,1-2,1,2,False,False,False,,,Croatia,Epifanio González,Parc des Princes,,45500,1998-07-11,21:00
+532,FRA-98,BRA,FRA,FRA,France 1998,Group Stage,C,Brazil,France,0-3,0,3,False,False,False,,,France,Said Belqola,Stade de France,Saint-Denis,80000,1998-07-12,21:00
+533,KOR-02,GER,PAR,GER,Korea/Japan 2002,Group Stage,A,Germany,Paraguay,1-0,1,0,False,False,False,,,Germany,Carlos Alberto Batres,Jeju World Cup Stadium,Seogwipo,25176,2002-06-15,15:30
+534,KOR-02,DEN,ENG,ENG,Korea/Japan 2002,Group Stage,A,Denmark,England,0-3,0,3,False,False,False,,,England,Markus Merk,Big Swan Stadium,Niigata,40582,2002-06-15,20:30
+535,KOR-02,SWE,SEN,SEN,Korea/Japan 2002,Group Stage,A,Sweden,Senegal,1-2(a.e.t./g.g.),1,2,True,True,False,,,Senegal,Ubaldo Aquino,Big Eye Stadium,Ōita,39747,2002-06-16,15:30
+536,KOR-02,SPA,REP,SPA,Korea/Japan 2002,Group Stage,A,Spain,Republic of Ireland,1-1(a.e.t.),1,1,True,False,True,3,2,Spain,Anders Frisk,Suwon World Cup Stadium,Suwon,38926,2002-06-16,20:30
+537,KOR-02,MEX,USA,USA,Korea/Japan 2002,Group Stage,A,Mexico,United States,0-2,0,2,False,False,False,,,United States,Vítor Melo Pereira,Jeonju World Cup Stadium,Jeonju,36380,2002-06-17,15:30
+538,KOR-02,BRA,BEL,BRA,Korea/Japan 2002,Group Stage,A,Brazil,Belgium,2-0,2,0,False,False,False,,,Brazil,Peter Prendergast,Kobe Wing Stadium,Kobe,40440,2002-06-17,20:30
+539,KOR-02,JAP,TUR,TUR,Korea/Japan 2002,Group Stage,B,Japan,Turkey,0-1,0,1,False,False,False,,,Turkey,Pierluigi Collina,Miyagi Stadium,Rifu,45666,2002-06-18,15:30
+540,KOR-02,SKO,ITA,SKO,Korea/Japan 2002,Group Stage,B,South Korea,Italy,2-1(a.e.t./g.g.),2,1,True,True,False,,,South Korea,Byron Moreno,Daejeon World Cup Stadium,Daejeon,38588,2002-06-18,20:30
+541,KOR-02,ENG,BRA,BRA,Korea/Japan 2002,Group Stage,B,England,Brazil,1-2,1,2,False,False,False,,,Brazil,Felipe Ramos,Stadium Ecopa,Fukuroi,47436,2002-06-21,15:30
+542,KOR-02,GER,USA,GER,Korea/Japan 2002,Group Stage,B,Germany,United States,1-0,1,0,False,False,False,,,Germany,Hugh Dallas,Munsu Cup Stadium,Ulsan,37337,2002-06-21,20:30
+543,KOR-02,SPA,SKO,SKO,Korea/Japan 2002,Group Stage,B,Spain,South Korea,0-0(a.e.t.),0,0,True,False,True,3,5,South Korea,Gamal Al-Ghandour,Gwangju World Cup Stadium,Gwangju,42114,2002-06-22,15:30
+544,KOR-02,SEN,TUR,TUR,Korea/Japan 2002,Group Stage,B,Senegal,Turkey,0-1(a.e.t./g.g.),0,1,True,True,False,,,Turkey,Óscar Ruiz,Nagai Stadium,Osaka,44233,2002-06-22,20:30
+545,KOR-02,GER,SKO,GER,Korea/Japan 2002,Group Stage,C,Germany,South Korea,1-0,1,0,False,False,False,,,Germany,Urs Meier,Seoul World Cup Stadium,Seoul,65256,2002-06-25,20:30
+546,KOR-02,BRA,TUR,BRA,Korea/Japan 2002,Group Stage,C,Brazil,Turkey,1-0,1,0,False,False,False,,,Brazil,Kim Milton Nielsen,Saitama Stadium,Saitama,61058,2002-06-26,20:30
+547,KOR-02,SKO,TUR,TUR,Korea/Japan 2002,Group Stage,C,South Korea,Turkey,2-3,2,3,False,False,False,,,Turkey,Saad Mane,Daegu World Cup Stadium,Daegu,63483,2002-06-29,20:00
+548,KOR-02,GER,BRA,BRA,Korea/Japan 2002,Group Stage,C,Germany,Brazil,0-2,0,2,False,False,False,,,Brazil,Pierluigi Collina,International Stadium,Yokohama,69029,2002-06-30,20:00
+549,GER-06,GER,SWE,GER,Germany 2006,Group Stage,A,Germany,Sweden,2-0,2,0,False,False,False,,,Germany,Carlos Eugênio Simon,Allianz Arena,Munich,66000,2006-06-24,17:00
+550,GER-06,ARG,MEX,ARG,Germany 2006,Group Stage,A,Argentina,Mexico,2-1(a.e.t.),2,1,True,False,False,,,Argentina,Massimo Busacca,Zentralstadion,Leipzig,43000,2006-06-24,21:00
+551,GER-06,ENG,ECU,ENG,Germany 2006,Group Stage,A,England,Ecuador,1-0,1,0,False,False,False,,,England,Frank De Bleeckere,Gottlieb-Daimler-Stadion,Stuttgart,52000,2006-06-25,17:00
+552,GER-06,POR,NET,POR,Germany 2006,Group Stage,A,Portugal,Netherlands,1-0,1,0,False,False,False,,,Portugal,Valentin Ivanov,Frankenstadion,Nuremberg,41000,2006-06-25,21:00
+553,GER-06,ITA,AUS,ITA,Germany 2006,Group Stage,A,Italy,Australia,1-0,1,0,False,False,False,,,Italy,Luis Medina Cantalejo,Fritz-Walter-Stadion,Kaiserslautern,46000,2006-06-26,17:00
+554,GER-06,SWI,UKR,UKR,Germany 2006,Group Stage,A,Switzerland,Ukraine,0-0(a.e.t.),0,0,True,False,True,0,3,Ukraine,Benito Archundia,RheinEnergieStadion,Cologne,45000,2006-06-26,21:00
+555,GER-06,BRA,GHA,BRA,Germany 2006,Group Stage,B,Brazil,Ghana,3-0,3,0,False,False,False,,,Brazil,Ľuboš Micheľ,Westfalenstadion,Dortmund,65000,2006-06-27,17:00
+556,GER-06,SPA,FRA,FRA,Germany 2006,Group Stage,B,Spain,France,1-3,1,3,False,False,False,,,France,Roberto Rosetti,Niedersachsenstadion,Hanover,43000,2006-06-27,21:00
+557,GER-06,GER,ARG,GER,Germany 2006,Group Stage,B,Germany,Argentina,1-1(a.e.t.),1,1,True,False,True,4,2,Germany,Ľuboš Micheľ,Olympiastadion,Berlin,72000,2006-06-30,17:00
+558,GER-06,ITA,UKR,ITA,Germany 2006,Group Stage,B,Italy,Ukraine,3-0,3,0,False,False,False,,,Italy,Frank De Bleeckere,Volksparkstadion,Hamburg,50000,2006-06-30,21:00
+559,GER-06,ENG,POR,POR,Germany 2006,Group Stage,B,England,Portugal,0-0(a.e.t.),0,0,True,False,True,1,3,Portugal,Horacio Elizondo,Arena AufSchalke,Gelsenkirchen,52000,2006-07-01,17:00
+560,GER-06,BRA,FRA,FRA,Germany 2006,Group Stage,B,Brazil,France,0-1,0,1,False,False,False,,,France,Luis Medina Cantalejo,Waldstadion,Frankfurt,48000,2006-07-01,21:00
+561,GER-06,GER,ITA,ITA,Germany 2006,Group Stage,C,Germany,Italy,0-2(a.e.t.),0,2,True,False,False,,,Italy,Benito Archundia,Westfalenstadion,Dortmund,65000,2006-07-04,21:00
+562,GER-06,POR,FRA,FRA,Germany 2006,Group Stage,C,Portugal,France,0-1,0,1,False,False,False,,,France,Jorge Larrionda,Allianz Arena,Munich,66000,2006-07-05,21:00
+563,GER-06,GER,POR,GER,Germany 2006,Group Stage,C,Germany,Portugal,3-1,3,1,False,False,False,,,Germany,Toru Kamikawa,Gottlieb-Daimler-Stadion,Stuttgart,52000,2006-07-08,21:00
+564,GER-06,ITA,FRA,ITA,Germany 2006,Group Stage,C,Italy,France,1-1(a.e.t.),1,1,True,False,True,5,3,Italy,Horacio Elizondo,Olympiastadion,Berlin,69000,2006-07-09,20:00
+565,SOU-10,URU,SKO,URU,South Africa 2010,Group Stage,A,Uruguay,South Korea,2-1,2,1,False,False,False,,,Uruguay,Wolfgang Stark,Nelson Mandela Bay Stadium,Port Elizabeth,30597,2010-06-26,16:00
+566,SOU-10,USA,GHA,GHA,South Africa 2010,Group Stage,A,United States,Ghana,1-2(a.e.t.),1,2,True,False,False,,,Ghana,Viktor Kassai,Royal Bafokeng Stadium,Rustenburg,34976,2010-06-26,20:30
+567,SOU-10,GER,ENG,GER,South Africa 2010,Group Stage,A,Germany,England,4-1,4,1,False,False,False,,,Germany,Jorge Larrionda,Free State Stadium,Bloemfontein,40510,2010-06-27,16:00
+568,SOU-10,ARG,MEX,ARG,South Africa 2010,Group Stage,A,Argentina,Mexico,3-1,3,1,False,False,False,,,Argentina,Roberto Rosetti,Soccer City,Johannesburg,84377,2010-06-27,20:30
+569,SOU-10,NET,SLK,NET,South Africa 2010,Group Stage,A,Netherlands,Slovakia,2-1,2,1,False,False,False,,,Netherlands,Alberto Undiano Mallenco,Moses Mabhida Stadium,Durban,61962,2010-06-28,16:00
+570,SOU-10,BRA,CHI,BRA,South Africa 2010,Group Stage,A,Brazil,Chile,3-0,3,0,False,False,False,,,Brazil,Howard Webb,Ellis Park Stadium,Johannesburg,54096,2010-06-28,20:30
+571,SOU-10,PAR,JAP,PAR,South Africa 2010,Group Stage,B,Paraguay,Japan,0-0(a.e.t.),0,0,True,False,True,5,3,Paraguay,Frank De Bleeckere,Loftus Versfeld Stadium,Pretoria,36742,2010-06-29,16:00
+572,SOU-10,SPA,POR,SPA,South Africa 2010,Group Stage,B,Spain,Portugal,1-0,1,0,False,False,False,,,Spain,Héctor Baldassi,Cape Town Stadium,Cape Town,62955,2010-06-29,20:30
+573,SOU-10,NET,BRA,NET,South Africa 2010,Group Stage,B,Netherlands,Brazil,2-1,2,1,False,False,False,,,Netherlands,Yuichi Nishimura,Nelson Mandela Bay Stadium,Port Elizabeth,40186,2010-07-02,16:00
+574,SOU-10,URU,GHA,URU,South Africa 2010,Group Stage,B,Uruguay,Ghana,1-1(a.e.t.),1,1,True,False,True,4,2,Uruguay,Olegário Benquerença,Soccer City,Johannesburg,84017,2010-07-02,20:30
+575,SOU-10,ARG,GER,GER,South Africa 2010,Group Stage,B,Argentina,Germany,0-4,0,4,False,False,False,,,Germany,Ravshan Irmatov,Cape Town Stadium,Cape Town,64100,2010-07-03,16:00
+576,SOU-10,PAR,SPA,SPA,South Africa 2010,Group Stage,B,Paraguay,Spain,0-1,0,1,False,False,False,,,Spain,Carlos Batres,Ellis Park Stadium,Johannesburg,55359,2010-07-03,20:30
+577,SOU-10,URU,NET,NET,South Africa 2010,Group Stage,C,Uruguay,Netherlands,2-3,2,3,False,False,False,,,Netherlands,Ravshan Irmatov,Cape Town Stadium,Cape Town,62479,2010-07-06,20:30
+578,SOU-10,GER,SPA,SPA,South Africa 2010,Group Stage,C,Germany,Spain,0-1,0,1,False,False,False,,,Spain,Viktor Kassai,Moses Mabhida Stadium,Durban,60960,2010-07-07,20:30
+579,SOU-10,URU,GER,GER,South Africa 2010,Group Stage,C,Uruguay,Germany,2-3,2,3,False,False,False,,,Germany,Benito Archundia,Nelson Mandela Bay Stadium,Port Elizabeth,36254,2010-07-10,20:30
+580,SOU-10,NET,SPA,SPA,South Africa 2010,Group Stage,C,Netherlands,Spain,0-1(a.e.t.),0,1,True,False,False,,,Spain,Howard Webb,Soccer City,Johannesburg,84490,2010-07-11,20:30
+581,BRA-14,BRA,CHI,BRA,Brazil 2014,Group Stage,A,Brazil,Chile,1-1(a.e.t.),1,1,True,False,True,3,2,Brazil,Howard Webb,Estádio Mineirão,Belo Horizonte,57714,2014-06-28,13:00
+582,BRA-14,COL,URU,COL,Brazil 2014,Group Stage,A,Colombia,Uruguay,2-0,2,0,False,False,False,,,Colombia,Björn Kuipers,Estádio do Maracanã,Rio de Janeiro,73804,2014-06-28,17:00
+583,BRA-14,NET,MEX,NET,Brazil 2014,Group Stage,A,Netherlands,Mexico,2-1,2,1,False,False,False,,,Netherlands,Pedro Proença,Estádio Castelão,Fortaleza,58817,2014-06-29,13:00
+584,BRA-14,COS,GRE,COS,Brazil 2014,Group Stage,A,Costa Rica,Greece,1-1(a.e.t.),1,1,True,False,True,5,3,Costa Rica,Ben Williams,Itaipava Arena Pernambuco,Recife,41242,2014-06-29,17:00
+585,BRA-14,FRA,NIG,FRA,Brazil 2014,Group Stage,A,France,Nigeria,2-0,2,0,False,False,False,,,France,Mark Geiger,Estádio Nacional Mané Garrincha,Brasília,67882,2014-06-30,13:00
+586,BRA-14,GER,ALG,GER,Brazil 2014,Group Stage,A,Germany,Algeria,2-1(a.e.t.),2,1,True,False,False,,,Germany,Sandro Ricci,Estádio Beira-Rio,Porto Alegre,43063,2014-06-30,17:00
+587,BRA-14,ARG,SWI,ARG,Brazil 2014,Group Stage,B,Argentina,Switzerland,1-0(a.e.t.),1,0,True,False,False,,,Argentina,Jonas Eriksson,Arena Corinthians,São Paulo,63255,2014-07-01,13:00
+588,BRA-14,BEL,USA,BEL,Brazil 2014,Group Stage,B,Belgium,United States,2-1(a.e.t.),2,1,True,False,False,,,Belgium,Djamel Haimoudi,Itaipava Arena Fonte Nova,Salvador,51227,2014-07-01,17:00
+589,BRA-14,FRA,GER,GER,Brazil 2014,Group Stage,B,France,Germany,0-1,0,1,False,False,False,,,Germany,Néstor Pitana,Estádio do Maracanã,Rio de Janeiro,74240,2014-07-04,13:00
+590,BRA-14,BRA,COL,BRA,Brazil 2014,Group Stage,B,Brazil,Colombia,2-1,2,1,False,False,False,,,Brazil,Carlos Velasco Carballo,Estádio Castelão,Fortaleza,60342,2014-07-04,17:00
+591,BRA-14,ARG,BEL,ARG,Brazil 2014,Group Stage,B,Argentina,Belgium,1-0,1,0,False,False,False,,,Argentina,Nicola Rizzoli,Estádio Nacional Mané Garrincha,Brasília,68551,2014-07-05,13:00
+592,BRA-14,NET,COS,NET,Brazil 2014,Group Stage,B,Netherlands,Costa Rica,0-0(a.e.t.),0,0,True,False,True,4,3,Netherlands,Ravshan Irmatov,Itaipava Arena Fonte Nova,Salvador,51179,2014-07-05,17:00
+593,BRA-14,BRA,GER,GER,Brazil 2014,Group Stage,C,Brazil,Germany,1-7,1,7,False,False,False,,,Germany,Marco Antonio Rodríguez,Estádio Mineirão,Belo Horizonte,58141,2014-07-08,17:00
+594,BRA-14,NET,ARG,ARG,Brazil 2014,Group Stage,C,Netherlands,Argentina,0-0(a.e.t.),0,0,True,False,True,2,4,Argentina,Cüneyt Çakır,Arena Corinthians,São Paulo,63267,2014-07-09,17:00
+595,BRA-14,BRA,NET,NET,Brazil 2014,Group Stage,C,Brazil,Netherlands,0-3,0,3,False,False,False,,,Netherlands,Djamel Haimoudi,Estádio Nacional Mané Garrincha,Brasília,68034,2014-07-12,17:00
+596,BRA-14,GER,ARG,GER,Brazil 2014,Group Stage,C,Germany,Argentina,1-0(a.e.t.),1,0,True,False,False,,,Germany,Nicola Rizzoli,Maracanã Stadium,Rio de Janeiro,74738,2014-07-13,16:00
+597,RUS-18,RUS,SAU,RUS,Russia 2018,Group Stage,A,Russia,Saudi Arabia,5-0,5,0,False,False,False,,,Russia,Néstor Pitana,Luzhniki Stadium,Moscow,78011,2018-06-14,18:00
+598,RUS-18,EGY,URU,URU,Russia 2018,Group Stage,A,Egypt,Uruguay,0-1,0,1,False,False,False,,,Uruguay,Björn Kuipers,Central Stadium,Yekaterinburg,27015,2018-06-15,17:00
+599,RUS-18,RUS,EGY,RUS,Russia 2018,Group Stage,A,Russia,Egypt,3-1,3,1,False,False,False,,,Russia,Enrique Cáceres,Krestovsky Stadium,Saint Petersburg,64468,2018-06-19,21:00
+600,RUS-18,URU,SAU,URU,Russia 2018,Group Stage,A,Uruguay,Saudi Arabia,1-0,1,0,False,False,False,,,Uruguay,Clément Turpin,Rostov Arena,Rostov-on-Don,42678,2018-06-20,18:00
+601,RUS-18,URU,RUS,URU,Russia 2018,Group Stage,A,Uruguay,Russia,3-0,3,0,False,False,False,,,Uruguay,Malang Diedhiou,Cosmos Arena,Samara,41970,2018-06-25,18:00
+602,RUS-18,SAU,EGY,SAU,Russia 2018,Group Stage,A,Saudi Arabia,Egypt,2-1,2,1,False,False,False,,,Saudi Arabia,Wilmar Roldán,Volgograd Arena,Volgograd,36823,2018-06-25,17:00
+603,RUS-18,MOR,IRA,IRA,Russia 2018,Group Stage,B,Morocco,Iran,0-1,0,1,False,False,False,,,Iran,Cüneyt Çakır,Krestovsky Stadium,Saint Petersburg,62548,2018-06-15,18:00
+604,RUS-18,POR,SPA,DRAW,Russia 2018,Group Stage,B,Portugal,Spain,3-3,3,3,False,False,False,,,Draw,Gianluca Rocchi,Fisht Olympic Stadium,Sochi,43866,2018-06-15,21:00
+605,RUS-18,POR,MOR,POR,Russia 2018,Group Stage,B,Portugal,Morocco,1-0,1,0,False,False,False,,,Portugal,Mark Geiger,Luzhniki Stadium,Moscow,78011,2018-06-20,15:00
+606,RUS-18,IRA,SPA,SPA,Russia 2018,Group Stage,B,Iran,Spain,0-1,0,1,False,False,False,,,Spain,Andrés Cunha,Kazan Arena,Kazan,42718,2018-06-20,21:00
+607,RUS-18,IRA,POR,DRAW,Russia 2018,Group Stage,B,Iran,Portugal,1-1,1,1,False,False,False,,,Draw,Enrique Cáceres,Mordovia Arena,Saransk,41685,2018-06-25,21:00
+608,RUS-18,SPA,MOR,DRAW,Russia 2018,Group Stage,B,Spain,Morocco,2-2,2,2,False,False,False,,,Draw,Ravshan Irmatov,Kaliningrad Stadium,Kaliningrad,33973,2018-06-25,20:00
+609,RUS-18,FRA,AUS,FRA,Russia 2018,Group Stage,C,France,Australia,2-1,2,1,False,False,False,,,France,Andrés Cunha,Kazan Arena,Kazan,41279,2018-06-16,13:00
+610,RUS-18,PER,DEN,DEN,Russia 2018,Group Stage,C,Peru,Denmark,0-1,0,1,False,False,False,,,Denmark,Bakary Gassama,Mordovia Arena,Saransk,40502,2018-06-16,19:00
+611,RUS-18,DEN,AUS,DRAW,Russia 2018,Group Stage,C,Denmark,Australia,1-1,1,1,False,False,False,,,Draw,Antonio Mateu Lahoz,Cosmos Arena,Samara,40727,2018-06-21,16:00
+612,RUS-18,FRA,PER,FRA,Russia 2018,Group Stage,C,France,Peru,1-0,1,0,False,False,False,,,France,Mohammed Abdulla Hassan Mohamed,Central Stadium,Yekaterinburg,32789,2018-06-21,20:00
+613,RUS-18,DEN,FRA,DRAW,Russia 2018,Group Stage,C,Denmark,France,0-0,0,0,False,False,False,,,Draw,Sandro Ricci,Luzhniki Stadium,Moscow,78011,2018-06-26,17:00
+614,RUS-18,AUS,PER,PER,Russia 2018,Group Stage,C,Australia,Peru,0-2,0,2,False,False,False,,,Peru,Sergei Karasev,Fisht Olympic Stadium,Sochi,44073,2018-06-26,17:00
+615,RUS-18,ARG,ICE,DRAW,Russia 2018,Group Stage,D,Argentina,Iceland,1-1,1,1,False,False,False,,,Draw,Szymon Marciniak,Otkritie Arena,Moscow,44190,2018-06-16,16:00
+616,RUS-18,CRO,NIG,CRO,Russia 2018,Group Stage,D,Croatia,Nigeria,2-0,2,0,False,False,False,,,Croatia,Sandro Ricci,Kaliningrad Stadium,Kaliningrad,31136,2018-06-16,21:00
+617,RUS-18,ARG,CRO,CRO,Russia 2018,Group Stage,D,Argentina,Croatia,0-3,0,3,False,False,False,,,Croatia,Ravshan Irmatov,Nizhny Novgorod Stadium,Nizhny Novgorod,43319,2018-06-21,21:00
+618,RUS-18,NIG,ICE,NIG,Russia 2018,Group Stage,D,Nigeria,Iceland,2-0,2,0,False,False,False,,,Nigeria,Matthew Conger,Volgograd Arena,Volgograd,40904,2018-06-22,18:00
+619,RUS-18,NIG,ARG,ARG,Russia 2018,Group Stage,D,Nigeria,Argentina,1-2,1,2,False,False,False,,,Argentina,Cüneyt Çakır,Krestovsky Stadium,Saint Petersburg,64468,2018-06-26,21:00
+620,RUS-18,ICE,CRO,CRO,Russia 2018,Group Stage,D,Iceland,Croatia,1-2,1,2,False,False,False,,,Croatia,Antonio Mateu Lahoz,Rostov Arena,Rostov-on-Don,43472,2018-06-26,21:00
+621,RUS-18,COS,SER,SER,Russia 2018,Group Stage,E,Costa Rica,Serbia,0-1,0,1,False,False,False,,,Serbia,Malang Diedhiou,Cosmos Arena,Samara,41432,2018-06-17,16:00
+622,RUS-18,BRA,SWI,DRAW,Russia 2018,Group Stage,E,Brazil,Switzerland,1-1,1,1,False,False,False,,,Draw,César Arturo Ramos,Rostov Arena,Rostov-on-Don,43109,2018-06-17,21:00
+623,RUS-18,BRA,COS,BRA,Russia 2018,Group Stage,E,Brazil,Costa Rica,2-0,2,0,False,False,False,,,Brazil,Björn Kuipers,Krestovsky Stadium,Saint Petersburg,64468,2018-06-22,15:00
+624,RUS-18,SER,SWI,SWI,Russia 2018,Group Stage,E,Serbia,Switzerland,1-2,1,2,False,False,False,,,Switzerland,Felix Brych,Kaliningrad Stadium,Kaliningrad,33167,2018-06-22,20:00
+625,RUS-18,SER,BRA,BRA,Russia 2018,Group Stage,E,Serbia,Brazil,0-2,0,2,False,False,False,,,Brazil,Alireza Faghani,Otkritie Arena,Moscow,44190,2018-06-27,21:00
+626,RUS-18,SWI,COS,DRAW,Russia 2018,Group Stage,E,Switzerland,Costa Rica,2-2,2,2,False,False,False,,,Draw,Clément Turpin,Nizhny Novgorod Stadium,Nizhny Novgorod,43319,2018-06-27,21:00
+627,RUS-18,GER,MEX,MEX,Russia 2018,Group Stage,F,Germany,Mexico,0-1,0,1,False,False,False,,,Mexico,Alireza Faghani,Luzhniki Stadium,Moscow,78011,2018-06-17,18:00
+628,RUS-18,SWE,SKO,SWE,Russia 2018,Group Stage,F,Sweden,South Korea,1-0,1,0,False,False,False,,,Sweden,Joel Aguilar,Nizhny Novgorod Stadium,Nizhny Novgorod,42300,2018-06-18,15:00
+629,RUS-18,SKO,MEX,MEX,Russia 2018,Group Stage,F,South Korea,Mexico,1-2,1,2,False,False,False,,,Mexico,Milorad Mažić,Rostov Arena,Rostov-on-Don,43472,2018-06-23,18:00
+630,RUS-18,GER,SWE,GER,Russia 2018,Group Stage,F,Germany,Sweden,2-1,2,1,False,False,False,,,Germany,Szymon Marciniak,Fisht Olympic Stadium,Sochi,44287,2018-06-23,21:00
+631,RUS-18,SKO,GER,SKO,Russia 2018,Group Stage,F,South Korea,Germany,2-0,2,0,False,False,False,,,South Korea,Mark Geiger,Kazan Arena,Kazan,41835,2018-06-27,17:00
+632,RUS-18,MEX,SWE,SWE,Russia 2018,Group Stage,F,Mexico,Sweden,0-3,0,3,False,False,False,,,Sweden,Néstor Pitana,Central Stadium,Yekaterinburg,33061,2018-06-27,19:00
+633,RUS-18,BEL,PAN,BEL,Russia 2018,Group Stage,G,Belgium,Panama,3-0,3,0,False,False,False,,,Belgium,Janny Sikazwe,Fisht Olympic Stadium,Sochi,43257,2018-06-18,18:00
+634,RUS-18,TUN,ENG,ENG,Russia 2018,Group Stage,G,Tunisia,England,1-2,1,2,False,False,False,,,England,Wilmar Roldán,Volgograd Arena,Volgograd,41064,2018-06-18,21:00
+635,RUS-18,BEL,TUN,BEL,Russia 2018,Group Stage,G,Belgium,Tunisia,5-2,5,2,False,False,False,,,Belgium,Jair Marrufo,Otkritie Arena,Moscow,44190,2018-06-23,15:00
+636,RUS-18,ENG,PAN,ENG,Russia 2018,Group Stage,G,England,Panama,6-1,6,1,False,False,False,,,England,Gehad Grisha,Nizhny Novgorod Stadium,Nizhny Novgorod,43319,2018-06-24,15:00
+637,RUS-18,ENG,BEL,BEL,Russia 2018,Group Stage,G,England,Belgium,0-1,0,1,False,False,False,,,Belgium,Damir Skomina,Kaliningrad Stadium,Kaliningrad,33973,2018-06-28,20:00
+638,RUS-18,PAN,TUN,TUN,Russia 2018,Group Stage,G,Panama,Tunisia,1-2,1,2,False,False,False,,,Tunisia,Nawaf Shukralla,Mordovia Arena,Saransk,37168,2018-06-28,21:00
+639,RUS-18,COL,JAP,JAP,Russia 2018,Group Stage,H,Colombia,Japan,1-2,1,2,False,False,False,,,Japan,Damir Skomina,Mordovia Arena,Saransk,40842,2018-06-19,15:00
+640,RUS-18,POL,SEN,SEN,Russia 2018,Group Stage,H,Poland,Senegal,1-2,1,2,False,False,False,,,Senegal,Nawaf Shukralla,Otkritie Arena,Moscow,44190,2018-06-19,18:00
+641,RUS-18,JAP,SEN,DRAW,Russia 2018,Group Stage,H,Japan,Senegal,2-2,2,2,False,False,False,,,Draw,Gianluca Rocchi,Central Stadium,Yekaterinburg,32572,2018-06-24,20:00
+642,RUS-18,POL,COL,COL,Russia 2018,Group Stage,H,Poland,Colombia,0-3,0,3,False,False,False,,,Colombia,César Arturo Ramos,Kazan Arena,Kazan,42873,2018-06-24,21:00
+643,RUS-18,JAP,POL,POL,Russia 2018,Group Stage,H,Japan,Poland,0-1,0,1,False,False,False,,,Poland,Janny Sikazwe,Volgograd Arena,Volgograd,42189,2018-06-28,17:00
+644,RUS-18,SEN,COL,COL,Russia 2018,Group Stage,H,Senegal,Colombia,0-1,0,1,False,False,False,,,Colombia,Milorad Mažić,Cosmos Arena,Samara,41970,2018-06-28,18:00
+645,RUS-18,FRA,ARG,FRA,Russia 2018,Round of 16,,France,Argentina,4-3,4,3,False,False,False,,,France,Alireza Faghani,Kazan Arena,Kazan,42873,2018-06-30,17:00
+646,RUS-18,URU,POR,URU,Russia 2018,Round of 16,,Uruguay,Portugal,2-1,2,1,False,False,False,,,Uruguay,César Arturo Ramos,Fisht Olympic Stadium,Sochi,44287,2018-06-30,21:00
+647,RUS-18,SPA,RUS,RUS,Russia 2018,Round of 16,,Spain,Russia,1-1(a.e.t.),1,1,True,False,True,3,4,Russia,Björn Kuipers,Luzhniki Stadium,Moscow,78011,2018-07-01,17:00
+648,RUS-18,CRO,DEN,CRO,Russia 2018,Round of 16,,Croatia,Denmark,1-1(a.e.t.),1,1,True,False,True,3,2,Croatia,Néstor Pitana,Nizhny Novgorod Stadium,Nizhny Novgorod,40851,2018-07-01,21:00
+649,RUS-18,BRA,MEX,BRA,Russia 2018,Round of 16,,Brazil,Mexico,2-0,2,0,False,False,False,,,Brazil,Gianluca Rocchi,Cosmos Arena,Samara,41970,2018-07-02,18:00
+650,RUS-18,BEL,JAP,BEL,Russia 2018,Round of 16,,Belgium,Japan,3-2,3,2,False,False,False,,,Belgium,Malang Diedhiou,Rostov Arena,Rostov-on-Don,41466,2018-07-02,21:00
+651,RUS-18,SWE,SWI,SWE,Russia 2018,Round of 16,,Sweden,Switzerland,1-0,1,0,False,False,False,,,Sweden,Damir Skomina,Krestovsky Stadium,Saint Petersburg,64042,2018-07-03,17:00
+652,RUS-18,COL,ENG,ENG,Russia 2018,Round of 16,,Colombia,England,1-1(a.e.t.),1,1,True,False,True,3,4,England,Mark Geiger,Otkritie Arena,Moscow,44190,2018-07-03,21:00
+653,RUS-18,URU,FRA,FRA,Russia 2018,Quarter-finals,,Uruguay,France,0-2,0,2,False,False,False,,,France,Néstor Pitana,Nizhny Novgorod Stadium,Nizhny Novgorod,43319,2018-07-06,17:00
+654,RUS-18,BRA,BEL,BEL,Russia 2018,Quarter-finals,,Brazil,Belgium,1-2,1,2,False,False,False,,,Belgium,Milorad Mažić,Kazan Arena,Kazan,42873,2018-07-06,21:00
+655,RUS-18,SWE,ENG,ENG,Russia 2018,Quarter-finals,,Sweden,England,0-2,0,2,False,False,False,,,England,Björn Kuipers,Cosmos Arena,Samara,39991,2018-07-07,18:00
+656,RUS-18,RUS,CRO,CRO,Russia 2018,Quarter-finals,,Russia,Croatia,2-2(a.e.t.),2,2,True,False,True,3,4,Croatia,Sandro Ricci,Fisht Olympic Stadium,Sochi,44287,2018-07-07,21:00
+657,RUS-18,FRA,BEL,FRA,Russia 2018,Semi-finals,,France,Belgium,1-0,1,0,False,False,False,,,France,Andrés Cunha,Krestovsky Stadium,Saint Petersburg,64286,2018-07-10,21:00
+658,RUS-18,CRO,ENG,CRO,Russia 2018,Semi-finals,,Croatia,England,2-1(a.e.t.),2,1,True,False,False,,,Croatia,Cüneyt Çakır,Luzhniki Stadium,Moscow,78011,2018-07-11,21:00
+659,RUS-18,BEL,ENG,BEL,Russia 2018,Third Place Match,,Belgium,England,2-0,2,0,False,False,False,,,Belgium,Alireza Faghani,Krestovsky Stadium,Saint Petersburg,64406,2018-07-14,17:00
+660,RUS-18,FRA,CRO,FRA,Russia 2018,Final,,France,Croatia,4-2,4,2,False,False,False,,,France,Néstor Pitana,Luzhniki Stadium,Moscow,78011,2018-07-15,18:00
+661,QUA-22,NET,USA,NET,Quatar 2022,Group Stage,A,Netherlands,United States,3-1,3,1,False,False,False,,,Netherlands,Wilton Sampaio,Khalifa International Stadium,Al Rayyan,44846,2022-12-03,18:00
+662,QUA-22,ARG,AUS,ARG,Quatar 2022,Group Stage,A,Argentina,Australia,2-1,2,1,False,False,False,,,Argentina,Szymon Marciniak,Ahmad bin Ali Stadium,Al Rayyan,45032,2022-12-03,22:00
+663,QUA-22,FRA,POL,FRA,Quatar 2022,Group Stage,A,France,Poland,3-1,3,1,False,False,False,,,France,Jesús Valenzuela,Al Thumama Stadium,Doha,40989,2022-12-04,18:00
+664,QUA-22,ENG,SEN,ENG,Quatar 2022,Group Stage,A,England,Senegal,3-0,3,0,False,False,False,,,England,Iván Barton,Al Bayt Stadium,Al Khor,65985,2022-12-04,22:00
+665,QUA-22,JAP,CRO,CRO,Quatar 2022,Group Stage,A,Japan,Croatia,1-1(a.e.t.),1,1,True,False,True,1,3,Croatia,Ismail Elfath,Al Janoub Stadium,Al Wakrah,42523,2022-12-05,18:00
+666,QUA-22,BRA,SKO,BRA,Quatar 2022,Group Stage,A,Brazil,South Korea,4-1,4,1,False,False,False,,,Brazil,Clément Turpin,Stadium 974,Doha,43847,2022-12-05,22:00
+667,QUA-22,MOR,SPA,MOR,Quatar 2022,Group Stage,B,Morocco,Spain,0-0(a.e.t.),0,0,True,False,True,3,0,Morocco,Fernando Rapallini,Education City Stadium,Al Rayyan,44667,2022-12-06,18:00
+668,QUA-22,POR,SWI,POR,Quatar 2022,Group Stage,B,Portugal,Switzerland,6-1,6,1,False,False,False,,,Portugal,César Arturo Ramos,Lusail Stadium,Lusail,83720,2022-12-06,22:00
+669,QUA-22,CRO,BRA,CRO,Quatar 2022,Group Stage,B,Croatia,Brazil,1-1(a.e.t.),1,1,True,False,True,4,2,Croatia,Michael Oliver,Education City Stadium,Al Rayyan,43893,2022-12-09,18:00
+670,QUA-22,NET,ARG,ARG,Quatar 2022,Group Stage,B,Netherlands,Argentina,2-2(a.e.t.),2,2,True,False,True,3,4,Argentina,Antonio Mateu Lahoz,Lusail Stadium,Lusail,88235,2022-12-09,22:00
+671,QUA-22,MOR,POR,MOR,Quatar 2022,Group Stage,B,Morocco,Portugal,1-0,1,0,False,False,False,,,Morocco,Facundo Tello,Al Thumama Stadium,Doha,44198,2022-12-10,18:00
+672,QUA-22,ENG,FRA,FRA,Quatar 2022,Group Stage,B,England,France,1-2,1,2,False,False,False,,,France,Wilton Sampaio,Al Bayt Stadium,Al Khor,68895,2022-12-10,22:00
+673,QUA-22,ARG,CRO,ARG,Quatar 2022,Group Stage,C,Argentina,Croatia,3-0,3,0,False,False,False,,,Argentina,Daniele Orsato,Lusail Stadium,Lusail,88966,2022-12-13,22:00
+674,QUA-22,FRA,MOR,FRA,Quatar 2022,Group Stage,C,France,Morocco,2-0,2,0,False,False,False,,,France,César Arturo Ramos,Al Bayt Stadium,Al Khor,68294,2022-12-14,22:00
+675,QUA-22,CRO,MOR,CRO,Quatar 2022,Group Stage,C,Croatia,Morocco,2-1,2,1,False,False,False,,,Croatia,Abdulrahman Al-Jassim,Khalifa International Stadium,Al Rayyan,44137,2022-12-17,18:00
+676,QUA-22,ARG,FRA,ARG,Quatar 2022,Group Stage,C,Argentina,France,3-3(a.e.t.),3,3,True,False,True,4,2,Argentina,Szymon Marciniak,Lusail Stadium,Lusail,88966,2022-12-18,18:00
