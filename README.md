@@ -10,7 +10,7 @@ Hosted here is a robust Python-based data pipeline designed extract historical F
 
 ## Database Schema Architecture
 
-The target database (FIFAWCDB) enforces strict relational integrity across 5 core tables, utilizing composite keys to handle tournament-specific entities:
+The target database **(FIFAWCDB)** enforces strict relational integrity across 5 core tables, utilizing composite keys to handle tournament-specific entities:
 
 - **Tournaments_Master**: Historical tournament metadata.
 - **Teams_Master**: Unified catalog of competing nations (including a generated relational anchor for Draw matches).
