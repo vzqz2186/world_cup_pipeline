@@ -1,59 +1,43 @@
 # FIFA World Cup Data Engineering Pipeline
 
-**Author:** Daniel Vazquez
+**Author:** Daniel Vazquez\
+**Status:** Active development\
+**Language:** Python\
+**Libraries:** Pandas, BeautifulSoup, Requests, SQLAlchemy, Unidecode\
+**Database:** Microsoft SQL Server
 
-**Status:** Active development (Data Ingestion Phase)
+Hosted here is a robust Python-based data pipeline designed extract historical FIFA World Cup data (1930–2022) from the web, structure and normalize the data onto pandas DataFrames, and load it into a relational SQL Server database.
 
-Hosted here is a robust Python-based web scraper and data cleaning pipeline designed to extract and standardize historical FIFA World Cup data (1930–2022). This project goes beyond simple scraping by implementing advanced data validation and transformation logic to ensure the dataset is "Database Ready" for SQL Server and AWS environments.
+## Database Schema Architecture
 
-This pipeline achieves the following:
+The target database (FIFAWCDB) enforces strict relational integrity across 5 core tables, utilizing composite keys to handle tournament-specific entities:
 
-* **Complex Date Normalization:** Implements regex-based extraction to handle varying Wikipedia date formats, standardizing all to ISO-8601 `YYYY-MM-DD` while maintaining an audit trail of null values.
+- **Tournaments_Master**: Historical tournament metadata.
+- **Teams_Master**: Unified catalog of competing nations (including a generated relational anchor for Draw matches).
+- **Players_Master**: Master registry tracking players uniquely by an engineered natural hash key combining Country, Name, and Date of Birth to prevent identity collisions.
+- **Matches**: Match-by-match metrics using custom MS SQL dialect precision types (TIME(0)) for pristine storage.
+- **Rosters / Groups**: Child bridge tables using Composite Primary Keys to track multi-tournament call-ups and tournament stages seamlessly.
+
+## Data Quality and Engineering Highlights
+
+* **Complex Date Normalization:** Implemented an aggressive RegEx and type-coercion cleaning pipeline in the scraping layer.
 * **HTML Structural Adaptability:** Features a resilient scraping logic that navigates shifting Wikipedia templates.
-* **Edge Case Management:** Automatically identifies and handles "Walkovers" (e.g., 1938 Sweden vs. Austria), ensuring match statistics like attendance, referees, and winners are correctly nullified rather than filled with garbage data.
+* **Edge Case Management:** Automatically identifies and handles edge cases (such as the 1938 Walkover game) and structural anomalies in the data (such as footnotes, missing appereances, inconsistent data types), ensuring match statistics like attendance, referees, and winners are correctly nullified rather than filled with garbage data.
 * **Unicode & Type Safety:** Standardizes specialized characters (En/Em dashes) and ensures numeric fields are cleaned of commas and strings to maintain strict integer/float types for SQL compatibility.
-
-## Data Architecture
-
-The pipeline generates three primary datasets, structured for a relational schema:
-
-1.  **squads_ds**: Full rosters including Player Name, Position, Birth Date (standardized), Club, and Captaincy status.
-2.  **groups_ds**: Group stage standings, points, and qualification status.
-3.  **matches_ds**: Comprehensive match records including:
-    * Home/Away teams, scores, and calculated Winners.
-    * Match Stage, Attendance, Stadium, and Hosting City.
-    * Special outcomes: Extra Time (a.e.t), Golden Goals, and Penalty results.
-
-## Tech Features
-
-- **Python 3.x**
-- **BeautifulSoup4:** Precise DOM navigation using CSS selectors.
-- **Pandas & NumPy:** For complex data transformation and `NaN` management.
-- **Regex (re):** For pattern matching in inconsistent string formats.
-
-## Getting started
-
-**Prerequisites**
-
-Ensure Python 3.x is installed along with the following libraries:
-- beautifulsoup4
-- requests
-- pandas
-- numpy
+* **Text & Accent Normalization:** Integrated unicodedata NKFD normalization to strip accents globally and applied historical name translation mapping to enforce strict string alignment.
 
 ## Usage
-
 ```
 # Clone the repository
-git clone https://github.com/vzqz2186/world-cup-scraper.git
+git clone https://github.com/vzqz2186/world-cup-pipeline.git
+
+# install dependencies
+pip install beautifulsoup4 requests pandas sqlalchemy pyodbc
 
 # Run the pipeline
-python fifa_wc_scraper.py
+python fifa_wc_madness.py
 ```
 
 ## Roadmap
-
-- [ ] **Relational Modeling:** Implement Primary and Foreign Key mapping (Player IDs, Team IDs).
-- [ ] **SQL Server Integration:** Write the automated ingestion script using `SQLAlchemy`.
 - [ ] **Cloud Migration:** Build a pipeline to load cleaned dataframes into **AWS S3** and **Amazon Redshift**.
 - [ ] **2026 Expansion:** Add support for the 48-team tournament format.
