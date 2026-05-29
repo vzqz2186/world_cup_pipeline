@@ -1,5 +1,5 @@
 """
-FIFA World Cup data scraper
+FIFA World Cup data pipeline
 
      Author: Daniel Vazquez
 
